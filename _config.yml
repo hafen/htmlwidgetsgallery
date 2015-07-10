@@ -105,7 +105,7 @@ widgets:
        [metricsgraphicsjs](http://metricsgraphicsjs.org),[d3](http://d3js.org)
     ghuser: hrbrmstr
     ghrepo: metricsgraphics
-    stars:
+    stars: 49
     tags: visualization,general
     cran_url:
     release: stable
