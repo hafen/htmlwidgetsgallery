@@ -109,6 +109,28 @@ $( function() {
     $("#shown-widgets").html($(".grid-item:visible").length);
   })
 
+  $('.widget-tags').each(function(i) {
+    var tagVals = $(this).html().split(',');
+    $(this).addClass('hidden');
+    for (var j = 0; j < tagVals.length; j++) {
+      var el = document.createElement("a");
+      el.className = 'taghref';
+      el.textContent = tagVals[j];
+      el.href = 'javascript:;';
+      $(this).before(el);
+      if (j < tagVals.length - 1) {
+        $(this).before(",");
+      }
+    };
+  });
+
+  $('.taghref').click(function() {
+    $('#tagfilter > option').removeAttr("selected");
+    $('#tagfilter > option[value="' + $(this).html() + '"]').attr("selected", "selected");
+    $('select').material_select();
+    $('#tagfilter').trigger('change');
+  });
+
   $('.star-frame').load(function() {
       var doc = this.contentDocument || this.contentWindow.document;
       var target = doc.getElementById("gh-count");
@@ -132,6 +154,7 @@ $( function() {
   $('#gridsort').trigger('change');
   $('select').material_select();
   handleFilter();
+  $("#shown-widgets").html($(".grid-item:visible").length);
 });
 
 function debounce( fn, threshold ) {
