@@ -33,6 +33,25 @@ help.start()
 
 library(trelliscope)
 
+widgetThumbnail2 <- function(wgt,filename){
+  library(htmltools)
+  library(webshot)
+  library(magrittr)
+  
+  tagList(
+    wgt
+  ) %>%
+    html_print %>%
+    # get forward slash on windows
+    normalizePath(.,winslash="/") %>%
+    # replace drive:/ with drive:// so C:/ becomes C://
+    gsub(x=.,pattern = ":/",replacement="://") %>%
+    # appends file:/// to make valid uri
+    paste0("file:///",.) %>%
+    # screenshot it for lots of good reasons
+    webshot( file = filename, delay = 3, vwidth = ww, vheight = hh )
+}
+
 library(datamaps)
 p <- datamaps(width = ww, height = hh)
 widgetThumbnail(p, thumbs["datamaps"])
@@ -361,3 +380,27 @@ scatterMatrix(data = iris, width = ww, height = hh)
 library(d3heatmap)
 p <- d3heatmap(mtcars, scale = "column", colors = "Spectral", width = ww, height = hh)
 widgetThumbnail(p, "rstudio-d3heatmap.png")
+
+library(rpivotTable)
+data(mtcars)
+p <- rpivotTable(
+  Titanic
+  , rows = c("Class","Sex","Age")
+  , cols = "Survived"
+  , aggregatorName = "Sum as Fraction of Rows"
+  , vals = "Freq"
+  , rendererName = "Heatmap"
+)
+widgetThumbnail2(p,thumbs["rpivotTable"])
+
+
+library(qtlcharts)
+# simulate some data
+n.ind <- 500
+n.gene <- 10000
+expr <- matrix(rnorm(n.ind * n.gene, (1:n.ind)/n.ind*3), ncol=n.gene)
+dimnames(expr) <- list(paste0("ind", 1:n.ind),
+                       paste0("gene", 1:n.gene))
+# generate the plot
+p <- iboxplot(expr, chartOpts= list(height = hh, width =ww))
+widgetThumbnail2(p,thumbs["qtlcharts"])

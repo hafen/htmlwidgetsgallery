@@ -430,37 +430,23 @@ widgets:
     short: >
       An R htmlwidgets interface to phylotree.js, a JavaScript interactive viewer of phylogenetic trees.
     description: >
-  # -
-  #   name: sweep
-  #   thumbnail:
-  #   url: https://github.com/jalapic/sweep
-  #   jslibs: >
-
-  #   ghuser: jalapic
-  #   ghrepo: sweep
-  #   stars: 2
-  #   tags:
-  #   cran:
-  #   release:
-  #   examples:
-  #   ghauthor: jalapic
-  #   short: >
-  #   description: >
-  # -
-  #   name: testjs
-  #   thumbnail: images/kbroman-testjs.png
-  #   url: https://github.com/kbroman/testjs
-  #   jslibs: >
-  #   ghuser: kbroman
-  #   ghrepo: testjs
-  #   stars: 8
-  #   tags:
-  #   cran:
-  #   release:
-  #   examples:
-  #   ghauthor: kbroman
-  #   short: >
-  #   description: >
+  -
+     name: qtlcharts
+     thumbnail: images/kbroman-qtlcharts.png
+     url: http://kbroman.org/qtlcharts/
+     jslibs: >
+      [d3](http://d3js.org), [d3-tip](https://github.com/Caged/d3-tip)
+     ghuser: kbroman
+     ghrepo: qtlcharts
+     stars: 40
+     tags: visualization, qtl, genetics
+     cran:
+     release: 0.5-15
+     examples:
+     ghauthor: kbroman
+     short: >
+      Interactive Graphics FOR QTL Experiments
+     description: >
   -
     name: highchartR
     thumbnail:
