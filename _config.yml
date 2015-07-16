@@ -384,23 +384,6 @@ widgets:
       R htmlwidget to export other htmlwidgets and SVG as png.
     description: >
   -
-    name: trailr
-    thumbnail:
-    url: https://github.com/timelyportfolio/trailr
-    jslibs: >
-       [D3-trail](https://github.com/bmschmidt/D3-trail)
-    ghuser: timelyportfolio
-    ghrepo: trailr
-    stars: 4
-    tags: visualization,general
-    cran:
-    release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
-    ghauthor: timelyportfolio
-    short: >
-      D3-trail htmlwidget for R.
-    description: >
-  -
     name: imageR
     thumbnail: images/timelyportfolio-imageR.png
     url: https://github.com/timelyportfolio/imageR
@@ -416,22 +399,6 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       Intense-images htmlwidget for R
-    description: >
-  -
-    name: plottableR
-    thumbnail:
-    url: https://github.com/timelyportfolio/plottableR
-    jslibs: >
-    ghuser: timelyportfolio
-    ghrepo: plottableR
-    stars: 1
-    tags:
-    cran:
-    release:
-    examples:
-    ghauthor: timelyportfolio
-    short: >
-      An htmlwidget for Plottable from Palantir.
     description: >
   -
     name: chartist
