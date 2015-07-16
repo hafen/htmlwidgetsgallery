@@ -39,7 +39,7 @@
     <div class="row">
       <form class="col s12">
         <div class="row">
-          <div class="input-field col s3">
+          <div class="input-field col s2">
             <!-- <i class="material-icons prefix">sort_by_alpha</i> -->
             <select id="gridsort">
               <option value="name">Name</option>
@@ -49,7 +49,7 @@
             </select>
             <label>Sort</label>
           </div>
-          <div class="input-field col s3">
+          <div class="input-field col s2">
             <!-- <i class="material-icons prefix">search</i> -->
             <input type="text" id="textfilter" class="validate" placeholder="search name, author, description">
             <label>Text Filter</label>
@@ -70,30 +70,46 @@
             </select>
             <label>Tag Filter</label>
           </div>
+          <div class="col s2">
+            <div class="switch-label tooltipped" data-position="top" data-delay="10" data-tooltip="Show/hide widgets not yet on CRAN"><label>CRAN Only</label></div>
+            <div class="switch cran-switch">
+              <label>
+                <!-- Off -->
+                <input id="crancheckbox" checked type="checkbox">
+                <span class="lever"></span>
+                <!-- On -->
+              </label>
+            </div>
+          </div>
         </div>
       </form>
     </div>
     </div>
     <!-- <div class="container"> -->
     <div>
+      <div class="container">
+        <div class="row">
+          Showing <span id="shown-widgets"></span> of {{ site.widgets.size }}
+        </div>
+      </div>
       <div class="row" id="grid">
         {% for widget in site.widgets %}
         <div class="card grid-item" data-author="{{ widget.ghauthor }}">
           <div class="card-image waves-effect waves-block waves-light">
             <div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
-            <img class="activator valign" src="
+            <a href="{{ widget.url }}">
+            <img class="valign" src="
             {% if widget.thumbnail %}
               {{ widget.thumbnail }}
             {% else %}
               http://dummyimage.com/350x300/efefef/f8f8f8&text=no thumbnail
             {% endif %}
-            ">
+            "></a>
             </div>
           </div>
           <div class="card-content widget-content">
-            <span class="card-title activator grey-text text-darken-4">
-              {{ widget.name }}</span>
-              <a href="{{ widget.url }}"><i class="material-icons widget-link-icon">open_in_new</i></a>
+            <a href="{{ widget.url }}"><span class="card-title grey-text text-darken-4">
+              {{ widget.name }}</span></a>
               <span class="github-btn github-watchers" data-processed="1"><a class="gh-btn" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/" target="_blank"><span class="gh-ico"></span><span class="gh-text">Star</span></a><a class="gh-count" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/stargazers" target="_blank" style="display: block;">{{ widget.stars | plus:0 }}</a></span>
               <!-- <span class="github-btn hide" data-user="{{ widget.ghuser }}" data-repo="{{ widget.ghrepo }}" data-type="watch" data-count="1"></span> -->
               <!-- <a class="github-button" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}" data-style="mega" data-count-href="/{{ widget.ghuser }}/{{ widget.ghrepo }}/stargazers" data-count-api="/repos/{{ widget.ghuser }}/{{ widget.ghrepo }}#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star {{ widget.ghuser }}/{{ widget.ghrepo }} on GitHub">Star</a> -->
@@ -104,6 +120,7 @@
             <p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags">{{ widget.tags }}</span></p>
             <p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">js libraries:</span> <span class="widget-jslibs">{{ widget.jslibs | markdownify | remove: '<p>' | remove: '</p>' }}</span></p>
             <div class="more-icon activator"><i class="material-icons right">more_vert</i></div>
+            <div class="hidden widget-cran">{{ widget.cran }}</div>
           </div>
           <div class="card-reveal" style="display: none; -webkit-transform: translateY(0px);">
             <span class="card-title grey-text text-darken-4">{{ widget.name }}<i class="material-icons right">close</i></span>

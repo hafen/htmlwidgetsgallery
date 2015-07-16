@@ -36,11 +36,7 @@ $( function() {
       $("#authorfilter").val(0);
       $("#authorfilter").material_select();
     }
-    qsRegex = new RegExp( $textfilter.val(), 'gi' );
-    $grid.isotope({ filter: function() {
-      var curText = $(this).find('.card-title').html() + " " + $(this).find('.widget-author').html() + " " + $(this).find('.widget-shortdesc').html();
-      return qsRegex ? curText.match( qsRegex ) : true;
-    }});
+    handleFilter();
   }, 100 ) );
 
   $('#gridsort').change(function() {
@@ -55,12 +51,7 @@ $( function() {
     $("#tagfilter").val(0);
     $("#tagfilter").material_select();
     $("#textfilter").val("");
-    var authorVal = $(this).val();
-    $grid.isotope({ filter : function() {
-      if(authorVal == "")
-        return true;
-      return $(this).find('.widget-author').html() == authorVal;
-    }});
+    handleFilter();
   });
 
   $('#tagfilter').change(function() {
@@ -68,19 +59,55 @@ $( function() {
     $("#authorfilter").val(0);
     $("#authorfilter").material_select();
     $("#textfilter").val("");
-    var tagVal = $(this).val();
-    $grid.isotope({ filter : function() {
-      if(tagVal == "")
-        return true;
-      var tags = $(this).find('.widget-tags').html();
-      tags = tags.split(',');
-      var res = false;
-      for (var i = 0; i < tags.length; i++) {
-        res = res || (tags[i] == tagVal);
-      };
-      return res;
-    }});
+    handleFilter();
   });
+
+  $("#crancheckbox").click(function() {
+    handleFilter();
+  });
+
+  function handleFilter() {
+    var tagVal = $('#tagfilter').val();
+    var authorVal = $('#authorfilter').val();
+    var textVal = $('#textfilter').val();
+
+    $grid.isotope({ filter : function() {
+
+      var textBool = true;
+      if(textVal !== '') {
+        qsRegex = new RegExp( textVal, 'gi' );
+        curText = $(this).find('.card-title').html() + " " + $(this).find('.widget-author').html() + " " + $(this).find('.widget-shortdesc').html();
+        textBool = qsRegex ? curText.match( qsRegex ) : true;
+      }
+
+      var tagBool = true;
+      if(tagVal !== '') {
+        tagBool = false;
+        var tags = $(this).find('.widget-tags').html();
+        tags = tags.split(',');
+        for (var i = 0; i < tags.length; i++) {
+          tagBool = tagBool || (tags[i] == tagVal);
+        };
+      }
+
+      var authorBool = true;
+      if(authorVal !== '') {
+        authorBool = false;
+        authorBool = $(this).find('.widget-author').html() == authorVal;
+      }
+
+      var cranBool = $(this).find('.widget-cran').html() === "true";
+      if($("#crancheckbox:checked").length == 0) {
+        cranBool = true;
+      }
+
+      return textBool && tagBool && authorBool && cranBool;
+    }}, function() {alert('hi');});
+  }
+
+  $grid.on('arrangeComplete', function(event, laidOutItems) {
+    $("#shown-widgets").html($(".grid-item:visible").length);
+  })
 
   $('.star-frame').load(function() {
       var doc = this.contentDocument || this.contentWindow.document;
@@ -104,6 +131,7 @@ $( function() {
 
   $('#gridsort').trigger('change');
   $('select').material_select();
+  handleFilter();
 });
 
 function debounce( fn, threshold ) {

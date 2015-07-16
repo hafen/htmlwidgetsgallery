@@ -17,7 +17,7 @@ widgets:
     ghrepo: datamaps
     stars: 5
     tags: visualization,maps
-    cran_url:
+    cran:
     release: alpha
     examples:
     ghauthor: ramnathv
@@ -36,7 +36,7 @@ widgets:
     ghrepo: rChartsCalmap
     stars: 11
     tags: visualization,calendar,heatmap
-    cran_url:
+    cran:
     release: stable
     examples:
     ghauthor: ramnathv
@@ -56,7 +56,7 @@ widgets:
     ghrepo: leaflet
     stars: 102
     tags: visualization,maps
-    cran_url:
+    cran: true
     release: stable
     examples:
     ghauthor: rstudio
@@ -73,7 +73,7 @@ widgets:
     ghrepo: DT
     stars: 74
     tags: tables
-    cran_url:
+    cran: true
     release: stable
     examples:
     ghauthor: rstudio
@@ -90,7 +90,7 @@ widgets:
     ghrepo: dygraphs
     stars: 90
     tags: visualization,timeseries
-    cran_url:
+    cran: true
     release: stable
     examples:
     ghauthor: rstudio
@@ -107,7 +107,7 @@ widgets:
     ghrepo: metricsgraphics
     stars: 49
     tags: visualization,general
-    cran_url:
+    cran: true
     release: stable
     examples:
     ghauthor: hrbrmstr
@@ -124,7 +124,7 @@ widgets:
     ghrepo: streamgraph
     stars: 37
     tags: visualization,general
-    cran_url:
+    cran:
     release: stable
     examples:
     ghauthor: hrbrmstr
@@ -141,7 +141,7 @@ widgets:
     ghrepo: networkD3
     stars: 93
     tags: visualization,networks
-    cran_url:
+    cran: true
     release: stable
     examples:
     ghauthor: christophergandrud
@@ -158,7 +158,7 @@ widgets:
     ghrepo: rthreejs
     stars: 46
     tags: visualization,3D
-    cran_url:
+    cran: true
     release: stable
     examples:
     ghauthor: bwlewis
@@ -175,7 +175,7 @@ widgets:
     ghrepo: DiagrammeR
     stars: 303
     tags: visualization,diagram
-    cran_url:
+    cran: true
     release: stable
     examples:
     ghauthor: rich-iannone
@@ -192,7 +192,7 @@ widgets:
     ghrepo: sigmaGraph
     stars: 2
     tags: visualization,networks
-    cran_url:
+    cran:
     release: alpha
     examples:
     ghauthor: jpmarindiaz
@@ -207,7 +207,7 @@ widgets:
     ghrepo: bubbleCloud
     stars: 2
     tags: visualization,bubbles
-    cran_url:
+    cran:
     release: alpha
     examples:
     ghauthor: jpmarindiaz
@@ -223,7 +223,7 @@ widgets:
     ghrepo: d3plus
     stars: 6
     tags: visualization,networks
-    cran_url:
+    cran:
     release: alpha
     examples:
     ghauthor: jpmarindiaz
@@ -240,7 +240,7 @@ widgets:
     ghrepo: isotope
     stars: 1
     tags: grid
-    cran_url:
+    cran:
     release: alpha
     examples:
     ghauthor: jpmarindiaz
@@ -257,7 +257,7 @@ widgets:
     ghrepo: D3TableFilter
     stars: 10
     tags: tables
-    cran_url:
+    cran:
     release: stable
     examples:
     ghauthor: ThomasSiegmund
@@ -274,7 +274,7 @@ widgets:
     ghrepo: rhandsontable
     stars: 12
     tags: tables
-    cran_url:
+    cran: true
     release: alpha
     examples:
     ghauthor: jrowen
@@ -291,7 +291,7 @@ widgets:
     ghrepo: rcdimple
     stars: 11
     tags: visualization,general
-    cran_url:
+    cran:
     release: stable
     examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
     ghauthor: timelyportfolio
@@ -308,7 +308,7 @@ widgets:
     ghrepo: sortableR
     stars: 11
     tags: visualization,general
-    cran_url:
+    cran:
     release: stable
     examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
     ghauthor: timelyportfolio
@@ -325,7 +325,7 @@ widgets:
     ghrepo: parcoords
     stars: 12
     tags: visualization,general
-    cran_url:
+    cran:
     release: stable
     examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
     ghauthor: timelyportfolio
@@ -342,7 +342,7 @@ widgets:
     ghrepo: listviewer
     stars: 11
     tags: visualization,general
-    cran_url:
+    cran:
     release: stable
     examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
     ghauthor: timelyportfolio
@@ -359,7 +359,7 @@ widgets:
     ghrepo: svgPanZoom
     stars: 9
     tags: visualization,general
-    cran_url:
+    cran: true
     release: stable
     examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
     ghauthor: timelyportfolio
@@ -376,7 +376,7 @@ widgets:
     ghrepo: exportwidget
     stars: 6
     tags: visualization,general
-    cran_url:
+    cran:
     release: stable
     examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
     ghauthor: timelyportfolio
@@ -393,7 +393,7 @@ widgets:
     ghrepo: trailr
     stars: 4
     tags: visualization,general
-    cran_url:
+    cran:
     release: stable
     examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
     ghauthor: timelyportfolio
@@ -410,7 +410,7 @@ widgets:
     ghrepo: imageR
     stars: 3
     tags: visualization,general
-    cran_url:
+    cran:
     release: stable
     examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
     ghauthor: timelyportfolio
@@ -426,7 +426,7 @@ widgets:
     ghrepo: plottableR
     stars: 1
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: timelyportfolio
@@ -443,7 +443,7 @@ widgets:
     ghrepo: chartist
     stars: 23
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: yutannihilation
@@ -460,7 +460,7 @@ widgets:
     ghrepo: phylowidget
     stars: 6
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: sdwfrost
@@ -477,7 +477,7 @@ widgets:
   #   ghrepo: sweep
   #   stars: 2
   #   tags:
-  #   cran_url:
+  #   cran:
   #   release:
   #   examples:
   #   ghauthor: jalapic
@@ -492,7 +492,7 @@ widgets:
   #   ghrepo: testjs
   #   stars: 8
   #   tags:
-  #   cran_url:
+  #   cran:
   #   release:
   #   examples:
   #   ghauthor: kbroman
@@ -508,7 +508,7 @@ widgets:
     ghrepo: highchartR
     stars: 3
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: jcizel
@@ -525,7 +525,7 @@ widgets:
     ghrepo: great-circles
     stars: 5
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: homeaway
@@ -542,7 +542,7 @@ widgets:
     ghrepo: sparkline
     stars: 65
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: htmlwidgets
@@ -559,7 +559,7 @@ widgets:
     ghrepo: rWordCloud
     stars: 7
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: adymimos
@@ -576,7 +576,7 @@ widgets:
     ghrepo: c3r
     stars: 4
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: HarlanH
@@ -593,7 +593,7 @@ widgets:
     ghrepo: dcStockR
     stars: 6
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: yutannihilation
@@ -610,7 +610,7 @@ widgets:
     ghrepo: scatterMatrixD3
     stars: 5
     tags:
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: jcizel
@@ -627,7 +627,7 @@ widgets:
     ghrepo: rbokeh
     stars: 74
     tags: visualization,general
-    cran_url:
+    cran:
     release:
     examples:
     ghauthor: hafen
@@ -644,7 +644,7 @@ widgets:
     ghrepo: d3heatmap
     stars: 58
     tags: visualization,heatmap,general
-    cran_url:
+    cran: true
     release:
     examples:
     ghauthor: rstudio

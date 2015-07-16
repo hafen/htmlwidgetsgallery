@@ -53,3 +53,16 @@
 .widget-shortdesc {
   color: #999999 !important;
 }
+
+.switch-label {
+  line-height: 18px;
+}
+
+.cran-switch {
+  padding-top: 8px;
+}
+
+.hidden {
+  display: none;
+}
+
