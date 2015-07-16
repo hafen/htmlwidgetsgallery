@@ -404,3 +404,8 @@ dimnames(expr) <- list(paste0("ind", 1:n.ind),
 # generate the plot
 p <- iboxplot(expr, chartOpts= list(height = hh, width =ww))
 widgetThumbnail2(p,thumbs["qtlcharts"])
+
+
+library(formattable)
+# manual
+

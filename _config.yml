@@ -617,3 +617,19 @@ widgets:
     short: >
       Interface to pivottable library, to have a powerful pivot table on R, knitr & shiny
     description: >  
+  -
+    name: formattable
+    thumbnail: 
+    url: http://renkun.me/formattable/
+    jslibs: >
+    ghuser: renkun-ken
+    ghrepo: formattable
+    stars: 61
+    tags: visualization,table,markdown
+    cran: 
+    release: 
+    examples:
+    ghauthor: renkun-ken
+    short: >
+      Formattable Data Structures
+    description: >  
