@@ -616,7 +616,7 @@ widgets:
     description: >
   -
     name: rpivotTable
-    thumbnail: images/smartinsightsfromdata-rpivotTable.png
+    thumbnail:
     url: https://github.com/smartinsightsfromdata/rpivotTable
     jslibs: >
       [pivottable](http://nicolas.kruchten.com/pivottable/examples/)
@@ -624,10 +624,10 @@ widgets:
     ghrepo: rpivotTable
     stars: 60
     tags: visualization,pivot,table
-    cran: 
+    cran:
     release: 0.1.5.2
     examples:
     ghauthor: smartinsightsfromdata
     short: >
       Interface to pivottable library, to have a powerful pivot table on R, knitr & shiny
-    description: >  
+    description: >
