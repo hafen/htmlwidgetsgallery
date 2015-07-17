@@ -684,3 +684,20 @@ widgets:
     short: >
       Circle Plot with Bundled Edges
     description: >  
+  -
+    name: katexR
+    thumbnail: images/timelyportfolio-katexR.png
+    url: http://www.buildingwidgets.com/blog/2015/2/5/week-05-katex-in-r
+    jslibs: >
+      [KaTeX](https://github.com/Khan/KaTeX)
+    ghuser: timelyportfolio
+    ghrepo: katexR
+    stars: 3
+    tags: math, LaTeX, KaTeX, html
+    cran: 
+    release: 
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      htmlwidget for KaTeX in R
+    description: >  

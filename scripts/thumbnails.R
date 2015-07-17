@@ -454,3 +454,12 @@ library(edgebundleR)
 require(igraph)
 ws_graph <- watts.strogatz.game(1, 50, 4, 0.05)
 p<-edgebundle(ws_graph,tension = 0.1,fontsize = 18,padding=40)
+widgetThumbnail2(p,thumbs["edgebundleR"])
+
+
+
+library(katexR)
+library(htmltools)
+
+p <- katex( "\\frac{1}{n} \\sum_{i=i}^{n} x_{i}", tag="p", style = "font-size:300%;" )
+widgetThumbnail2(p,thumbs["katexR"])
