@@ -430,37 +430,23 @@ widgets:
     short: >
       An R htmlwidgets interface to phylotree.js, a JavaScript interactive viewer of phylogenetic trees.
     description: >
-  # -
-  #   name: sweep
-  #   thumbnail:
-  #   url: https://github.com/jalapic/sweep
-  #   jslibs: >
-
-  #   ghuser: jalapic
-  #   ghrepo: sweep
-  #   stars: 2
-  #   tags:
-  #   cran:
-  #   release:
-  #   examples:
-  #   ghauthor: jalapic
-  #   short: >
-  #   description: >
-  # -
-  #   name: testjs
-  #   thumbnail: images/kbroman-testjs.png
-  #   url: https://github.com/kbroman/testjs
-  #   jslibs: >
-  #   ghuser: kbroman
-  #   ghrepo: testjs
-  #   stars: 8
-  #   tags:
-  #   cran:
-  #   release:
-  #   examples:
-  #   ghauthor: kbroman
-  #   short: >
-  #   description: >
+  -
+     name: qtlcharts
+     thumbnail: images/kbroman-qtlcharts.png
+     url: http://kbroman.org/qtlcharts/
+     jslibs: >
+      [d3](http://d3js.org), [d3-tip](https://github.com/Caged/d3-tip)
+     ghuser: kbroman
+     ghrepo: qtlcharts
+     stars: 40
+     tags: visualization, qtl, genetics
+     cran:
+     release: 0.5-15
+     examples:
+     ghauthor: kbroman
+     short: >
+      Interactive Graphics FOR QTL Experiments
+     description: >
   -
     name: highchartR
     thumbnail:
@@ -630,4 +616,258 @@ widgets:
     ghauthor: smartinsightsfromdata
     short: >
       Interface to pivottable library, to have a powerful pivot table on R, knitr & shiny
+    description: >
+  -
+    name: formattable
+    thumbnail: images/renkun-ken-formattable.png
+    url: http://renkun.me/formattable/
+    jslibs: >
+    ghuser: renkun-ken
+    ghrepo: formattable
+    stars: 61
+    tags: visualization,table,markdown
+    cran:
+    release:
+    examples:
+    ghauthor: renkun-ken
+    short: >
+      Formattable Data Structures
+    description: >
+  -
+    name: bubbles
+    thumbnail: images/jcheng5-bubbles.png
+    url: http://github.com/jcheng5/bubbles
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: jcheng5
+    ghrepo: bubbles
+    stars: 12
+    tags: visualization,bubbles,scatter,plot
+    cran:
+    release:
+    examples:
+    ghauthor: jcheng5
+    short: >
+      d3 Bubble Chart htmlwidget
+    description: >
+  -
+    name: pairsD3
+    thumbnail: images/garthtarr-pairsD3.png
+    url: https://github.com/garthtarr/pairsD3
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: garthtarr
+    ghrepo: pairsD3
+    stars: 12
+    tags: visualization,scatter,plot,pairs,matrix
+    cran:
+    release:
+    examples:
+    ghauthor: garthtarr
+    short: >
+      D3 Scatterplot Matrices
+    description: >
+  -
+    name: edgebundleR
+    thumbnail: images/garthtarr-edgebundler.png
+    url: https://github.com/garthtarr/edgebundleR
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: garthtarr
+    ghrepo: edgebundleR
+    stars: 3
+    tags: visualization,d3,hierarchical,layout,bundle,network
+    cran:
+    release:
+    examples:
+    ghauthor: garthtarr
+    short: >
+      Circle Plot with Bundled Edges
+    description: >
+  -
+    name: katexR
+    thumbnail: images/timelyportfolio-katexR.png
+    url: http://www.buildingwidgets.com/blog/2015/2/5/week-05-katex-in-r
+    jslibs: >
+      [KaTeX](https://github.com/Khan/KaTeX)
+    ghuser: timelyportfolio
+    ghrepo: katexR
+    stars: 5
+    tags: math, LaTeX, KaTeX, html
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      htmlwidget for KaTeX in R
+    description: >
+  -
+    name: navr
+    thumbnail: images/timelyportfolio-navr.png
+    url: http://www.buildingwidgets.com/blog/2015/3/11/week-10-responsive-toolbars
+    jslibs: >
+      [responsive-nav](http://responsive-nav.com/)
+    ghuser: timelyportfolio
+    ghrepo: navr
+    stars: 3
+    tags: toolbar, navigation, html, responsive
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      htmlwidget for Responsive-Nav
+    description: >
+  -
+    name: gamer
+    thumbnail: images/timelyportfolio-gamer.png
+    url: http://www.buildingwidgets.com/blog/2015/4/21/week-16-gamer
+    jslibs: >
+      [EntangledClone](https://github.com/Cacodaimon/EntangledClone)
+    ghuser: timelyportfolio
+    ghrepo: gamer
+    stars: 0
+    tags: game
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      games as htmlwidgets for R
+    description: >
+  -
+    name: materializeR
+    thumbnail: images/timelyportfolio-materializeR.png
+    url: http://www.buildingwidgets.com/blog/2015/5/1/week-17-materializer
+    jslibs: >
+      [materialize](http://materializecss.com/)
+    ghuser: timelyportfolio
+    ghrepo: materializeR
+    stars: 3
+    tags: CSS, template, html, framework
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      materialize front-end web framework as an htmlwidget in R
+    description: >
+  -
+    name: comicR
+    thumbnail: images/timelyportfolio-comicR.png
+    url: http://www.buildingwidgets.com/blog/2015/5/8/week-18-comicr
+    jslibs: >
+      [comic.js](https://github.com/balint42/comic.js)
+    ghuser: timelyportfolio
+    ghrepo: comicR
+    stars: 3
+    tags: xkcd, cartoon, comic
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      comic (xkcd-like) effects for R output
+    description: >
+  -
+    name: loryR
+    thumbnail: images/timelyportfolio-loryR.png
+    url: http://www.buildingwidgets.com/blog/2015/5/14/week-19-loryr-slider
+    jslibs: >
+      [lory.js](http://meandmax.github.io/lory/)
+    ghuser: timelyportfolio
+    ghrepo: loryR
+    stars: 6
+    tags: slider, html
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      slider htmlwidget for your images based on lory.js
+    description: >
+  -
+    name: d3vennR
+    thumbnail: images/timelyportfolio-d3vennR.png
+    url: http://www.buildingwidgets.com/blog/2015/6/5/week-22-d3vennr
+    jslibs: >
+      [d3.js](http://d3js.org), [venn.js](https://github.com/benfred/venn.js)
+    ghuser: timelyportfolio
+    ghrepo: d3vennR
+    stars: 4
+    tags: visualization, sets, venn, Euler
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      htmlwidget for interactive Venn/Euler diagrams in R
+    description: >
+  -
+    name: flowtypeR
+    thumbnail: images/timelyportfolio-flowtypeR.png
+    url: http://www.buildingwidgets.com/blog/2015/6/17/week-24-flowtyper
+    jslibs: >
+      [flowtype]http://simplefocus.com/flowtype)
+    ghuser: timelyportfolio
+    ghrepo: flowtypeR
+    stars: 0
+    tags: html, text
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      R htmlwidget for flowtype.js
+    description: >
+  -
+    name: sweetalertR
+    thumbnail: images/timelyportfolio-sweetalertR.png
+    url: http://www.buildingwidgets.com/blog/2015/6/29/week-25-sweetalertr
+    jslibs: >
+      [SweetAlert](http://t4t5.github.io/sweetalert)
+    ghuser: timelyportfolio
+    ghrepo: sweetalertR
+    stars: 3
+    tags: html, alert,popup
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      R htmlwidget for SweetAlert
+    description: >
+  -
+    name: sunburstR
+    thumbnail: images/timelyportfolio-sunburstR.png
+    url: http://www.buildingwidgets.com/blog/2015/7/2/week-26-sunburstr
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: timelyportfolio
+    ghrepo: sunburstR
+    stars: 3
+    tags: visualization, sunburst
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      R htmlwidget for d3.js Sequences Sunburst
+    description: >
+  -
+    name: d3hiveR
+    thumbnail: images/timelyportfolio-d3hiveR.png
+    url: http://www.buildingwidgets.com/blog/2015/7/11/week-27-d3hiver
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: timelyportfolio
+    ghrepo: d3hiveR
+    stars: 5
+    tags: visualization, hive
+    cran:
+    release:
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      R htmlwidget for d3.js hive plots
     description: >

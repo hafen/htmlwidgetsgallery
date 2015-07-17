@@ -33,6 +33,25 @@ help.start()
 
 library(trelliscope)
 
+widgetThumbnail2 <- function(wgt,filename){
+  library(htmltools)
+  library(webshot)
+  library(magrittr)
+  
+  tagList(
+    wgt
+  ) %>%
+    html_print %>%
+    # get forward slash on windows
+    normalizePath(.,winslash="/") %>%
+    # replace drive:/ with drive:// so C:/ becomes C://
+    gsub(x=.,pattern = ":/",replacement="://") %>%
+    # appends file:/// to make valid uri
+    paste0("file:///",.) %>%
+    # screenshot it for lots of good reasons
+    webshot( file = filename, delay = 3, cliprect = c(0,0,ww,hh) )
+}
+
 library(datamaps)
 p <- datamaps(width = ww, height = hh)
 widgetThumbnail(p, thumbs["datamaps"])
@@ -361,3 +380,412 @@ scatterMatrix(data = iris, width = ww, height = hh)
 library(d3heatmap)
 p <- d3heatmap(mtcars, scale = "column", colors = "Spectral", width = ww, height = hh)
 widgetThumbnail(p, "rstudio-d3heatmap.png")
+
+library(rpivotTable)
+data(mtcars)
+p <- rpivotTable(
+  Titanic
+  , rows = c("Class","Sex","Age")
+  , cols = "Survived"
+  , aggregatorName = "Sum as Fraction of Rows"
+  , vals = "Freq"
+  , rendererName = "Heatmap"
+)
+widgetThumbnail2(p,thumbs["rpivotTable"])
+
+
+library(qtlcharts)
+# simulate some data
+n.ind <- 500
+n.gene <- 10000
+expr <- matrix(rnorm(n.ind * n.gene, (1:n.ind)/n.ind*3), ncol=n.gene)
+dimnames(expr) <- list(paste0("ind", 1:n.ind),
+                       paste0("gene", 1:n.gene))
+# generate the plot
+p <- iboxplot(expr, chartOpts= list(height = hh, width =ww))
+widgetThumbnail2(p,thumbs["qtlcharts"])
+
+
+library(formattable)
+
+df <- data.frame(
+  id = 1:10,
+  name = c("Bob", "Ashley", "James", "David", "Jenny", 
+           "Hans", "Leo", "John", "Emily", "Lee"), 
+  age = c(28, 27, 30, 28, 29, 29, 27, 27, 31, 30),
+  grade = c("C", "A", "A", "C", "B", "B", "B", "A", "C", "C"),
+  test1_score = c(8.9, 9.5, 9.6, 8.9, 9.1, 9.3, 9.3, 9.9, 8.5, 8.6),
+  test2_score = c(9.1, 9.1, 9.2, 9.1, 8.9, 8.5, 9.2, 9.3, 9.1, 8.8),
+  final_score = c(9, 9.3, 9.4, 9, 9, 8.9, 9.25, 9.6, 8.8, 8.7),
+  registered = c(TRUE, FALSE, TRUE, FALSE, TRUE, TRUE, TRUE, FALSE, FALSE, FALSE),
+  stringsAsFactors = FALSE)
+
+p<-formattable(df, list(
+  age = color_tile("white", "orange"),
+  grade = formatter("span",
+                    style = x ~ ifelse(x == "A", style(color = "green", font.weight = "bold"), NA)),
+  test1_score = color_bar("pink", 0.2),
+  test2_score = color_bar("pink", 0.2),
+  final_score = formatter("span",
+                          style = x ~ style(color = ifelse(rank(-x) <= 3, "green", "gray")),
+                          x ~ sprintf("%.2f (rank: %02d)", x, rank(-x))),
+  registered = formatter("span", 
+                         style = x ~ style(color = ifelse(x, "green", "red")),
+                         x ~ icontext(ifelse(x, "ok", "remove"), ifelse(x, "Yes", "No")))
+))
+  
+widgetThumbnail2(as.htmlwidget(p),thumbs["formattable"])
+
+
+library(bubbles)
+
+p<-bubbles(value = runif(26), label = LETTERS,
+        color = rainbow(26, alpha=NULL)[sample(26)]
+)
+widgetThumbnail2(p,thumbs["bubbles"])
+
+
+data(iris)
+require(pairsD3)
+p<-pairsD3(iris[,1:4],group=iris[,5])
+widgetThumbnail2(p,thumbs["pairsD3"])
+
+library(edgebundleR)
+require(igraph)
+ws_graph <- watts.strogatz.game(1, 50, 4, 0.05)
+p<-edgebundle(ws_graph,tension = 0.1,fontsize = 18,padding=40)
+widgetThumbnail2(p,thumbs["edgebundleR"])
+
+
+
+library(katexR)
+library(htmltools)
+
+p <- katex( "\\frac{1}{n} \\sum_{i=i}^{n} x_{i}", tag="p", style = "font-size:300%;" )
+widgetThumbnail2(p,thumbs["katexR"])
+
+
+library(htmltools)
+library(navr)
+
+# build a simple nav
+n1 <- navr(
+  selector = "#icon-toolbar"
+  ,taglist = tagList(
+    tags$ul(style="line-height:120px; text-align:center; vertical-align:middle;"
+            ,tags$li(
+              style="border: solid 0.1em white;border-radius:100%;line-height:inherit;width:130px;height:130px;"
+              , class="fa fa-beer fa-4x"
+            )
+            ,tags$li(
+              style="border: solid 0.1em white;border-radius:100%;line-height:inherit;width:130px;height:130px;"
+              , class="fa fa-bell fa-4x"
+            )
+    )
+  )
+)
+
+p<-tagList(
+  tags$div(
+    id = "icon-toolbar"
+    ,style="width:300px;height:300px;border: dashed 0.2em lightgray; float:left;"
+    ,tags$h3("Icon with Hover Effects")
+    ,"Hover effects are even nicer when they work with icons, especially our easy
+    to add Font-Awesome icons."
+  )
+  ,add_hover(add_font_awesome(n1),"fade")
+)
+widgetThumbnail2(p,thumbs["navr"])
+
+
+library(gamer)
+p<-entangler()
+widgetThumbnail2(p,thumbs["gamer"])
+
+
+
+
+library(htmltools)
+library(materializeR)
+
+p<-tagList(
+  materialize() # can be anywhere; I like to put first so I don't forget
+  ,HTML('
+     <div class="row">
+        <div class="col s12">
+          <ul class="tabs">
+            <li class="tab col s3"><a href="#test1">Base Graphics</a></li>
+            <li class="tab col s3"><a class="active" href="#test2">lattice</a></li>
+            <li class="tab col s3"><a href="#test3">ggplot2</a></li>
+          </ul>
+        </div>
+        <div id="test1" class="col s12">even base R graphics are powerful.</div>
+        <div id="test2" class="col s12">lattice does amazing plots with little code.</div>
+        <div id="test3" class="col s12">ggplot2 makes non-R envious.</div>
+      </div>  
+  ')
+)
+widgetThumbnail2(p,thumbs["materializeR"])
+
+
+library(comicR)
+library(lattice)
+library(gridSVG)
+library(XML)
+library(pipeR)
+
+dev.new( height = 10, width = 10, noRStudioGD = T )
+dev.set(which = tail(dev.list(),1))
+
+dotplot(variety ~ yield | year * site, data=barley)
+dot_svg <- grid.export(name="")$svg
+dev.off()
+p<-tagList(
+  tags$div(
+    id = "lattice-comic"
+    ,tags$h3("lattice plot with comicR and Google font")
+    ,HTML(saveXML(addCSS(
+      dot_svg
+      , I("svg text { font-family : Architects Daughter; }")
+    )))
+  )
+  ,comicR( "#lattice-comic", ff = 5 )
+)
+widgetThumbnail2(p,thumbs["comicR"])
+
+
+
+library(loryR)
+contour( volcano )
+dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
+coplot(lat ~ long | depth, data = quakes)
+sunflowerplot(iris[, 3:4])
+p<-loryR(
+  rstudio_gallery()
+  , images_per_page = 2
+  , options = list( rewind = TRUE )
+  , height = 500
+  , width = 500
+)
+
+widgetThumbnail2(p,thumbs["loryR"])
+
+
+library(d3vennR)
+venn_tooltip <- function( venn ){
+  venn$x$tasks[length(venn$x$tasks)+1] <- list(
+    htmlwidgets::JS('
+                    function(){
+                    var div = d3.select(this);
+                    
+                    // add a tooltip
+                    var tooltip = d3.select("body").append("div")
+                    .attr("class", "venntooltip")
+                    .style("position", "absolute")
+                    .style("text-align", "center")
+                    .style("width", 128)
+                    .style("height", 16)
+                    .style("background", "#333")
+                    .style("color","#ddd")
+                    .style("padding","2px")
+                    .style("border","0px")
+                    .style("border-radius","8px")
+                    .style("opacity",0);
+                    
+                    div.selectAll("path")
+                    .style("stroke-opacity", 0)
+                    .style("stroke", "#fff")
+                    .style("stroke-width", 0)
+                    
+                    // add listeners to all the groups to display tooltip on mousover
+                    div.selectAll("g")
+                    .on("mouseover", function(d, i) {
+                    
+                    // sort all the areas relative to the current item
+                    venn.sortAreas(div, d);
+                    
+                    // Display a tooltip with the current size
+                    tooltip.transition().duration(400).style("opacity", .9);
+                    tooltip.text(d.size);
+                    
+                    // highlight the current path
+                    var selection = d3.select(this).transition("tooltip").duration(400);
+                    selection.select("path")
+                    .style("stroke-width", 3)
+                    .style("fill-opacity", d.sets.length == 1 ? .4 : .1)
+                    .style("stroke-opacity", 1);
+                    })
+                    
+                    .on("mousemove", function() {
+                    tooltip.style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");
+                    })
+                    
+                    .on("mouseout", function(d, i) {
+                    tooltip.transition().duration(400).style("opacity", 0);
+                    var selection = d3.select(this).transition("tooltip").duration(400);
+                    selection.select("path")
+                    .style("stroke-width", 0)
+                    .style("fill-opacity", d.sets.length == 1 ? .25 : .0)
+                    .style("stroke-opacity", 0);
+                    });
+                    }
+                    ')
+    )
+  venn
+  }
+p<-venn_tooltip(d3vennR(
+  # data from venn.js examples
+  #   https://github.com/benfred/venn.js/blob/master/examples/lastfm.jsonp
+  data = list(
+    list("sets"= list(0), "label"= "Radiohead", "size"= 77348),
+    list("sets"= list(1), "label"= "Thom Yorke", "size"= 5621),
+    list("sets"= list(2), "label"= "John Lennon", "size"= 7773),
+    list("sets"= list(3), "label"= "Kanye West", "size"= 27053),
+    list("sets"= list(4), "label"= "Eminem", "size"= 19056),
+    list("sets"= list(5), "label"= "Elvis Presley", "size"= 15839),
+    list("sets"= list(6), "label"= "Explosions in the Sky", "size"= 10813),
+    list("sets"= list(7), "label"= "Bach", "size"= 9264),
+    list("sets"= list(8), "label"= "Mozart", "size"= 3959),
+    list("sets"= list(9), "label"= "Philip Glass", "size"= 4793),
+    list("sets"= list(10), "label"= "St. Germain", "size"= 4136),
+    list("sets"= list(11), "label"= "Morrissey", "size"= 10945),
+    list("sets"= list(12), "label"= "Outkast", "size"= 8444),
+    list("sets"= list(0, 1), "size"= 4832),
+    list("sets"= list(0, 2), "size"= 2602),
+    list("sets"= list(0, 3), "size"= 6141),
+    list("sets"= list(0, 4), "size"= 2723),
+    list("sets"= list(0, 5), "size"= 3177),
+    list("sets"= list(0, 6), "size"= 5384),
+    list("sets"= list(0, 7), "size"= 2252),
+    list("sets"= list(0, 8), "size"= 877),
+    list("sets"= list(0, 9), "size"= 1663),
+    list("sets"= list(0, 10), "size"= 899),
+    list("sets"= list(0, 11), "size"= 4557),
+    list("sets"= list(0, 12), "size"= 2332),
+    list("sets"= list(1, 2), "size"= 162),
+    list("sets"= list(1, 3), "size"= 396),
+    list("sets"= list(1, 4), "size"= 133),
+    list("sets"= list(1, 5), "size"= 135),
+    list("sets"= list(1, 6), "size"= 511),
+    list("sets"= list(1, 7), "size"= 159),
+    list("sets"= list(1, 8), "size"= 47),
+    list("sets"= list(1, 9), "size"= 168),
+    list("sets"= list(1, 10), "size"= 68),
+    list("sets"= list(1, 11), "size"= 336),
+    list("sets"= list(1, 12), "size"= 172),
+    list("sets"= list(2, 3), "size"= 406),
+    list("sets"= list(2, 4), "size"= 350),
+    list("sets"= list(2, 5), "size"= 1335),
+    list("sets"= list(2, 6), "size"= 145),
+    list("sets"= list(2, 7), "size"= 347),
+    list("sets"= list(2, 8), "size"= 176),
+    list("sets"= list(2, 9), "size"= 119),
+    list("sets"= list(2, 10), "size"= 46),
+    list("sets"= list(2, 11), "size"= 418),
+    list("sets"= list(2, 12), "size"= 146),
+    list("sets"= list(3, 4), "size"= 5465),
+    list("sets"= list(3, 5), "size"= 849),
+    list("sets"= list(3, 6), "size"= 724),
+    list("sets"= list(3, 7), "size"= 273),
+    list("sets"= list(3, 8), "size"= 143),
+    list("sets"= list(3, 9), "size"= 180),
+    list("sets"= list(3, 10), "size"= 218),
+    list("sets"= list(3, 11), "size"= 599),
+    list("sets"= list(3, 12), "size"= 3453),
+    list("sets"= list(4, 5), "size"= 977),
+    list("sets"= list(4, 6), "size"= 232),
+    list("sets"= list(4, 7), "size"= 250),
+    list("sets"= list(4, 8), "size"= 166),
+    list("sets"= list(4, 9), "size"= 97),
+    list("sets"= list(4, 10), "size"= 106),
+    list("sets"= list(4, 11), "size"= 225),
+    list("sets"= list(4, 12), "size"= 1807),
+    list("sets"= list(5, 6), "size"= 196),
+    list("sets"= list(5, 7), "size"= 642),
+    list("sets"= list(5, 8), "size"= 336),
+    list("sets"= list(5, 9), "size"= 165),
+    list("sets"= list(5, 10), "size"= 143),
+    list("sets"= list(5, 11), "size"= 782),
+    list("sets"= list(5, 12), "size"= 332),
+    list("sets"= list(6, 7), "size"= 262),
+    list("sets"= list(6, 8), "size"= 85),
+    list("sets"= list(6, 9), "size"= 284),
+    list("sets"= list(6, 10), "size"= 68),
+    list("sets"= list(6, 11), "size"= 363),
+    list("sets"= list(6, 12), "size"= 218),
+    list("sets"= list(7, 8), "size"= 1581),
+    list("sets"= list(7, 9), "size"= 716),
+    list("sets"= list(7, 10), "size"= 133),
+    list("sets"= list(7, 11), "size"= 254),
+    list("sets"= list(7, 12), "size"= 132),
+    list("sets"= list(8, 9), "size"= 280),
+    list("sets"= list(8, 10), "size"= 53),
+    list("sets"= list(8, 11), "size"= 117),
+    list("sets"= list(8, 12), "size"= 67),
+    list("sets"= list(9, 10), "size"= 57),
+    list("sets"= list(9, 11), "size"= 184),
+    list("sets"= list(9, 12), "size"= 89),
+    list("sets"= list(10, 11), "size"= 51),
+    list("sets"= list(10, 12), "size"= 115),
+    list("sets"= list(11, 12), "size"= 162),
+    list("sets"= list(0, 1, 6), "size"= 480),
+    list("sets"= list(0, 1, 9), "size"= 152),
+    list("sets"= list(0, 2, 7), "size"= 112),
+    list("sets"= list(0, 3, 4), "size"= 715),
+    list("sets"= list(0, 3, 12), "size"= 822),
+    list("sets"= list(0, 4, 5), "size"= 160),
+    list("sets"= list(0, 5, 11), "size"= 292),
+    list("sets"= list(0, 6, 12), "size"= 122),
+    list("sets"= list(0, 7, 11), "size"= 118),
+    list("sets"= list(0, 9, 10), "size" =13),
+    list("sets"= list(2, 7, 8), "size"= 72)
+  )
+))
+widgetThumbnail2(p,thumbs["d3vennR"])
+
+
+
+# using about.html from R help
+library("flowtypeR")
+library("htmltools")
+library("shiny")
+
+# read about.html from the R system help directory
+about_html <- readLines(file.path(R.home("doc/html"),"about.html"))
+p<-  tagList(
+    bootstrapPage(
+      tags$div(class="row"
+               ,tags$div(class="col-xs-6"
+                         ,tags$h1("with flowtype")
+                         ,tags$div(
+                           id="flowtype-resize"
+                           ,style="padding:0em 1em 0em 1em; border: 2px solid gray;"
+                           ,HTML(
+                             about_html[do.call(seq,as.list(grep(x=about_html,pattern="<h2>")+c(0,-1)))]
+                           )
+                         )
+               )
+               ,tags$div(class="col-xs-6"
+                         ,tags$h1("without flowtype")
+                         ,tags$div(id="flowtype-resize"
+                                   ,style="padding:0em 1em 0em 1em; border: 2px dashed gray;"
+                                   ,HTML(
+                                     about_html[do.call(seq,as.list(grep(x=about_html,pattern="<h2>")+c(0,-1)))]
+                                   )
+                         )
+               )
+      )
+    )
+    ,flowtype(
+      '#flowtype-resize'
+      ,minFont = 12
+      ,fontRatio = 20
+    )
+  )
+
+widgetThumbnail2(p,thumbs["flowtypeR"])
+
+
+library(sweetalertR)
+#manual
