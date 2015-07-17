@@ -837,3 +837,37 @@ widgets:
     short: >
       R htmlwidget for SweetAlert
     description: > 
+  -
+    name: sunburstR
+    thumbnail: images/timelyportfolio-sunburstR.png
+    url: http://www.buildingwidgets.com/blog/2015/7/2/week-26-sunburstr
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: timelyportfolio
+    ghrepo: sunburstR
+    stars: 3
+    tags: visualization, sunburst
+    cran: 
+    release: 
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      R htmlwidget for d3.js Sequences Sunburst
+    description: > 
+  -
+    name: d3hiveR
+    thumbnail: images/timelyportfolio-d3hiveR.png
+    url: http://www.buildingwidgets.com/blog/2015/7/11/week-27-d3hiver
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: timelyportfolio
+    ghrepo: d3hiveR
+    stars: 5
+    tags: visualization, hive
+    cran: 
+    release: 
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      R htmlwidget for d3.js hive plots
+    description: > 
