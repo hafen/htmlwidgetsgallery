@@ -496,3 +496,8 @@ p<-tagList(
   ,add_hover(add_font_awesome(n1),"fade")
 )
 widgetThumbnail2(p,thumbs["navr"])
+
+
+library(gamer)
+p<-entangler()
+widgetThumbnail2(p,thumbs["gamer"])

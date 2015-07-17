@@ -718,3 +718,20 @@ widgets:
     short: >
       htmlwidget for Responsive-Nav
     description: >  
+  -
+    name: gamer
+    thumbnail: images/timelyportfolio-gamer.png
+    url: http://www.buildingwidgets.com/blog/2015/4/21/week-16-gamer
+    jslibs: >
+      [EntangledClone](https://github.com/Cacodaimon/EntangledClone)
+    ghuser: timelyportfolio
+    ghrepo: gamer
+    stars: 0
+    tags: game
+    cran: 
+    release: 
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      games as htmlwidgets for R
+    description: >  
