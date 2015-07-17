@@ -526,3 +526,29 @@ p<-tagList(
   ')
 )
 widgetThumbnail2(p,thumbs["materializeR"])
+
+
+library(comicR)
+library(lattice)
+library(gridSVG)
+library(XML)
+library(pipeR)
+
+dev.new( height = 10, width = 10, noRStudioGD = T )
+dev.set(which = tail(dev.list(),1))
+
+dotplot(variety ~ yield | year * site, data=barley)
+dot_svg <- grid.export(name="")$svg
+dev.off()
+p<-tagList(
+  tags$div(
+    id = "lattice-comic"
+    ,tags$h3("lattice plot with comicR and Google font")
+    ,HTML(saveXML(addCSS(
+      dot_svg
+      , I("svg text { font-family : Architects Daughter; }")
+    )))
+  )
+  ,comicR( "#lattice-comic", ff = 5 )
+)
+widgetThumbnail2(p,thumbs["comicR"])
