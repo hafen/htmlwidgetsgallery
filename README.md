@@ -18,7 +18,7 @@ Meta data requirements:
 - `ghuser`: the github user/org where the github repository for the widget resides (required)
 - `ghrepo`: the github repository name where the widget resides (required)
 - `stars`: the number of github stars (will soon move away from hard coding this)
-- `tags`: comma separated list (with no spaces) of tags that describe the widget
+- `tags`: comma separated list (with no spaces) of tags that describe the widget - see other widget's tags for ideas
 - `cran`: `true` if the package is on CRAN, else `false`
 - `examples`: url or list of urls of examples (blog posts, gists, vignettes)
 - `ghauthor`: the github handle for the primary author of the widget
