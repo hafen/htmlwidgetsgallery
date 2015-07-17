@@ -108,13 +108,8 @@
             </div>
           </div>
           <div class="card-content widget-content">
-            <a href="{{ widget.url }}"><span class="card-title grey-text text-darken-4">
-              {{ widget.name }}</span></a>
-              <span class="github-btn github-watchers" data-processed="1"><a class="gh-btn" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/" target="_blank"><span class="gh-ico"></span><span class="gh-text">Star</span></a><a class="gh-count" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/stargazers" target="_blank" style="display: block;">{{ widget.stars | plus:0 }}</a></span>
-              <!-- <span class="github-btn hide" data-user="{{ widget.ghuser }}" data-repo="{{ widget.ghrepo }}" data-type="watch" data-count="1"></span> -->
-              <!-- <a class="github-button" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}" data-style="mega" data-count-href="/{{ widget.ghuser }}/{{ widget.ghrepo }}/stargazers" data-count-api="/repos/{{ widget.ghuser }}/{{ widget.ghrepo }}#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star {{ widget.ghuser }}/{{ widget.ghrepo }} on GitHub">Star</a> -->
-              <!-- <img src="https://img.shields.io/github/stars/badges/shields.svg?style=flat-square"/> -->
-              <!-- <iframe class="star-frame" src="http://ghbtns.com/github-btn.html?user={{ widget.ghuser }}&repo={{ widget.ghrepo }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> -->
+            <a href="{{ widget.url }}"><span class="card-title grey-text text-darken-4">{{ widget.name }}</span></a>
+            <span class="github-btn github-watchers" data-processed="1"><a class="gh-btn" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/" target="_blank"><span class="gh-ico"></span><span class="gh-text">Star</span></a><a class="gh-count" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/stargazers" target="_blank" style="display: block;">{{ widget.stars | plus:0 }}</a></span>
             <p class="widget-shortdesc">{{ widget.short | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             <p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">author:</span> <span class="widget-author widget-meta"><a href="https://github.com/{{ widget.ghauthor }}">{{ widget.ghauthor }}</a></span></p>
             <p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">{{ widget.tags }}</span></p>
@@ -139,37 +134,9 @@
       </div>
     </footer>
 
-    <script>
-      window.widget_authors = {};
-      var cur;
-      {% for widget in site.widgets %}
-        cur = window.widget_authors['{{ widget.ghauthor }}'];
-        if(cur === undefined)
-          cur = 0;
-        window.widget_authors['{{ widget.ghauthor }}'] = cur + 1;
-      {% endfor %}
-
-      window.widget_tags = {};
-      var curtag;
-      {% for widget in site.widgets %}
-        curtag = '{{ widget.tags }}';
-        curtag = curtag.split(',');
-        for (var i = 0; i < curtag.length; i++) {
-          if(curtag[i] !== '') {
-            cur = window.widget_tags[curtag[i]];
-            if(cur === undefined)
-              cur = 0;
-            window.widget_tags[curtag[i]] = cur + 1;
-          }
-        };
-      {% endfor %}
-    </script>
-
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
     <script type="text/javascript" src="js/isotope.min.js"></script>
     <script type="text/javascript" src="js/grid.js"></script>
-    <!-- <script type="text/javascript" src="js/github-buttons.js"></script>
-    <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script> -->
   </body>
 </html>
