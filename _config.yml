@@ -660,7 +660,7 @@ widgets:
     ghrepo: pairsD3
     stars: 12
     tags: visualization,scatter,plot,pairs,matrix
-    cran:
+    cran: true
     release:
     examples:
     ghauthor: garthtarr
@@ -669,7 +669,7 @@ widgets:
     description: >
   -
     name: edgebundleR
-    thumbnail: images/garthtarr-edgebundler.png
+    thumbnail: images/garthtarr-edgebundleR.png
     url: https://github.com/garthtarr/edgebundleR
     jslibs: >
       [d3](http://d3js.org)
