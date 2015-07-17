@@ -652,7 +652,7 @@ widgets:
     description: >  
   -
     name: pairsD3
-    thumbnail: images/garthtarr/pairsD3.png
+    thumbnail: images/garthtarr-pairsD3.png
     url: https://github.com/garthtarr/pairsD3
     jslibs: >
       [d3](http://d3js.org)

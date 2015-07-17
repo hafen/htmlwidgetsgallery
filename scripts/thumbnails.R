@@ -49,7 +49,7 @@ widgetThumbnail2 <- function(wgt,filename){
     # appends file:/// to make valid uri
     paste0("file:///",.) %>%
     # screenshot it for lots of good reasons
-    webshot( file = filename, delay = 3, vwidth = ww, vheight = hh )
+    webshot( file = filename, delay = 3, cliprect = c(0,0,ww,hh) )
 }
 
 library(datamaps)
@@ -436,3 +436,16 @@ p<-formattable(df, list(
   
 widgetThumbnail2(as.htmlwidget(p),thumbs["formattable"])
 
+
+library(bubbles)
+
+p<-bubbles(value = runif(26), label = LETTERS,
+        color = rainbow(26, alpha=NULL)[sample(26)]
+)
+widgetThumbnail2(p,thumbs["bubbles"])
+
+
+data(iris)
+require(pairsD3)
+p<-pairsD3(iris[,1:4],group=iris[,5])
+widgetThumbnail2(p,thumbs["pairsD3"])
