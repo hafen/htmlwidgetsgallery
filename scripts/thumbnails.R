@@ -785,3 +785,7 @@ p<-  tagList(
   )
 
 widgetThumbnail2(p,thumbs["flowtypeR"])
+
+
+library(sweetalertR)
+#manual
