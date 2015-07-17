@@ -463,3 +463,36 @@ library(htmltools)
 
 p <- katex( "\\frac{1}{n} \\sum_{i=i}^{n} x_{i}", tag="p", style = "font-size:300%;" )
 widgetThumbnail2(p,thumbs["katexR"])
+
+
+library(htmltools)
+library(navr)
+
+# build a simple nav
+n1 <- navr(
+  selector = "#icon-toolbar"
+  ,taglist = tagList(
+    tags$ul(style="line-height:120px; text-align:center; vertical-align:middle;"
+            ,tags$li(
+              style="border: solid 0.1em white;border-radius:100%;line-height:inherit;width:130px;height:130px;"
+              , class="fa fa-beer fa-4x"
+            )
+            ,tags$li(
+              style="border: solid 0.1em white;border-radius:100%;line-height:inherit;width:130px;height:130px;"
+              , class="fa fa-bell fa-4x"
+            )
+    )
+  )
+)
+
+p<-tagList(
+  tags$div(
+    id = "icon-toolbar"
+    ,style="width:300px;height:300px;border: dashed 0.2em lightgray; float:left;"
+    ,tags$h3("Icon with Hover Effects")
+    ,"Hover effects are even nicer when they work with icons, especially our easy
+    to add Font-Awesome icons."
+  )
+  ,add_hover(add_font_awesome(n1),"fade")
+)
+widgetThumbnail2(p,thumbs["navr"])
