@@ -19,8 +19,7 @@ Meta data requirements:
 - `ghrepo`: the github repository name where the widget resides (required)
 - `stars`: the number of github stars (need to move away from hard coding this)
 - `tags`: comma separated list (with no spaces) of tags that describe the widget
-- `cran_url`: if on cran, the cran url
-- `release`: this came from the previous yaml - stable/alpha
+- `cran`: `true` if the package is on CRAN, else `false`
 - `examples`: url or list of urls of examples (blog posts, gists, vignettes)
 - `ghauthor`: the github handle for the primary author of the widget
 - `short`: a short (preferably one sentence) description of the package that will be displayed in limited space under the widget thumbnail in the gallery - ideally should be more than "An htmlwidget interface to library x" as that is obvious from jslib, etc. - instead, should describe what you can do with the widget using library x
