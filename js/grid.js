@@ -192,8 +192,16 @@ $( function() {
     $('#tagfilter').trigger('change');
   });
 
-  // default sort is by github stars - trigger it on load
-  $('#gridsort').trigger('change');
+  $.getJSON( "github_meta.json", function(data) {
+    $.each(data, function(key, val) {
+      $('#' + key).html(val.stargazers_count);
+    });
+  })
+  .success(function() {
+    // default sort is by github stars - trigger it on load
+    $('#gridsort').trigger('change');
+  })
+
   // enforce initial filter (CRAN only)
   handleFilter();
   // make sure "Showing x of n" is correct
