@@ -602,7 +602,7 @@ widgets:
     description: >
   -
     name: rpivotTable
-    thumbnail:
+    thumbnail: images/smartinsightsfromdata-rpivotTable.png
     url: https://github.com/smartinsightsfromdata/rpivotTable
     jslibs: >
       [pivottable](http://nicolas.kruchten.com/pivottable/examples/)
@@ -808,7 +808,7 @@ widgets:
     thumbnail: images/timelyportfolio-flowtypeR.png
     url: http://www.buildingwidgets.com/blog/2015/6/17/week-24-flowtyper
     jslibs: >
-      [flowtype]http://simplefocus.com/flowtype)
+      [flowtype](http://simplefocus.com/flowtype)
     ghuser: timelyportfolio
     ghrepo: flowtypeR
     stars: 0
