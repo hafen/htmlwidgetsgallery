@@ -743,3 +743,45 @@ p<-venn_tooltip(d3vennR(
   )
 ))
 widgetThumbnail2(p,thumbs["d3vennR"])
+
+
+
+# using about.html from R help
+library("flowtypeR")
+library("htmltools")
+library("shiny")
+
+# read about.html from the R system help directory
+about_html <- readLines(file.path(R.home("doc/html"),"about.html"))
+p<-  tagList(
+    bootstrapPage(
+      tags$div(class="row"
+               ,tags$div(class="col-xs-6"
+                         ,tags$h1("with flowtype")
+                         ,tags$div(
+                           id="flowtype-resize"
+                           ,style="padding:0em 1em 0em 1em; border: 2px solid gray;"
+                           ,HTML(
+                             about_html[do.call(seq,as.list(grep(x=about_html,pattern="<h2>")+c(0,-1)))]
+                           )
+                         )
+               )
+               ,tags$div(class="col-xs-6"
+                         ,tags$h1("without flowtype")
+                         ,tags$div(id="flowtype-resize"
+                                   ,style="padding:0em 1em 0em 1em; border: 2px dashed gray;"
+                                   ,HTML(
+                                     about_html[do.call(seq,as.list(grep(x=about_html,pattern="<h2>")+c(0,-1)))]
+                                   )
+                         )
+               )
+      )
+    )
+    ,flowtype(
+      '#flowtype-resize'
+      ,minFont = 12
+      ,fontRatio = 20
+    )
+  )
+
+widgetThumbnail2(p,thumbs["flowtypeR"])

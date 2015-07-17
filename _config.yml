@@ -803,3 +803,20 @@ widgets:
     short: >
       htmlwidget for interactive Venn/Euler diagrams in R
     description: > 
+  -
+    name: flowtypeR
+    thumbnail: images/timelyportfolio-flowtypeR.png
+    url: http://www.buildingwidgets.com/blog/2015/6/17/week-24-flowtyper
+    jslibs: >
+      [flowtype]http://simplefocus.com/flowtype)
+    ghuser: timelyportfolio
+    ghrepo: flowtypeR
+    stars: 0
+    tags: html, text
+    cran: 
+    release: 
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      R htmlwidget for flowtype.js
+    description: > 
