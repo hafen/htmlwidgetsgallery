@@ -119,7 +119,7 @@ $( function() {
       el.href = 'javascript:;';
       $(this).before(el);
       if (j < tagVals.length - 1) {
-        $(this).before(",");
+        $(this).before(", ");
       }
     };
   });
