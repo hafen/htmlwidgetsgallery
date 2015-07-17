@@ -633,3 +633,20 @@ widgets:
     short: >
       Formattable Data Structures
     description: >  
+  -
+    name: bubbles
+    thumbnail: images/jcheng5-bubbles.png
+    url: http://github.com/jcheng5/bubbles
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: jcheng5
+    ghrepo: bubbles
+    stars: 12
+    tags: visualization,bubbles,scatter,plot
+    cran: 
+    release: 
+    examples:
+    ghauthor: jcheng5
+    short: >
+      d3 Bubble Chart htmlwidget
+    description: >  
