@@ -650,3 +650,20 @@ widgets:
     short: >
       d3 Bubble Chart htmlwidget
     description: >  
+  -
+    name: pairsD3
+    thumbnail: images/garthtarr/pairsD3.png
+    url: https://github.com/garthtarr/pairsD3
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: garthtarr
+    ghrepo: pairsD3
+    stars: 12
+    tags: visualization,scatter,plot,pairs,matrix
+    cran: 
+    release: 
+    examples:
+    ghauthor: garthtarr
+    short: >
+      D3 Scatterplot Matrices
+    description: >  
