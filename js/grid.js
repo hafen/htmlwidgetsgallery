@@ -51,6 +51,7 @@ $( function() {
     $("#tagfilter").val(0);
     $("#tagfilter").material_select();
     $("#textfilter").val("");
+    $("#crancheckbox").prop('checked', false);
     handleFilter();
   });
 
@@ -59,6 +60,7 @@ $( function() {
     $("#authorfilter").val(0);
     $("#authorfilter").material_select();
     $("#textfilter").val("");
+    $("#crancheckbox").prop('checked', false);
     handleFilter();
   });
 
@@ -93,7 +95,7 @@ $( function() {
       var authorBool = true;
       if(authorVal !== '') {
         authorBool = false;
-        authorBool = $(this).find('.widget-author').html() == authorVal;
+        authorBool = $(this).find('.widget-author > a').html() == authorVal;
       }
 
       var cranBool = $(this).find('.widget-cran').html() === "true";
@@ -102,7 +104,7 @@ $( function() {
       }
 
       return textBool && tagBool && authorBool && cranBool;
-    }}, function() {alert('hi');});
+    }});
   }
 
   $grid.on('arrangeComplete', function(event, laidOutItems) {
