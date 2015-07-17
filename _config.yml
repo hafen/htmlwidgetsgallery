@@ -619,7 +619,7 @@ widgets:
     description: >  
   -
     name: formattable
-    thumbnail: 
+    thumbnail: images/renkun-ken-formattable.png
     url: http://renkun.me/formattable/
     jslibs: >
     ghuser: renkun-ken
