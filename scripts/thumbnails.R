@@ -552,3 +552,20 @@ p<-tagList(
   ,comicR( "#lattice-comic", ff = 5 )
 )
 widgetThumbnail2(p,thumbs["comicR"])
+
+
+
+library(loryR)
+contour( volcano )
+dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
+coplot(lat ~ long | depth, data = quakes)
+sunflowerplot(iris[, 3:4])
+p<-loryR(
+  rstudio_gallery()
+  , images_per_page = 2
+  , options = list( rewind = TRUE )
+  , height = 500
+  , width = 500
+)
+
+widgetThumbnail2(p,thumbs["loryR"])

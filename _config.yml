@@ -769,4 +769,20 @@ widgets:
     short: >
       comic (xkcd-like) effects for R output
     description: >  
-  
+  -
+    name: loryR
+    thumbnail: images/timelyportfolio-loryR.png
+    url: http://www.buildingwidgets.com/blog/2015/5/14/week-19-loryr-slider
+    jslibs: >
+      [lory.js](http://meandmax.github.io/lory/)
+    ghuser: timelyportfolio
+    ghrepo: loryR
+    stars: 6
+    tags: slider, html
+    cran: 
+    release: 
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      slider htmlwidget for your images based on lory.js
+    description: > 
