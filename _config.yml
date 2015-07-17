@@ -786,3 +786,20 @@ widgets:
     short: >
       slider htmlwidget for your images based on lory.js
     description: > 
+  -
+    name: d3vennR
+    thumbnail: images/timelyportfolio-d3vennR.png
+    url: http://www.buildingwidgets.com/blog/2015/6/5/week-22-d3vennr
+    jslibs: >
+      [d3.js](http://d3js.org), [venn.js](https://github.com/benfred/venn.js)
+    ghuser: timelyportfolio
+    ghrepo: d3vennR
+    stars: 4
+    tags: visualization, sets, venn, Euler
+    cran: 
+    release: 
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      htmlwidget for interactive Venn/Euler diagrams in R
+    description: > 
