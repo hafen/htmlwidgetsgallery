@@ -735,3 +735,21 @@ widgets:
     short: >
       games as htmlwidgets for R
     description: >  
+  -
+    name: materializeR
+    thumbnail: images/timelyportfolio-materializeR.png
+    url: http://www.buildingwidgets.com/blog/2015/5/1/week-17-materializer
+    jslibs: >
+      [materialize](http://materializecss.com/)
+    ghuser: timelyportfolio
+    ghrepo: materializeR
+    stars: 3
+    tags: CSS, template, html, framework
+    cran: 
+    release: 
+    examples:
+    ghauthor: timelyportfolio
+    short: >
+      materialize front-end web framework as an htmlwidget in R
+    description: >  
+  
