@@ -667,3 +667,20 @@ widgets:
     short: >
       D3 Scatterplot Matrices
     description: >  
+  -
+    name: edgebundleR
+    thumbnail: images/garthtarr-edgebundler.png
+    url: https://github.com/garthtarr/edgebundleR
+    jslibs: >
+      [d3](http://d3js.org)
+    ghuser: garthtarr
+    ghrepo: edgebundleR
+    stars: 3
+    tags: visualization,d3,hierarchical,layout,bundle,network
+    cran: 
+    release: 
+    examples:
+    ghauthor: garthtarr
+    short: >
+      Circle Plot with Bundled Edges
+    description: >  

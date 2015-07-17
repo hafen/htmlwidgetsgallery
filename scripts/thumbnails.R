@@ -449,3 +449,8 @@ data(iris)
 require(pairsD3)
 p<-pairsD3(iris[,1:4],group=iris[,5])
 widgetThumbnail2(p,thumbs["pairsD3"])
+
+library(edgebundleR)
+require(igraph)
+ws_graph <- watts.strogatz.game(1, 50, 4, 0.05)
+p<-edgebundle(ws_graph,tension = 0.1,fontsize = 18,padding=40)
