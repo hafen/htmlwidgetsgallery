@@ -823,7 +823,7 @@ widgets:
     
      -
     name: vivagRaph
-    thumbnail: images/vivagRaph.png
+    thumbnail: images/keeganhines-vivagRaph.png
     url: https://github.com/keeganhines/vivagRaph
     jslibs: >
       [vivagraph js](https://github.com/anvaka/VivaGraphJS)
