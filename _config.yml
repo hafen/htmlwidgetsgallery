@@ -820,3 +820,19 @@ widgets:
     short: >
       R htmlwidget for d3.js hive plots
     description: >
+  -
+    name: calheatmapR
+    thumbnail: images/durtal-calheatmapR.png
+    url: http://durtal.github.io/calheatmapR/
+    jslibs: >
+      [d3](http://d3js.org), [cal-heatmap](https://kamisama.github.io/cal-heatmap/)
+    ghuser: durtal
+    ghrepo: calheatmapR
+    tags: visualization, heatmap, calendar
+    cran:
+    release:
+    examples:
+    ghauthor: durtal
+    short: >
+      Interface to the cal-heatmap Javascript charting library
+    description: >
