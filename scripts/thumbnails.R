@@ -37,7 +37,7 @@ widgetThumbnail2 <- function(wgt,filename){
   library(htmltools)
   library(webshot)
   library(magrittr)
-  
+
   tagList(
     wgt
   ) %>%
@@ -410,8 +410,8 @@ library(formattable)
 
 df <- data.frame(
   id = 1:10,
-  name = c("Bob", "Ashley", "James", "David", "Jenny", 
-           "Hans", "Leo", "John", "Emily", "Lee"), 
+  name = c("Bob", "Ashley", "James", "David", "Jenny",
+           "Hans", "Leo", "John", "Emily", "Lee"),
   age = c(28, 27, 30, 28, 29, 29, 27, 27, 31, 30),
   grade = c("C", "A", "A", "C", "B", "B", "B", "A", "C", "C"),
   test1_score = c(8.9, 9.5, 9.6, 8.9, 9.1, 9.3, 9.3, 9.9, 8.5, 8.6),
@@ -429,11 +429,11 @@ p<-formattable(df, list(
   final_score = formatter("span",
                           style = x ~ style(color = ifelse(rank(-x) <= 3, "green", "gray")),
                           x ~ sprintf("%.2f (rank: %02d)", x, rank(-x))),
-  registered = formatter("span", 
+  registered = formatter("span",
                          style = x ~ style(color = ifelse(x, "green", "red")),
                          x ~ icontext(ifelse(x, "ok", "remove"), ifelse(x, "Yes", "No")))
 ))
-  
+
 widgetThumbnail2(as.htmlwidget(p),thumbs["formattable"])
 
 
@@ -522,7 +522,7 @@ p<-tagList(
         <div id="test1" class="col s12">even base R graphics are powerful.</div>
         <div id="test2" class="col s12">lattice does amazing plots with little code.</div>
         <div id="test3" class="col s12">ggplot2 makes non-R envious.</div>
-      </div>  
+      </div>
   ')
 )
 widgetThumbnail2(p,thumbs["materializeR"])
@@ -577,7 +577,7 @@ venn_tooltip <- function( venn ){
     htmlwidgets::JS('
                     function(){
                     var div = d3.select(this);
-                    
+
                     // add a tooltip
                     var tooltip = d3.select("body").append("div")
                     .attr("class", "venntooltip")
@@ -591,23 +591,23 @@ venn_tooltip <- function( venn ){
                     .style("border","0px")
                     .style("border-radius","8px")
                     .style("opacity",0);
-                    
+
                     div.selectAll("path")
                     .style("stroke-opacity", 0)
                     .style("stroke", "#fff")
                     .style("stroke-width", 0)
-                    
+
                     // add listeners to all the groups to display tooltip on mousover
                     div.selectAll("g")
                     .on("mouseover", function(d, i) {
-                    
+
                     // sort all the areas relative to the current item
                     venn.sortAreas(div, d);
-                    
+
                     // Display a tooltip with the current size
                     tooltip.transition().duration(400).style("opacity", .9);
                     tooltip.text(d.size);
-                    
+
                     // highlight the current path
                     var selection = d3.select(this).transition("tooltip").duration(400);
                     selection.select("path")
@@ -615,12 +615,12 @@ venn_tooltip <- function( venn ){
                     .style("fill-opacity", d.sets.length == 1 ? .4 : .1)
                     .style("stroke-opacity", 1);
                     })
-                    
+
                     .on("mousemove", function() {
                     tooltip.style("left", (d3.event.pageX) + "px")
                     .style("top", (d3.event.pageY - 28) + "px");
                     })
-                    
+
                     .on("mouseout", function(d, i) {
                     tooltip.transition().duration(400).style("opacity", 0);
                     var selection = d3.select(this).transition("tooltip").duration(400);
@@ -789,3 +789,17 @@ widgetThumbnail2(p,thumbs["flowtypeR"])
 
 library(sweetalertR)
 #manual
+
+
+library(calheatmapR)
+data(pletcher)
+widgetThumbnail2(
+  calheatmapR(data = pletcher, height = "100%") %>%
+    chDomain(domain = "month",
+             subDomain = "day",
+             start = "2012-11-01",
+             range = 5)
+  ,thumbs["calheatmapR"]
+)
+
+

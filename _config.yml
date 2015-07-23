@@ -288,7 +288,7 @@ widgets:
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples: 
     ghauthor: timelyportfolio
     short: >
       sortableR attempts to harness some of the power of Sortable.js.
@@ -304,7 +304,7 @@ widgets:
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples: 
     ghauthor: timelyportfolio
     short: >
       R htmlwidget for parallel-coordinates d3 chart.
@@ -320,7 +320,7 @@ widgets:
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples: 
     ghauthor: timelyportfolio
     short: >
       A package of R htmlwidgets to interactively view and maybe modify lists. Provides one interface to jsoneditor.
@@ -336,7 +336,7 @@ widgets:
     tags: visualization,general
     cran: true
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples: 
     ghauthor: timelyportfolio
     short: >
       gives R users an easy way to add panning and zooming to any R graphics (base, ggplot2, lattice, and lots more).
@@ -352,7 +352,7 @@ widgets:
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples: 
     ghauthor: timelyportfolio
     short: >
       R htmlwidget to export other htmlwidgets and SVG as png.
@@ -368,7 +368,7 @@ widgets:
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples: 
     ghauthor: timelyportfolio
     short: >
       Intense-images htmlwidget for R
@@ -819,4 +819,20 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       R htmlwidget for d3.js hive plots
+    description: >
+  -
+    name: calheatmapR
+    thumbnail: images/durtal-calheatmapR.png
+    url: http://durtal.github.io/calheatmapR/
+    jslibs: >
+      [d3](http://d3js.org), [cal-heatmap](https://kamisama.github.io/cal-heatmap/)
+    ghuser: durtal
+    ghrepo: calheatmapR
+    tags: visualization, heatmap, calendar
+    cran:
+    release:
+    examples:
+    ghauthor: durtal
+    short: >
+      Interface to the cal-heatmap Javascript charting library
     description: >
