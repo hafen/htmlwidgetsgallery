@@ -47,7 +47,6 @@ $( function() {
   // initialize author and tag select dropdowns
   $('select').material_select();
 
-  var qsRegex;
   var $grid = $('#grid');
 
   $grid.isotope({
@@ -76,6 +75,7 @@ $( function() {
 
   // use value of search field to filter
   var $textfilter = $('#textfilter').keyup( debounce( function() {
+    $("#crancheckbox").prop('checked', false);
     if(!$("#tagfilter").val() == "") {
       $("#tagfilter").val(0);
       $("#tagfilter").material_select();
@@ -127,14 +127,14 @@ $( function() {
     var tagVal = $('#tagfilter').val();
     var authorVal = $('#authorfilter').val();
     var textVal = $('#textfilter').val();
+    var qsRegex;
 
     $grid.isotope({ filter : function() {
-
       var textBool = true;
       if(textVal !== '') {
         qsRegex = new RegExp( textVal, 'gi' );
-        curText = $(this).find('.card-title').html() + " " + $(this).find('.widget-author').html() + " " + $(this).find('.widget-shortdesc').html();
-        textBool = qsRegex ? curText.match( qsRegex ) : true;
+        curText = $(this).find('.card-title').html() + " " + $(this).find('.widget-author > a').html() + " " + $(this).find('.widget-shortdesc').html();
+        textBool = qsRegex.test(curText);
       }
 
       var tagBool = true;
