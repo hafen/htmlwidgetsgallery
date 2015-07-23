@@ -19,9 +19,6 @@ $( function() {
     }));
   });
 
-  // initialize author and tag select dropdowns
-  $('select').material_select();
-
   // count tags to populate dropdown
   // and key it so it can be alphabetized by author
   var widget_tags = {};
@@ -46,6 +43,9 @@ $( function() {
       text : widget_tags[val].tag + ' (' + widget_tags[val].count + ')'
     }));
   });
+
+  // initialize author and tag select dropdowns
+  $('select').material_select();
 
   var qsRegex;
   var $grid = $('#grid');
