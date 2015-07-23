@@ -158,14 +158,16 @@ $( function() {
         cranBool = true;
       }
 
-      return textBool && tagBool && authorBool && cranBool;
+      var res = textBool && tagBool && authorBool && cranBool;
+      if(res) {
+        $(this).addClass('is-showing')
+      } else {
+        $(this).removeClass('is-showing')
+      }
+      return res;
     }});
+    $("#shown-widgets").html($('.is-showing').length);
   }
-
-  // update the "Showing x of n" text
-  $grid.on('arrangeComplete', function(event, laidOutItems) {
-    $("#shown-widgets").html($(".grid-item:visible").length);
-  })
 
   // wrap hrefs around the tag listings for each widget
   // so when clicked they can fire off a filter on that tag
