@@ -836,3 +836,19 @@ widgets:
     short: >
       Interface to the cal-heatmap Javascript charting library
     description: >
+  -
+    name: coffeewheel
+    thumbnail: images/armish-coffeewheel.png
+    url: https://github.com/armish/coffeewheel
+    jslibs: >
+       [d3](http://d3js.org)
+    ghuser: armish
+    ghrepo: coffeewheel
+    tags: visualization,treemap,hierarchical,wheel,zoomable
+    cran: false
+    release: 1.0
+    examples: https://github.com/armish/coffeewheel#sample-plotting
+    ghauthor: armish
+    short: >
+      An htmlwidgets-based wrapper for the famaous coffee-wheel visualization.
+    description:
