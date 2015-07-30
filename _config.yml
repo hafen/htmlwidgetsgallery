@@ -170,7 +170,7 @@ widgets:
     description: >
   -
     name: sigmaGraph
-    thumbnail:
+    thumbnail: images/jpmarindiaz-sigmaGraph.png
     url: https://github.com/jpmarindiaz/sigmaGraph
     jslibs: >
        [sigma](http://sigmajs.org)
