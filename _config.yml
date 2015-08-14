@@ -854,7 +854,7 @@ widgets:
     description:
   -
     name: taucharts
-    thumbnail: images/hrbrmstr.png
+    thumbnail: images/hrbrmstr-taucharts.png
     url: https://github.com/hrbrmstr/taucharts
     jslibs: >
        [taucharts](http://www.taucharts.com/),[d3](http://d3js.org)
