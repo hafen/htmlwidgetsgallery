@@ -852,3 +852,20 @@ widgets:
     short: >
       An htmlwidgets-based wrapper for the famaous coffee-wheel visualization.
     description:
+  -
+    name: taucharts
+    thumbnail: images/hrbrmstr.png
+    url: https://github.com/hrbrmstr/taucharts
+    jslibs: >
+       [taucharts](http://www.taucharts.com/),[d3](http://d3js.org)
+    ghuser: hrbrmstr
+    ghrepo: taucharts
+    tags: visualization, general
+    cran: false
+    release: 0.4.0
+    examples:
+      [http://rpubs.com/hrbrmstr/taucharts,http://www.buildingwidgets.com/blog/2015/8/5/week-31-taucharts]
+    ghauthor: taucharts
+    short: >
+      An htmlwidgets wrapper for the full-featured taucharts d3.js charting library.
+    description:
