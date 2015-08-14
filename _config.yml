@@ -863,8 +863,8 @@ widgets:
     tags: visualization, general
     cran: false
     release: 0.4.0
-    examples:
-      [http://rpubs.com/hrbrmstr/taucharts,http://www.buildingwidgets.com/blog/2015/8/5/week-31-taucharts]
+    examples: >
+      http://rpubs.com/hrbrmstr/taucharts,http://www.buildingwidgets.com/blog/2015/8/5/week-31-taucharts
     ghauthor: taucharts
     short: >
       An htmlwidgets wrapper for the full-featured taucharts d3.js charting library.
