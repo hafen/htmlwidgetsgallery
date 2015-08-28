@@ -31,8 +31,8 @@
 }
 
 .widget-list-item a {
-  color: darkgray;
-  border-bottom: 1px dotted darkgray !important;
+  color: #333;
+  border-bottom: 1px dotted #333 !important;
 }
 
 .more-icon {

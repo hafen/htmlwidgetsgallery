@@ -15,7 +15,6 @@ widgets:
        [datamaps](http://datamaps.github.io),[d3](http://d3js.org)
     ghuser: htmlwidgets
     ghrepo: datamaps
-    stars: 5
     tags: visualization,maps
     cran:
     release: alpha
@@ -32,7 +31,6 @@ widgets:
        [Cal-Heatmap](http://kamisama.github.io/cal-heatmap/),[d3](http://d3js.org)
     ghuser: ramnathv
     ghrepo: rChartsCalmap
-    stars: 11
     tags: visualization,calendar,heatmap
     cran:
     release: stable
@@ -50,7 +48,6 @@ widgets:
        [leaflet](http://leafletjs.com)
     ghuser: rstudio
     ghrepo: leaflet
-    stars: 102
     tags: visualization,maps
     cran: true
     release: stable
@@ -67,7 +64,6 @@ widgets:
        [DataTables](https://www.datatables.net)
     ghuser: rstudio
     ghrepo: DT
-    stars: 74
     tags: tables
     cran: true
     release: stable
@@ -84,7 +80,6 @@ widgets:
        [dygraphs](http://dygraphs.com)
     ghuser: rstudio
     ghrepo: dygraphs
-    stars: 90
     tags: visualization,timeseries
     cran: true
     release: stable
@@ -101,7 +96,6 @@ widgets:
        [metricsgraphicsjs](http://metricsgraphicsjs.org),[d3](http://d3js.org)
     ghuser: hrbrmstr
     ghrepo: metricsgraphics
-    stars: 49
     tags: visualization,general
     cran: true
     release: stable
@@ -118,7 +112,6 @@ widgets:
        [d3](http://d3js.org)
     ghuser: hrbrmstr
     ghrepo: streamgraph
-    stars: 37
     tags: visualization,general
     cran:
     release: stable
@@ -135,7 +128,6 @@ widgets:
        [d3](http://d3js.org)
     ghuser: christophergandrud
     ghrepo: networkD3
-    stars: 93
     tags: visualization,networks
     cran: true
     release: stable
@@ -152,7 +144,6 @@ widgets:
        [threejs](http://threejs.org)
     ghuser: bwlewis
     ghrepo: rthreejs
-    stars: 46
     tags: visualization,3D
     cran: true
     release: stable
@@ -169,7 +160,6 @@ widgets:
        [d3](http://d3js.org),viz,[mermaid](http://knsv.github.io/mermaid/)
     ghuser: rich-iannone
     ghrepo: DiagrammeR
-    stars: 303
     tags: visualization,diagram
     cran: true
     release: stable
@@ -180,13 +170,12 @@ widgets:
     description: >
   -
     name: sigmaGraph
-    thumbnail:
+    thumbnail: images/jpmarindiaz-sigmaGraph.png
     url: https://github.com/jpmarindiaz/sigmaGraph
     jslibs: >
        [sigma](http://sigmajs.org)
     ghuser: jpmarindiaz
     ghrepo: sigmaGraph
-    stars: 2
     tags: visualization,networks
     cran:
     release: alpha
@@ -201,7 +190,6 @@ widgets:
     jslibs: >
     ghuser: jpmarindiaz
     ghrepo: bubbleCloud
-    stars: 2
     tags: visualization,bubbles
     cran:
     release: alpha
@@ -217,7 +205,6 @@ widgets:
        [d3plus](http://d3plus.org),[d3](http://d3js.org)
     ghuser: jpmarindiaz
     ghrepo: d3plus
-    stars: 6
     tags: visualization,networks
     cran:
     release: alpha
@@ -234,7 +221,6 @@ widgets:
        [isotope](http://isotope.metafizzy.co)
     ghuser: jpmarindiaz
     ghrepo: isotope
-    stars: 1
     tags: grid
     cran:
     release: alpha
@@ -251,7 +237,6 @@ widgets:
        [tableFilter](http://tablefilter.free.fr),[d3](http://d3js.org)
     ghuser: ThomasSiegmund
     ghrepo: D3TableFilter
-    stars: 10
     tags: tables
     cran:
     release: stable
@@ -268,7 +253,6 @@ widgets:
        [handsontable](http://handsontable.com)
     ghuser: jrowen
     ghrepo: rhandsontable
-    stars: 12
     tags: tables
     cran: true
     release: alpha
@@ -285,7 +269,6 @@ widgets:
        [dimple](http://dimplejs.org),[d3](http://d3js.org)
     ghuser: timelyportfolio
     ghrepo: rcdimple
-    stars: 11
     tags: visualization,general
     cran:
     release: stable
@@ -302,11 +285,10 @@ widgets:
        [sortablejs](http://rubaxa.github.io/Sortable/),[d3](http://d3js.org)
     ghuser: timelyportfolio
     ghrepo: sortableR
-    stars: 11
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples:
     ghauthor: timelyportfolio
     short: >
       sortableR attempts to harness some of the power of Sortable.js.
@@ -319,11 +301,10 @@ widgets:
        parcoords,[d3](http://d3js.org)
     ghuser: timelyportfolio
     ghrepo: parcoords
-    stars: 12
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples:
     ghauthor: timelyportfolio
     short: >
       R htmlwidget for parallel-coordinates d3 chart.
@@ -336,11 +317,10 @@ widgets:
        [jsoneditor](https://github.com/josdejong/jsoneditor),[d3](http://d3js.org)
     ghuser: timelyportfolio
     ghrepo: listviewer
-    stars: 11
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples:
     ghauthor: timelyportfolio
     short: >
       A package of R htmlwidgets to interactively view and maybe modify lists. Provides one interface to jsoneditor.
@@ -353,11 +333,10 @@ widgets:
        [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
     ghuser: timelyportfolio
     ghrepo: svgPanZoom
-    stars: 9
     tags: visualization,general
     cran: true
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples:
     ghauthor: timelyportfolio
     short: >
       gives R users an easy way to add panning and zooming to any R graphics (base, ggplot2, lattice, and lots more).
@@ -370,11 +349,10 @@ widgets:
        exportwidget
     ghuser: timelyportfolio
     ghrepo: exportwidget
-    stars: 6
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples:
     ghauthor: timelyportfolio
     short: >
       R htmlwidget to export other htmlwidgets and SVG as png.
@@ -387,11 +365,10 @@ widgets:
        imageR
     ghuser: timelyportfolio
     ghrepo: imageR
-    stars: 3
     tags: visualization,general
     cran:
     release: stable
-    examples: http://www.buildingwidgets.com/blog/2015/3/18/week-11-dimple-as-htmlwidget
+    examples:
     ghauthor: timelyportfolio
     short: >
       Intense-images htmlwidget for R
@@ -404,7 +381,6 @@ widgets:
       [chartist.js](http://gionkunz.github.io/chartist-js/index.html)
     ghuser: yutannihilation
     ghrepo: chartist
-    stars: 23
     tags:
     cran:
     release:
@@ -421,7 +397,6 @@ widgets:
       [phylotree.js](https://github.com/veg/phylotree.js)
     ghuser: sdwfrost
     ghrepo: phylowidget
-    stars: 6
     tags:
     cran:
     release:
@@ -431,22 +406,21 @@ widgets:
       An R htmlwidgets interface to phylotree.js, a JavaScript interactive viewer of phylogenetic trees.
     description: >
   -
-     name: qtlcharts
-     thumbnail: images/kbroman-qtlcharts.png
-     url: http://kbroman.org/qtlcharts/
-     jslibs: >
+    name: qtlcharts
+    thumbnail: images/kbroman-qtlcharts.png
+    url: http://kbroman.org/qtlcharts/
+    jslibs: >
       [d3](http://d3js.org), [d3-tip](https://github.com/Caged/d3-tip)
-     ghuser: kbroman
-     ghrepo: qtlcharts
-     stars: 40
-     tags: visualization, qtl, genetics
-     cran:
-     release: 0.5-15
-     examples:
-     ghauthor: kbroman
-     short: >
+    ghuser: kbroman
+    ghrepo: qtlcharts
+    tags: visualization, qtl, genetics
+    cran:
+    release: 0.5-15
+    examples:
+    ghauthor: kbroman
+    short: >
       Interactive Graphics FOR QTL Experiments
-     description: >
+    description: >
   -
     name: highchartR
     thumbnail:
@@ -455,7 +429,6 @@ widgets:
       [highcharts](http://www.highcharts.com/products/highcharts)
     ghuser: jcizel
     ghrepo: highchartR
-    stars: 3
     tags:
     cran:
     release:
@@ -472,7 +445,6 @@ widgets:
       [d3](http://d3js.org)
     ghuser: homeaway
     ghrepo: great-circles
-    stars: 5
     tags:
     cran:
     release:
@@ -489,7 +461,6 @@ widgets:
       jquery.sparkline
     ghuser: htmlwidgets
     ghrepo: sparkline
-    stars: 65
     tags:
     cran:
     release:
@@ -506,7 +477,6 @@ widgets:
       [d3](http://d3js.org)
     ghuser: adymimos
     ghrepo: rWordCloud
-    stars: 7
     tags:
     cran:
     release:
@@ -523,7 +493,6 @@ widgets:
       [c3js](http://c3js.org)
     ghuser: HarlanH
     ghrepo: c3r
-    stars: 4
     tags:
     cran:
     release:
@@ -540,7 +509,6 @@ widgets:
       [dc.js](https://dc-js.github.io/dc.js/)
     ghuser: yutannihilation
     ghrepo: dcStockR
-    stars: 6
     tags:
     cran:
     release:
@@ -557,7 +525,6 @@ widgets:
        [d3](http://d3js.org)
     ghuser: jcizel
     ghrepo: scatterMatrixD3
-    stars: 5
     tags:
     cran:
     release:
@@ -574,7 +541,6 @@ widgets:
       [bokehjs](http://bokeh.pydata.org/en/latest/)
     ghuser: bokeh
     ghrepo: rbokeh
-    stars: 74
     tags: visualization,general
     cran:
     release:
@@ -591,7 +557,6 @@ widgets:
       [d3](http://d3js.org)
     ghuser: rstudio
     ghrepo: d3heatmap
-    stars: 58
     tags: visualization,heatmap,general
     cran: true
     release:
@@ -608,7 +573,6 @@ widgets:
       [pivottable](http://nicolas.kruchten.com/pivottable/examples/)
     ghuser: smartinsightsfromdata
     ghrepo: rpivotTable
-    stars: 60
     tags: visualization,pivot,table
     cran:
     release: 0.1.5.2
@@ -624,7 +588,6 @@ widgets:
     jslibs: >
     ghuser: renkun-ken
     ghrepo: formattable
-    stars: 61
     tags: visualization,table,markdown
     cran:
     release:
@@ -641,7 +604,6 @@ widgets:
       [d3](http://d3js.org)
     ghuser: jcheng5
     ghrepo: bubbles
-    stars: 12
     tags: visualization,bubbles,scatter,plot
     cran:
     release:
@@ -658,7 +620,6 @@ widgets:
       [d3](http://d3js.org)
     ghuser: garthtarr
     ghrepo: pairsD3
-    stars: 12
     tags: visualization,scatter,plot,pairs,matrix
     cran: true
     release:
@@ -675,7 +636,6 @@ widgets:
       [d3](http://d3js.org)
     ghuser: garthtarr
     ghrepo: edgebundleR
-    stars: 3
     tags: visualization,d3,hierarchical,layout,bundle,network
     cran:
     release:
@@ -692,7 +652,6 @@ widgets:
       [KaTeX](https://github.com/Khan/KaTeX)
     ghuser: timelyportfolio
     ghrepo: katexR
-    stars: 5
     tags: math, LaTeX, KaTeX, html
     cran:
     release:
@@ -709,7 +668,6 @@ widgets:
       [responsive-nav](http://responsive-nav.com/)
     ghuser: timelyportfolio
     ghrepo: navr
-    stars: 3
     tags: toolbar, navigation, html, responsive
     cran:
     release:
@@ -726,7 +684,6 @@ widgets:
       [EntangledClone](https://github.com/Cacodaimon/EntangledClone)
     ghuser: timelyportfolio
     ghrepo: gamer
-    stars: 0
     tags: game
     cran:
     release:
@@ -743,7 +700,6 @@ widgets:
       [materialize](http://materializecss.com/)
     ghuser: timelyportfolio
     ghrepo: materializeR
-    stars: 3
     tags: CSS, template, html, framework
     cran:
     release:
@@ -760,7 +716,6 @@ widgets:
       [comic.js](https://github.com/balint42/comic.js)
     ghuser: timelyportfolio
     ghrepo: comicR
-    stars: 3
     tags: xkcd, cartoon, comic
     cran:
     release:
@@ -777,7 +732,6 @@ widgets:
       [lory.js](http://meandmax.github.io/lory/)
     ghuser: timelyportfolio
     ghrepo: loryR
-    stars: 6
     tags: slider, html
     cran:
     release:
@@ -794,7 +748,6 @@ widgets:
       [d3.js](http://d3js.org), [venn.js](https://github.com/benfred/venn.js)
     ghuser: timelyportfolio
     ghrepo: d3vennR
-    stars: 4
     tags: visualization, sets, venn, Euler
     cran:
     release:
@@ -811,7 +764,6 @@ widgets:
       [flowtype](http://simplefocus.com/flowtype)
     ghuser: timelyportfolio
     ghrepo: flowtypeR
-    stars: 0
     tags: html, text
     cran:
     release:
@@ -828,7 +780,6 @@ widgets:
       [SweetAlert](http://t4t5.github.io/sweetalert)
     ghuser: timelyportfolio
     ghrepo: sweetalertR
-    stars: 3
     tags: html, alert,popup
     cran:
     release:
@@ -845,7 +796,6 @@ widgets:
       [d3](http://d3js.org)
     ghuser: timelyportfolio
     ghrepo: sunburstR
-    stars: 3
     tags: visualization, sunburst
     cran:
     release:
@@ -862,7 +812,6 @@ widgets:
       [d3](http://d3js.org)
     ghuser: timelyportfolio
     ghrepo: d3hiveR
-    stars: 5
     tags: visualization, hive
     cran:
     release:
@@ -871,3 +820,52 @@ widgets:
     short: >
       R htmlwidget for d3.js hive plots
     description: >
+  -
+    name: calheatmapR
+    thumbnail: images/durtal-calheatmapR.png
+    url: http://durtal.github.io/calheatmapR/
+    jslibs: >
+      [d3](http://d3js.org), [cal-heatmap](https://kamisama.github.io/cal-heatmap/)
+    ghuser: durtal
+    ghrepo: calheatmapR
+    tags: visualization,heatmap,calendar
+    cran:
+    release:
+    examples:
+    ghauthor: durtal
+    short: >
+      Interface to the cal-heatmap Javascript charting library
+    description: >
+  -
+    name: coffeewheel
+    thumbnail: images/armish-coffeewheel.png
+    url: https://github.com/armish/coffeewheel
+    jslibs: >
+       [d3](http://d3js.org)
+    ghuser: armish
+    ghrepo: coffeewheel
+    tags: visualization,treemap,hierarchical,wheel,zoomable
+    cran: false
+    release: 1.0
+    examples: https://github.com/armish/coffeewheel#sample-plotting
+    ghauthor: armish
+    short: >
+      An htmlwidgets-based wrapper for the famaous coffee-wheel visualization.
+    description:
+  -
+    name: taucharts
+    thumbnail: images/hrbrmstr-taucharts.png
+    url: https://github.com/hrbrmstr/taucharts
+    jslibs: >
+       [taucharts](http://www.taucharts.com/),[d3](http://d3js.org)
+    ghuser: hrbrmstr
+    ghrepo: taucharts
+    tags: visualization, general
+    cran: false
+    release: 0.4.0
+    examples: >
+      http://rpubs.com/hrbrmstr/taucharts,http://www.buildingwidgets.com/blog/2015/8/5/week-31-taucharts
+    ghauthor: taucharts
+    short: >
+      An htmlwidgets wrapper for the full-featured taucharts d3.js charting library.
+    description:

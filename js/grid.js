@@ -1,5 +1,52 @@
 $( function() {
-  var qsRegex;
+
+  // count number of authors to populate dropdown
+  // and key it so it can be alphabetized by author
+  var widget_authors = {};
+  $('.widget-author > a').each(function() {
+    var cur_author = $(this).html();
+    var lcur_author = cur_author.toLowerCase();
+    if(widget_authors[lcur_author] === undefined)
+      widget_authors[lcur_author] = {author: cur_author, count: 0};
+    widget_authors[lcur_author].count = widget_authors[lcur_author].count + 1;
+  });
+
+  // populate the author filter dropdown
+  $.each(Object.keys(widget_authors).sort(), function (i, val) {
+    $('#authorfilter').append($('<option/>', {
+      value: widget_authors[val].author,
+      text : widget_authors[val].author + ' (' + widget_authors[val].count + ')'
+    }));
+  });
+
+  // count tags to populate dropdown
+  // and key it so it can be alphabetized by author
+  var widget_tags = {};
+  $('.widget-tags').each(function() {
+    var cur_tags = $(this).html();
+    var cur_tags = cur_tags.split(',');
+    for (var i = 0; i < cur_tags.length; i++) {
+      var cur_tag = cur_tags[i].trim();
+      var lcur_tag = cur_tag.toLowerCase();
+      if(cur_tag !== '') {
+        if(widget_tags[lcur_tag] === undefined)
+          widget_tags[lcur_tag] = {tag: cur_tag, count: 0};
+        widget_tags[lcur_tag].count = widget_tags[lcur_tag].count + 1;
+      }
+    }
+  });
+
+  // populate the tag filter dropdown
+  $.each(Object.keys(widget_tags).sort(), function (i, val) {
+    $('#tagfilter').append($('<option/>', {
+      value: widget_tags[val].tag,
+      text : widget_tags[val].tag + ' (' + widget_tags[val].count + ')'
+    }));
+  });
+
+  // initialize author and tag select dropdowns
+  $('select').material_select();
+
   var $grid = $('#grid');
 
   $grid.isotope({
@@ -28,6 +75,7 @@ $( function() {
 
   // use value of search field to filter
   var $textfilter = $('#textfilter').keyup( debounce( function() {
+    $("#crancheckbox").prop('checked', false);
     if(!$("#tagfilter").val() == "") {
       $("#tagfilter").val(0);
       $("#tagfilter").material_select();
@@ -39,6 +87,7 @@ $( function() {
     handleFilter();
   }, 100 ) );
 
+  // trigger isotope sort on #gridsort change
   $('#gridsort').change(function() {
     var sortVal = $(this).val();
     if(sortVal === 'stars')
@@ -46,38 +95,46 @@ $( function() {
     $grid.isotope({ sortBy : sortVal });
   });
 
+  // trigger isotope filter on #authorfilter change
+  // this resets tag and text filters and unchecks CRAN, as the
+  // number in the dropdown is for all packages by this author
   $('#authorfilter').change(function() {
-    // first get rid of tag filters & text
     $("#tagfilter").val(0);
     $("#tagfilter").material_select();
     $("#textfilter").val("");
+    $("#crancheckbox").prop('checked', false);
     handleFilter();
   });
 
+  // trigger isotope filter on #tagfilter change
+  // this resets author and text filters and unchecks CRAN, as the
+  // number in the dropdown is for all packages by this author
   $('#tagfilter').change(function() {
-    // first get rid of author filters & text
     $("#authorfilter").val(0);
     $("#authorfilter").material_select();
     $("#textfilter").val("");
+    $("#crancheckbox").prop('checked', false);
     handleFilter();
   });
 
+  // trigger isotope filter on #crancheckbox change
   $("#crancheckbox").click(function() {
     handleFilter();
   });
 
+  // look at all filter inputs and determine which ones to show
   function handleFilter() {
     var tagVal = $('#tagfilter').val();
     var authorVal = $('#authorfilter').val();
     var textVal = $('#textfilter').val();
+    var qsRegex;
 
     $grid.isotope({ filter : function() {
-
       var textBool = true;
       if(textVal !== '') {
         qsRegex = new RegExp( textVal, 'gi' );
-        curText = $(this).find('.card-title').html() + " " + $(this).find('.widget-author').html() + " " + $(this).find('.widget-shortdesc').html();
-        textBool = qsRegex ? curText.match( qsRegex ) : true;
+        curText = $(this).find('.card-title').html() + " " + $(this).find('.widget-author > a').html() + " " + $(this).find('.widget-shortdesc').html();
+        textBool = qsRegex.test(curText);
       }
 
       var tagBool = true;
@@ -93,7 +150,7 @@ $( function() {
       var authorBool = true;
       if(authorVal !== '') {
         authorBool = false;
-        authorBool = $(this).find('.widget-author').html() == authorVal;
+        authorBool = $(this).find('.widget-author > a').html() == authorVal;
       }
 
       var cranBool = $(this).find('.widget-cran').html() === "true";
@@ -101,14 +158,19 @@ $( function() {
         cranBool = true;
       }
 
-      return textBool && tagBool && authorBool && cranBool;
-    }}, function() {alert('hi');});
+      var res = textBool && tagBool && authorBool && cranBool;
+      if(res) {
+        $(this).addClass('is-showing')
+      } else {
+        $(this).removeClass('is-showing')
+      }
+      return res;
+    }});
+    $("#shown-widgets").html($('.is-showing').length);
   }
 
-  $grid.on('arrangeComplete', function(event, laidOutItems) {
-    $("#shown-widgets").html($(".grid-item:visible").length);
-  })
-
+  // wrap hrefs around the tag listings for each widget
+  // so when clicked they can fire off a filter on that tag
   $('.widget-tags').each(function(i) {
     var tagVals = $(this).html().split(',');
     $(this).addClass('hidden');
@@ -119,11 +181,12 @@ $( function() {
       el.href = 'javascript:;';
       $(this).before(el);
       if (j < tagVals.length - 1) {
-        $(this).before(",");
+        $(this).before(", ");
       }
     };
   });
 
+  // handle click on tag hrefs
   $('.taghref').click(function() {
     $('#tagfilter > option').removeAttr("selected");
     $('#tagfilter > option[value="' + $(this).html() + '"]').attr("selected", "selected");
@@ -131,29 +194,19 @@ $( function() {
     $('#tagfilter').trigger('change');
   });
 
-  $('.star-frame').load(function() {
-      var doc = this.contentDocument || this.contentWindow.document;
-      var target = doc.getElementById("gh-count");
-      console.log(target.innerHTML);
-  });
+  $.getJSON( "github_meta.json", function(data) {
+    $.each(data, function(key, val) {
+      $('#' + key).html(val.stargazers_count);
+    });
+  })
+  .success(function() {
+    // default sort is by github stars - trigger it on load
+    $('#gridsort').trigger('change');
+  })
 
-  $.each(window.widget_authors, function (key, value) {
-    $('#authorfilter').append($('<option/>', {
-      value: key,
-      text : key + ' (' + value + ')'
-    }));
-  });
-
-  $.each(window.widget_tags, function (key, value) {
-    $('#tagfilter').append($('<option/>', {
-      value: key,
-      text : key + ' (' + value + ')'
-    }));
-  });
-
-  $('#gridsort').trigger('change');
-  $('select').material_select();
+  // enforce initial filter (CRAN only)
   handleFilter();
+  // make sure "Showing x of n" is correct
   $("#shown-widgets").html($(".grid-item:visible").length);
 });
 
