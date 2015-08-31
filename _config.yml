@@ -869,3 +869,19 @@ widgets:
     short: >
       An htmlwidgets wrapper for the full-featured taucharts d3.js charting library.
     description:
+  -
+    name: vivagRaph
+    thumbnail: images/keeganhines-vivagRaph.png
+    url: https://github.com/keeganhines/vivagRaph
+    jslibs: >
+      [vivagraph js](https://github.com/anvaka/VivaGraphJS)
+    ghuser: keeganhines
+    ghrepo: vivagRaph
+    tags: visualization, networks
+    cran: false
+    release: alpha
+    examples:
+    ghauthor: keeganhines
+    short: >
+      Interactive network visualizations with the VivaGraph js library.
+    description:
