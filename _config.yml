@@ -921,5 +921,3 @@ widgets:
       Another htmlwidget interface for d3 wordcloud by Jason Davies
     description: >
       d3wordcloud package offers several arguments to customize: size, font, color, rotation for texts among others.
-	  
-	  
