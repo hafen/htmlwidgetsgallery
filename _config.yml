@@ -885,3 +885,39 @@ widgets:
     short: >
       Interactive network visualizations with the VivaGraph js library.
     description:
+  -
+    name: rchess
+    thumbnail: images/jbkunst-rchess.png
+    url: https://github.com/jbkunst/rchess
+    jslibs: >
+       [chessjs](https://github.com/jhlywa/chess.js),[chessboardjs](http://chessboardjs.com/) 
+    ghuser: jbkunst
+    ghrepo: rchess
+    tags: chess
+    cran: true
+    release: stable
+    examples: >
+      http://rpubs.com/jbkunst/rchess2,http://jkunst.com/r/visualizing-chess-data-with-ggplot/
+    ghauthor: jbkunst
+    short: >
+      R package for chess validations, pieces movements and check detection and plot chessboard.
+    description: >
+      rchess integrates functions to plot chessboards given a Forsyth Edwards and Portable Game notations.
+  -
+    name: d3wordcloud
+    thumbnail: images/jbkunst-d3wordcloud.png
+    url: https://github.com/jbkunst/d3wordcloud
+    jslibs: >
+       [d3](http://d3js.org),[d3-cloud](https://github.com/jasondavies/d3-cloud)
+    ghuser: jbkunst
+    ghrepo: d3wordcloud
+    tags: d3,wordcloud
+    cran: false
+    release: stable
+    examples: >
+      http://rpubs.com/jbkunst/100416,https://jbkunst.shinyapps.io/d3wordcloud
+    ghauthor: jbkunst
+    short: >
+      Another htmlwidget interface for d3 wordcloud by Jason Davies
+    description: >
+      d3wordcloud package offers several arguments to customize: size, font, color, rotation for texts among others.
