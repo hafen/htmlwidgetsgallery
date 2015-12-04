@@ -234,13 +234,13 @@ widgets:
     thumbnail: images/ThomasSiegmund-D3TableFilter.png
     url: https://github.com/ThomasSiegmund/D3TableFilter
     jslibs: >
-       [tableFilter](http://tablefilter.free.fr),[d3](http://d3js.org)
+       [TableFilter](http://tablefilter.free.fr),[d3](http://d3js.org), [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/)
     ghuser: ThomasSiegmund
     ghrepo: D3TableFilter
-    tags: tables
+    tags: tables,visualization
     cran:
     release: stable
-    examples:
+    examples: https://thomassiegmund.shinyapps.io/interaction/
     ghauthor: ThomasSiegmund
     short: >
       A table widget based on Max Guglielmi's "HTML Table Filter Generator" and D3.js.
