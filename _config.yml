@@ -890,7 +890,7 @@ widgets:
     thumbnail: images/jbkunst-rchess.png
     url: https://github.com/jbkunst/rchess
     jslibs: >
-       [chessjs](https://github.com/jhlywa/chess.js),[chessboardjs](http://chessboardjs.com/) 
+       [chessjs](https://github.com/jhlywa/chess.js),[chessboardjs](http://chessboardjs.com/)
     ghuser: jbkunst
     ghrepo: rchess
     tags: chess
