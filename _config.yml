@@ -890,7 +890,7 @@ widgets:
     thumbnail: images/jbkunst-rchess.png
     url: https://github.com/jbkunst/rchess
     jslibs: >
-       [chessjs](https://github.com/jhlywa/chess.js),[chessboardjs](http://chessboardjs.com/) 
+       [chessjs](https://github.com/jhlywa/chess.js),[chessboardjs](http://chessboardjs.com/)
     ghuser: jbkunst
     ghrepo: rchess
     tags: chess
@@ -939,3 +939,19 @@ widgets:
       Create Interactive Web Graphics via Plotly's JavaScript Graphing Library
     description: >
       Easily translate ggplot2 graphs to an interactive web-based version and/or create custom web-based visualizations directly from R. Once uploaded to a plotly account, plotly graphs (and the data behind them) can be viewed and modified in a web browser.
+  -
+    name: morrisjs
+    thumbnail: images/tutuchan-morrisjs.png
+    url: https://github.com/Tutuchan/morrisjs
+    jslibs: >
+      [morris.js](http://morrisjs.github.io/morris.js/)
+    ghuser: tutuchan
+    ghrepo: morrisjs
+    tags: vizualisation,general
+    cran: false
+    release: stable
+    examples:
+    ghauthor: tutuchan
+    short: >
+      Draw interactive time-series bar, line and area charts or donut charts with morris.js
+    description:
