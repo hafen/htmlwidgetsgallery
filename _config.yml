@@ -542,7 +542,7 @@ widgets:
     ghuser: bokeh
     ghrepo: rbokeh
     tags: visualization,general
-    cran:
+    cran: true
     release:
     examples:
     ghauthor: hafen
