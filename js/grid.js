@@ -24,7 +24,7 @@ $( function() {
   var widget_tags = {};
   $('.widget-tags').each(function() {
     var cur_tags = $(this).html();
-    var cur_tags = cur_tags.split(',');
+    cur_tags = cur_tags.split(',');
     for (var i = 0; i < cur_tags.length; i++) {
       var cur_tag = cur_tags[i].trim();
       var lcur_tag = cur_tag.toLowerCase();
@@ -76,11 +76,11 @@ $( function() {
   // use value of search field to filter
   var $textfilter = $('#textfilter').keyup( debounce( function() {
     $("#crancheckbox").prop('checked', false);
-    if(!$("#tagfilter").val() == "") {
+    if(!$("#tagfilter").val() === "") {
       $("#tagfilter").val(0);
       $("#tagfilter").material_select();
     }
-    if(!$("#authorfilter").val() == "") {
+    if(!$("#authorfilter").val() === "") {
       $("#authorfilter").val(0);
       $("#authorfilter").material_select();
     }
@@ -144,7 +144,7 @@ $( function() {
         tags = tags.split(',');
         for (var i = 0; i < tags.length; i++) {
           tagBool = tagBool || (tags[i] == tagVal);
-        };
+        }
       }
 
       var authorBool = true;
@@ -154,15 +154,15 @@ $( function() {
       }
 
       var cranBool = $(this).find('.widget-cran').html() === "true";
-      if($("#crancheckbox:checked").length == 0) {
+      if($("#crancheckbox:checked").length === 0) {
         cranBool = true;
       }
 
       var res = textBool && tagBool && authorBool && cranBool;
       if(res) {
-        $(this).addClass('is-showing')
+        $(this).addClass('is-showing');
       } else {
-        $(this).removeClass('is-showing')
+        $(this).removeClass('is-showing');
       }
       return res;
     }});
@@ -183,7 +183,7 @@ $( function() {
       if (j < tagVals.length - 1) {
         $(this).before(", ");
       }
-    };
+    }
   });
 
   // handle click on tag hrefs
@@ -202,12 +202,13 @@ $( function() {
   .success(function() {
     // default sort is by github stars - trigger it on load
     $('#gridsort').trigger('change');
-  })
+  });
 
   // enforce initial filter (CRAN only)
   handleFilter();
   // make sure "Showing x of n" is correct
-  $("#shown-widgets").html($(".grid-item:visible").length);
+  var curlen = $(".widget-cran").filter(function() {return $(this).html() === "true"}).length;
+  $("#shown-widgets").html(curlen);
 });
 
 function debounce( fn, threshold ) {
@@ -221,7 +222,7 @@ function debounce( fn, threshold ) {
       timeout = null;
     }
     timeout = setTimeout( delayed, threshold || 100 );
-  }
+  };
 }
 
 

@@ -1,13 +1,16 @@
 htmlwidgets gallery
 ===================
 
-This repository serves the [htmwidgets gallery](http://hafen.github.io/htmlwidgetsgallery/).  It is currently in staging.
+This repository serves the [htmwidgets gallery](http://hafen.github.io/htmlwidgetsgallery/).
 
 ## Adding a widget
 
-If you are a widget author, you can register your widget by simply providing a thumbnail and adding an entry in the `_config.yml` file of this repository with the meta data for your widget.  To ensure the quality of widgets added to the registry and consistency in how they are displayed, you should expect some amount of discussion during your pull request.
+If you are a widget author, you can register your widget by doing the following:
 
-Thumbnails are 350x300 and should look good on a retina screen.
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository.
+2. Create a png thumbnail of an interesting plot from your widget that will look good on a retina screen at 350x300 pixels and put this file in the `images` directory of this repository.
+3. Add an entry for your widget in the `_config.yml` file of this repository with the meta data for your widget (copy another entry and modify).  Please see below for guidance on the meta data.
+4. Push your changes and [create a pull request](https://help.github.com/articles/creating-a-pull-request/).  To ensure the quality of widgets added to the registry and consistency in how they are displayed, you should expect some amount of discussion during your pull request.
 
 Meta data requirements:
 
