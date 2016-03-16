@@ -20,6 +20,14 @@
   font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
 }
 
+.main-container {
+  margin-top: -20px;
+}
+
+.row {
+  margin-bottom: 8px !important;
+}
+
 .widget-content {
   height: 185px;
   padding: 15px !important;

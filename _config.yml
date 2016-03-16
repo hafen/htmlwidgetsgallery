@@ -1032,7 +1032,7 @@ widgets:
     cran: true
     release:
     examples:
-    ghauthor:
+    ghauthor: ShingoYamamoto
     short: >
       Create D3 JavaScript force directed graphs from R.
     description:
@@ -1079,7 +1079,7 @@ widgets:
     cran: true
     release:
     examples:
-    ghauthor:
+    ghauthor: DuncanMurdoch
     short: >
       'rgl' in the htmlwidgets framework.
     description:

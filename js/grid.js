@@ -76,11 +76,11 @@ $( function() {
   // use value of search field to filter
   var $textfilter = $('#textfilter').keyup( debounce( function() {
     $("#crancheckbox").prop('checked', false);
-    if(!$("#tagfilter").val() === "") {
+    if(! $("#tagfilter").val() === "") {
       $("#tagfilter").val(0);
       $("#tagfilter").material_select();
     }
-    if(!$("#authorfilter").val() === "") {
+    if(! $("#authorfilter").val() === "") {
       $("#authorfilter").val(0);
       $("#authorfilter").material_select();
     }
@@ -129,6 +129,11 @@ $( function() {
     var textVal = $('#textfilter').val();
     var qsRegex;
 
+    console.log("tagVal: " + tagVal);
+    console.log("authorVal: " + authorVal);
+    console.log("textVal: " + textVal);
+    console.log("qsRegex: " + qsRegex);
+
     $grid.isotope({ filter : function() {
       var textBool = true;
       if(textVal !== '') {
@@ -138,7 +143,7 @@ $( function() {
       }
 
       var tagBool = true;
-      if(tagVal !== '') {
+      if(! (tagVal === '' || tagVal === null)) {
         tagBool = false;
         var tags = $(this).find('.widget-tags').html();
         tags = tags.split(',');
@@ -148,7 +153,7 @@ $( function() {
       }
 
       var authorBool = true;
-      if(authorVal !== '') {
+      if(! (authorVal === '' || authorVal === null)) {
         authorBool = false;
         authorBool = $(this).find('.widget-author > a').html() == authorVal;
       }
