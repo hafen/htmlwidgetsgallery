@@ -1130,3 +1130,19 @@ widgets:
     short: >
       vis.js library for network visualization.
     description:
+  -
+    name: canvasXpress
+    thumbnail: images/canvasXpress.png
+    url: http://www.canvasXpress.org
+    jslibs: >
+      [canvasXpress](http://www.canvasXpress.org/)
+    ghuser: neuhausi
+    ghrepo: canvasXpress
+    tags: genomics,heatmap,network,scatter,genome,venn,cloud,treemap,boxplot
+    cran: false
+    release:
+    examples:
+    ghauthor: neuhausi
+    short: >
+      A wrapper for CanvasXpress.
+    description:
