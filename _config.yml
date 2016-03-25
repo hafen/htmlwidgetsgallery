@@ -1133,7 +1133,7 @@ widgets:
   -
     name: canvasXpress
     thumbnail: images/canvasXpress.png
-    url: http://www.canvasXpress.org
+    url: https://github.com/neuhausi/canvasXpress/
     jslibs: >
       [canvasXpress](http://www.canvasXpress.org/)
     ghuser: neuhausi
