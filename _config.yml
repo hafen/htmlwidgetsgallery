@@ -1146,3 +1146,35 @@ widgets:
     short: >
       A wrapper for CanvasXpress.
     description:
+  -
+    name: c3
+    thumbnail: images/mrjoh3_c3.png
+    url: https://github.com/mrjoh3/c3
+    jslibs: >
+      [c3.js](http://c3js.org/)
+    ghuser: mrjoh3
+    ghrepo: c3
+    tags: visualization,plots,charts
+    cran: false
+    release:
+    examples:
+    ghauthor: mrjoh3
+    short: >
+      c3.js library for simple charts.
+    description:
+  -
+    name: pier
+    thumbnail: images/mrjoh3_pier.png
+    url: https://github.com/mrjoh3/pier
+    jslibs: >
+      [d3pie.js](http://d3pie.org/)
+    ghuser: mrjoh3
+    ghrepo: c3
+    tags: visualization, pie and donut charts
+    cran: false
+    release:
+    examples:
+    ghauthor: mrjoh3
+    short: >
+      d3pie.js library for simple pie and donut charts.
+    description:
