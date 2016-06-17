@@ -1161,7 +1161,8 @@ widgets:
     ghauthor: mrjoh3
     short: >
       c3.js library for simple charts.
-    description:
+    description: >
+      This is an implimentation of the c3 charting library. The package is still under active development but all of the charts types have been implimented (scatter, bar, line, donut gauge)
   -
     name: pier
     thumbnail: images/mrjoh3_pier.png
@@ -1177,4 +1178,4 @@ widgets:
     ghauthor: mrjoh3
     short: >
       d3pie.js library for simple pie and donut charts.
-    description:
+    description: 
