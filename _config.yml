@@ -1055,10 +1055,10 @@ widgets:
   -
     name: rAmCharts
     thumbnail: images/rAmCharts.png
-    url: https://github.com/DataKnowledge/rAmCharts
+    url: http://datastorm-open.github.io/introduction_ramcharts/
     jslibs: >
       [amCharts](https://www.amcharts.com/)
-    ghuser: DataKnowledge
+    ghuser: datastorm-open
     ghrepo: rAmCharts
     tags: visualization,general
     cran: true
@@ -1117,10 +1117,10 @@ widgets:
   -
     name: visNetwork
     thumbnail: images/visNetwork.png
-    url: http://dataknowledge.github.io/visNetwork/
+    url: http://datastorm-open.github.io/visNetwork/
     jslibs: >
       [vis.js](http://visjs.org/)
-    ghuser: DataKnowledge
+    ghuser: datastorm-open
     ghrepo: visNetwork
     tags: visualization,networks
     cran: true
@@ -1128,7 +1128,7 @@ widgets:
     examples:
     ghauthor: bthieurmel
     short: >
-      vis.js library for network visualization.
+      vis.js library for interactive network visualization.
     description:
   -
     name: canvasXpress
