@@ -1178,4 +1178,20 @@ widgets:
     ghauthor: mrjoh3
     short: >
       d3pie.js library for simple pie and donut charts.
-    description: 
+    description:
+  -
+    name: wordcloud2
+    thumbnail: images/wordcloud2.png
+    url: https://github.com/lchiffon/wordcloud2
+    jslibs: >
+      [wordcloud2.js](https://github.com/timdream/wordcloud2.js)
+    ghuser: lchiffon
+    ghrepo: wordcloud2
+    tags: visualization, wordcloud
+    cran: true
+    release: 0.2.0
+    examples: [introduction](https://cloud.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html)
+    ghauthor: lchiffon
+    short: >
+      wordcloud2.js library for interactive wrodcloud.
+    description: A fast visualization tool for creating wordcloud by using wordcloud2.js.
