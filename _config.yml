@@ -1178,7 +1178,7 @@ widgets:
     ghauthor: mrjoh3
     short: >
       d3pie.js library for simple pie and donut charts.
-    description: 
+    description:
   -
     name: timevis
     thumbnail: images/daattali-timevis.png
@@ -1190,9 +1190,10 @@ widgets:
     tags: visualization,timeline
     cran: true
     release: stable
-    examples: [Demo Shiny app](http://daattali.com/shiny/timevis-demo/)
+    examples: >
+      [Demo Shiny app](http://daattali.com/shiny/timevis-demo/)
     ghauthor: daattali
     short: >
-      Create interactive timeline visualizations in R
+      Create interactive timeline visualizations in R.
     description: >
       `timevis` lets you create rich and fully interactive timeline visualizations in R. Timelines can be included in Shiny apps and R markdown documents, or viewed from the R console and RStudio Viewer. `timevis` includes an extensive API to manipulate a timeline after creation, and supports getting data out of the visualization into R. This package is based on the vis.js Timeline module.
