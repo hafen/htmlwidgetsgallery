@@ -1197,3 +1197,20 @@ widgets:
       Create interactive timeline visualizations in R.
     description: >
       `timevis` lets you create rich and fully interactive timeline visualizations in R. Timelines can be included in Shiny apps and R markdown documents, or viewed from the R console and RStudio Viewer. `timevis` includes an extensive API to manipulate a timeline after creation, and supports getting data out of the visualization into R. This package is based on the vis.js Timeline module.
+  -
+    name: wordcloud2
+    thumbnail: images/wordcloud2.png
+    url: https://github.com/lchiffon/wordcloud2
+    jslibs: >
+      [wordcloud2.js](https://github.com/timdream/wordcloud2.js)
+    ghuser: lchiffon
+    ghrepo: wordcloud2
+    tags: visualization, wordcloud
+    cran: true
+    release: 0.2.0
+    examples: >
+      [introduction](https://cloud.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html)
+    ghauthor: lchiffon
+    short: >
+      R binding to wordcloud2.js library for interactive wordclouds.
+    description: A fast visualization tool for creating wordcloud by using wordcloud2.js.
