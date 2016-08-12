@@ -989,6 +989,22 @@ widgets:
       Make ggplot2 graphics interactive.
     description:
   -
+    name: googleway
+    thumbnail: images/googleway_map.png
+    url: http://github.com/SymbolixAU/googleway
+    jslibs: >
+      [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/libraries)
+    ghuser: SymbolixAU
+    ghrepo: googleway
+    tags: visualization,maps
+    cran: false
+    release:
+    examples:
+    ghauthor: SymbolixAU
+    short: >
+      Interactive Google Maps 
+    description:
+  -
     name: highcharter
     thumbnail: images/highcharter.png
     url: http://jkunst.com/highcharter
