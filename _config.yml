@@ -1230,3 +1230,19 @@ widgets:
     short: >
       R binding to wordcloud2.js library for interactive wordclouds.
     description: A fast visualization tool for creating wordcloud by using wordcloud2.js.
+  -
+    name: candela
+    thumbnail: images/kitware-candela.png
+    url: https://candela.readthedocs.io
+    jslibs: >
+      [Candela](https://candela.readthedocs.io), [LineUp](http://www.caleydo.org/tools/lineup/), [UpSet](http://www.caleydo.org/tools/upset/), [OnSet](http://www.cc.gatech.edu/gvu/ii/setvis/), [Vega](https://vega.github.io/vega/), [GeoJS](http://geojs.readthedocs.io/)
+    ghuser: kitware
+    ghrepo: candela
+    tags: visualization,general
+    cran: false
+    release:
+    examples:
+    ghauthor: jeffbaumes
+    short: >
+      Visualization component suite with a simple normalized API.
+    description: >
