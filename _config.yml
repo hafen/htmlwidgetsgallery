@@ -319,7 +319,7 @@ widgets:
     ghuser: timelyportfolio
     ghrepo: listviewer
     tags: structure
-    cran:
+    cran: true
     release: stable
     examples:
     ghauthor: timelyportfolio
@@ -798,8 +798,8 @@ widgets:
     ghuser: timelyportfolio
     ghrepo: sunburstR
     tags: visualization,sunburst
-    cran:
-    release:
+    cran: true
+    release: stable
     examples:
     ghauthor: timelyportfolio
     short: >
