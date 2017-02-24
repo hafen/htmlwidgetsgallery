@@ -8,6 +8,22 @@ sass:
 
 widgets:
   -
+    name: slickR
+    thumbnail: images/slickR.png
+    url: https://github.com/yonicd/slickR
+    jslibs: >
+       [slick](https://github.com/kenwheeler/slick)
+    ghuser: yonicd
+    ghrepo: slickR
+    tags: visualization, general
+    cran: false
+    examples: https://github.com/yonicd/slickR
+    ghauthor: yonicd
+    short: >
+      An htmlwidgets binding for the slick carousel.
+    description: >
+      An htmlwidgets binding for the excellent [slickjs](https://github.com/kenwheeler/slick) carousel library, developed by [Ken Wheeler](https://github.com/kenwheeler).
+  -
     name: datamaps
     thumbnail: images/htmlwidgets-datamaps.png
     url: https://github.com/htmlwidgets/datamaps
