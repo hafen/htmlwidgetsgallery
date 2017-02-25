@@ -8,6 +8,22 @@ sass:
 
 widgets:
   -
+    name: msaR
+    thumbnail: images/zachcp-msaR.png
+    url: https://github.com/zachcp/msaR
+    jslibs: >
+       [msa](https://github.com/wilzbach/msa)
+    ghuser: zachcp
+    ghrepo: msaR
+    tags: multiple sequence alignment, general
+    cran: true
+    examples: https://zachcp.github.io/msaR/
+    ghauthor: zachcp
+    short: >
+      An htmlwidgets binding for creating interactive multiple sequence alignments.
+    description: >
+      An htmlwidgets binding for the excellent [msa](https://github.com/wilzbach/msa) library for interactively plotting DNA or protein multiple sequence alignments.
+  -
     name: slickR
     thumbnail: images/slickR.png
     url: https://github.com/yonicd/slickR
