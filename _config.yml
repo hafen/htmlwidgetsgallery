@@ -10,12 +10,12 @@ widgets:
   -
     name: phylocanvas
     thumbnail: images/zachcp-phylocanvas.png
-    url: https://github.com/zachcp/phylocanvas
+    url: https://zachcp.github.io/phylocanvas/
     jslibs: >
        [phylocanvas](https://github.com/phylocanvas)
     ghuser: zachcp
     ghrepo: phylocanvas
-    tags: phylogenetic trees, trees
+    tags: phylogenetics, trees, biology
     cran: true
     examples: https://zachcp.github.io/phylocanvas/
     ghauthor: zachcp
@@ -26,12 +26,12 @@ widgets:
   -
     name: msaR
     thumbnail: images/zachcp-msaR.png
-    url: https://github.com/zachcp/msaR
+    url: https://zachcp.github.io/msaR/
     jslibs: >
        [msa](https://github.com/wilzbach/msa)
     ghuser: zachcp
     ghrepo: msaR
-    tags: multiple sequence alignment, general
+    tags: sequence, alignment, general, biology, DNA
     cran: true
     examples: https://zachcp.github.io/msaR/
     ghauthor: zachcp
