@@ -8,6 +8,22 @@ sass:
 
 widgets:
   -
+    name: phylocanvas
+    thumbnail: images/zachcp-phylocanvas.png
+    url: https://github.com/zachcp/phylocanvas
+    jslibs: >
+       [phylocanvas](https://github.com/phylocanvas)
+    ghuser: zachcp
+    ghrepo: phylocanvas
+    tags: phylogenetic trees, trees
+    cran: true
+    examples: https://zachcp.github.io/phylocanvas/
+    ghauthor: zachcp
+    short: >
+      An htmlwidgets binding for creating interactive phylogenetic trees.
+    description: >
+      An htmlwidgets binding for the excellent [phylocanvas](https://github.com/phylocanvas) library for creating interactive phylogenetic trees.
+  -
     name: msaR
     thumbnail: images/zachcp-msaR.png
     url: https://github.com/zachcp/msaR
