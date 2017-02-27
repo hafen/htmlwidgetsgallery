@@ -40,6 +40,22 @@ widgets:
     description: >
       An htmlwidgets binding for the excellent [msa](https://github.com/wilzbach/msa) library for interactively plotting DNA or protein multiple sequence alignments.
   -
+    name: d3Tree
+    thumbnail: images/d3Tree.png
+    url: https://github.com/metrumresearchgroup/d3Tree
+    jslibs: >
+       [d3](http://d3js.org),[cycle](https://cycle.js.org/),[d3-tip](https://github.com/Caged/d3-tip)
+    ghuser: metrumresearchgroup
+    ghrepo: d3Tree
+    tags: visualization, reactive query
+    cran: false
+    examples: https://github.com/metrumresearchgroup/d3Tree
+    ghauthor: yonicd
+    short: >
+      An htmlwidgets binding for the d3js trees.
+    description: >
+      An htmlwidget binding for trees written in the d3.js library, that when used in shiny returns query strings that represent the current state of the tree. This widget was motivated by a [repository](https://github.com/cpsievert/shiny_apps/tree/master/ggtree) written by [Carson Sievert](https://github.com/cpsievert), and was written in collaboration with [Kent Russell](https://github.com/timelyportfolio).
+  -
     name: slickR
     thumbnail: images/slickR.png
     url: https://github.com/yonicd/slickR
@@ -54,7 +70,7 @@ widgets:
     short: >
       An htmlwidgets binding for the slick carousel.
     description: >
-      An htmlwidgets binding for the excellent [slickjs](https://github.com/kenwheeler/slick) carousel library, developed by [Ken Wheeler](https://github.com/kenwheeler).
+      An htmlwidget binding for the excellent [slick.js](https://github.com/kenwheeler/slick) carousel library, developed by [Ken Wheeler](https://github.com/kenwheeler).
   -
     name: datamaps
     thumbnail: images/htmlwidgets-datamaps.png
@@ -1050,7 +1066,7 @@ widgets:
     examples:
     ghauthor: SymbolixAU
     short: >
-      Interactive Google Maps 
+      Interactive Google Maps
     description:
   -
     name: highcharter
