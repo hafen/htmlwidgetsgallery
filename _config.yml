@@ -8,6 +8,38 @@ sass:
 
 widgets:
   -
+    name: phylocanvas
+    thumbnail: images/zachcp-phylocanvas.png
+    url: https://zachcp.github.io/phylocanvas/
+    jslibs: >
+       [phylocanvas](https://github.com/phylocanvas)
+    ghuser: zachcp
+    ghrepo: phylocanvas
+    tags: phylogenetics, trees, biology
+    cran: true
+    examples: https://zachcp.github.io/phylocanvas/
+    ghauthor: zachcp
+    short: >
+      An htmlwidgets binding for creating interactive phylogenetic trees.
+    description: >
+      An htmlwidgets binding for the excellent [phylocanvas](https://github.com/phylocanvas) library for creating interactive phylogenetic trees.
+  -
+    name: msaR
+    thumbnail: images/zachcp-msaR.png
+    url: https://zachcp.github.io/msaR/
+    jslibs: >
+       [msa](https://github.com/wilzbach/msa)
+    ghuser: zachcp
+    ghrepo: msaR
+    tags: sequence, alignment, general, biology, DNA
+    cran: true
+    examples: https://zachcp.github.io/msaR/
+    ghauthor: zachcp
+    short: >
+      An htmlwidgets binding for creating interactive multiple sequence alignments.
+    description: >
+      An htmlwidgets binding for the excellent [msa](https://github.com/wilzbach/msa) library for interactively plotting DNA or protein multiple sequence alignments.
+  -
     name: slickR
     thumbnail: images/slickR.png
     url: https://github.com/yonicd/slickR
