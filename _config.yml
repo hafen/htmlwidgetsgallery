@@ -42,14 +42,14 @@ widgets:
   -
     name: slickR
     thumbnail: images/slickR.png
-    url: https://github.com/yonicd/slickR
+    url: https://github.com/metrumresearchgroup/slickR
     jslibs: >
        [slick](https://github.com/kenwheeler/slick)
-    ghuser: yonicd
+    ghuser: metrumresearchgroup
     ghrepo: slickR
     tags: visualization, general
     cran: false
-    examples: https://github.com/yonicd/slickR
+    examples: https://github.com/metrumresearchgroup/slickR
     ghauthor: yonicd
     short: >
       An htmlwidgets binding for the slick carousel.
