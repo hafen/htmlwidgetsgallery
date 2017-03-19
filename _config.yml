@@ -7,7 +7,7 @@ sass:
   style: compressed
 
 widgets:
--
+  -
     name: fluidSpline
     thumbnail: images/fluidSpline.png
     url: https://github.com/metrumresearchgroup/fluidSpline
