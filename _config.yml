@@ -8,6 +8,22 @@ sass:
 
 widgets:
   -
+    name: fluidSpline
+    thumbnail: images/fluidSpline.png
+    url: https://github.com/metrumresearchgroup/fluidSpline
+    jslibs: >
+       [d3](http://d3js.org)
+    ghuser: metrumresearchgroup
+    ghrepo: fluidSpline
+    tags: visualization, general, scatter
+    cran: false
+    examples: https://github.com/metrumresearchgroup/fluidSpline
+    ghauthor: yonicd
+    short: >
+      An htmlwidgets binding for the d3js editable splines with animation.
+    description: >
+      An htmlwidget binding for interacting with bivariate plots by dragging/adding/removing points and changing interpolations written in the d3.js library, that when used in Shiny the widget can be used as a functional slider, returning current locations of points and samples of the interpolated line with animation. This widget was motivated by an example written by [Mike Bostock](https://bl.ocks.org/mbostock/4342190).
+  -
     name: phylocanvas
     thumbnail: images/zachcp-phylocanvas.png
     url: https://zachcp.github.io/phylocanvas/
@@ -58,14 +74,14 @@ widgets:
   -
     name: slickR
     thumbnail: images/slickR.png
-    url: https://github.com/yonicd/slickR
+    url: https://github.com/metrumresearchgroup/slickR
     jslibs: >
        [slick](https://github.com/kenwheeler/slick)
-    ghuser: yonicd
+    ghuser: metrumresearchgroup
     ghrepo: slickR
     tags: visualization, general
     cran: false
-    examples: https://github.com/yonicd/slickR
+    examples: https://github.com/metrumresearchgroup/slickR
     ghauthor: yonicd
     short: >
       An htmlwidgets binding for the slick carousel.
