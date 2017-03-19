@@ -1310,3 +1310,19 @@ widgets:
     short: >
       Visualization component suite with a simple normalized API.
     description: >
+  -
+    name: collapsibleTree
+    thumbnail: images/collapsibleTree.png
+    url: https://AdeelK93.github.io/collapsibleTree/
+    jslibs: >
+       [d3](http://d3js.org)
+    ghuser: AdeelK93
+    ghrepo: collapsibleTree
+    tags: d3, visualization, networks
+    cran: false
+    examples: https://AdeelK93.github.io/collapsibleTree/
+    ghauthor: AdeelK93
+    short: >
+      Interactive Collapsible Tree Diagrams using D3.js
+    description: >
+      Interactive Reingold–Tilford tree diagrams created using D3.js, where every node can be expanded and collapsed by clicking on it.
