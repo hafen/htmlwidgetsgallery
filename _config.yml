@@ -1342,3 +1342,19 @@ widgets:
       Interactive Collapsible Tree Diagrams using D3.js
     description: >
       Interactive Reingold–Tilford tree diagrams created using D3.js, where every node can be expanded and collapsed by clicking on it.
+  -
+    name: diffRgit
+    thumbnail: images/abossi-diffRgit.png
+    url: https://github.com/abossi/diffRgit
+    jslibs: >
+       [diff2html](https://diff2html.xyz)
+    ghuser: abossi
+    ghrepo: diffRgit
+    tags: diff, git, visualization, diff2html
+    cran: false
+    examples:
+    ghauthor: abossi
+    short: >
+      Visualization of a diff git.
+    description: >
+      Create an HTML git diff visualization widget using the diff2html library.
