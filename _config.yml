@@ -1235,7 +1235,7 @@ widgets:
     ghuser: neuhausi
     ghrepo: canvasXpress
     tags: genomics,heatmap,network,scatter,genome,venn,cloud,treemap,boxplot
-    cran: false
+    cran: true
     release:
     examples:
     ghauthor: neuhausi
