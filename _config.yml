@@ -1335,13 +1335,13 @@ widgets:
     ghuser: AdeelK93
     ghrepo: collapsibleTree
     tags: d3, visualization, networks
-    cran: false
+    cran: true
     examples: https://AdeelK93.github.io/collapsibleTree/
     ghauthor: AdeelK93
     short: >
-      Interactive Collapsible Tree Diagrams using D3.js
+      Interactive Collapsible Tree Diagrams using 'D3.js'
     description: >
-      Interactive Reingold–Tilford tree diagrams created using D3.js, where every node can be expanded and collapsed by clicking on it.
+      Interactive Reingold–Tilford tree diagrams created using 'D3.js', where every node can be expanded and collapsed by clicking on it.
   -
     name: diffRgit
     thumbnail: images/abossi-diffRgit.png
