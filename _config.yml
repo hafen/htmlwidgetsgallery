@@ -80,7 +80,7 @@ widgets:
     ghuser: metrumresearchgroup
     ghrepo: slickR
     tags: visualization, general
-    cran: false
+    cran: true
     examples: https://github.com/metrumresearchgroup/slickR
     ghauthor: yonicd
     short: >
