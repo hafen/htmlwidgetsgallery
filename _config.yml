@@ -64,7 +64,7 @@ widgets:
     ghuser: metrumresearchgroup
     ghrepo: d3Tree
     tags: visualization, reactive query
-    cran: false
+    cran: true
     examples: https://github.com/metrumresearchgroup/d3Tree
     ghauthor: yonicd
     short: >
