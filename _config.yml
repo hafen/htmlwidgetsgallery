@@ -64,7 +64,7 @@ widgets:
     ghuser: metrumresearchgroup
     ghrepo: d3Tree
     tags: visualization, reactive query
-    cran: false
+    cran: true
     examples: https://github.com/metrumresearchgroup/d3Tree
     ghauthor: yonicd
     short: >
@@ -80,7 +80,7 @@ widgets:
     ghuser: metrumresearchgroup
     ghrepo: slickR
     tags: visualization, general
-    cran: false
+    cran: true
     examples: https://github.com/metrumresearchgroup/slickR
     ghauthor: yonicd
     short: >
@@ -1358,3 +1358,20 @@ widgets:
       Visualization of a diff git.
     description: >
       Create an HTML git diff visualization widget using the diff2html library.
+  -
+    name: heatmaply
+    thumbnail: images/talgalili-heatmaply.png
+    url: https://github.com/talgalili/heatmaply/
+    jslibs: >
+       [plotly.js](https://github.com/plotly/plotly.js)
+    ghuser: talgalili
+    ghrepo: heatmaply
+    tags: visualization,heatmap,plotly,d3,clustering,dendrogram
+    cran: true
+    release: stable
+    examples: >
+      https://cran.r-project.org/web/packages/heatmaply/vignettes/heatmaply.html
+    ghauthor: talgalili
+    short: >
+      Create Interactive Cluster Heat Maps Using 'plotly'.
+    description: >
