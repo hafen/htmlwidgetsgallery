@@ -1077,7 +1077,7 @@ widgets:
     ghuser: SymbolixAU
     ghrepo: googleway
     tags: visualization,maps
-    cran: false
+    cran: true
     release:
     examples:
     ghauthor: SymbolixAU
