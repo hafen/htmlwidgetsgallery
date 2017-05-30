@@ -1375,3 +1375,19 @@ widgets:
     short: >
       Create Interactive Cluster Heat Maps Using 'plotly'.
     description: >
+  -
+    name: morpheus
+    thumbnail: images/joshua-gould-morpheus.png
+    url: https://github.com/cmap/morpheus.R 
+    jslibs: >
+      [morpheus.js](https://clue.io/morpheus)
+    ghuser: cmap
+    ghrepo: morpheus.R
+    tags: visualization,heatmap
+    cran: false
+    release:
+    examples:
+    ghauthor: cmap
+    short: >
+      A morpheus.js-based heatmap htmlwidget for R.
+    description: >
