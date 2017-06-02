@@ -1077,7 +1077,7 @@ widgets:
     ghuser: SymbolixAU
     ghrepo: googleway
     tags: visualization,maps
-    cran: false
+    cran: true
     release:
     examples:
     ghauthor: SymbolixAU
@@ -1375,3 +1375,20 @@ widgets:
     short: >
       Create Interactive Cluster Heat Maps Using 'plotly'.
     description: >
+  -
+    name: D3plusR
+    thumbnail: images/d3plusr_thumbnail.png
+    url: https://github.com/paulofelipe/D3plusR
+    jslibs: >
+       [D3plus](http://d3plus.org/)
+    ghuser: paulofelipe
+    ghrepo: D3plusR
+    tags: d3,maps,treemaps,networks
+    cran: false
+    release: 0.0.1
+    examples:
+    ghauthor: paulofelipe
+    short: >
+      Bring D3plus visualizations to R
+    description: >
+      D3plus is build on top of D3. This library allow a fast creation of simple but beautiful visualizations. D3plusR brings D3plus to R users. Visit the original project [page](http://d3plus.org/).
