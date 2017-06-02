@@ -1392,3 +1392,19 @@ widgets:
       Bring D3plus visualizations to R
     description: >
       D3plus is build on top of D3. This library allow a fast creation of simple but beautiful visualizations. D3plusR brings D3plus to R users. Visit the original project [page](http://d3plus.org/).
+  -
+    name: morpheus
+    thumbnail: images/joshua-gould-morpheus.png
+    url: https://github.com/cmap/morpheus.R
+    jslibs: >
+      [morpheus.js](https://clue.io/morpheus)
+    ghuser: cmap
+    ghrepo: morpheus.R
+    tags: visualization,heatmap
+    cran: false
+    release:
+    examples:
+    ghauthor: cmap
+    short: >
+      A morpheus.js-based heatmap htmlwidget for R.
+    description: >
