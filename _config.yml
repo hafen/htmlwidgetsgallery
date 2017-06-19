@@ -1408,3 +1408,20 @@ widgets:
     short: >
       A morpheus.js-based heatmap htmlwidget for R.
     description: >
+  -
+    name: leaflet.minicharts
+    thumbnail: images/leaflet.minicharts.png
+    url: https://github.com/rte-antares-rpackage/leaflet.minicharts
+    jslibs: >
+      [leaflet.minichart.js](https://github.com/rte-antares-rpackage/leaflet.minicharts)
+    ghuser: rte-antares-rpackage
+    ghrepo: leaflet.minicharts
+    tags: visualization,leaflet,map
+    cran: true
+    release: 0.3.1
+    examples: >
+      https://cran.r-project.org/web/packages/leaflet.minicharts/vignettes/introduction.html
+    ghauthor: FrancoisGuillem
+    short: >
+      Add tiny dynamic charts on an interactive map to represent at same time multiple variables and their evolution.
+    description: >
