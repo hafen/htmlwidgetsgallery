@@ -1425,3 +1425,19 @@ widgets:
     short: >
       Add tiny dynamic charts on an interactive map to represent at same time multiple variables and their evolution.
     description: >
+  -
+    name: manipulateWidget
+    thumbnail: images/manipulateWidget.png
+    url: https://github.com/rte-antares-rpackage/manipulateWidget
+    jslibs: >
+    ghuser: rte-antares-rpackage
+    ghrepo: manipulateWidget
+    tags: visualization
+    cran: true
+    release: 0.7.0
+    examples: >
+      https://cran.r-project.org/web/packages/manipulateWidget/vignettes/manipulateWidgets.html
+    ghauthor: FrancoisGuillem
+    short: >
+      Combine multiple htmlwidgets in a single one and dynamically modify their data and their graphical parameters.
+    description: >
