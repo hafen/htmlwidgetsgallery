@@ -1055,7 +1055,7 @@ widgets:
   -
     name: ggiraph
     thumbnail: images/ggiraph.png
-    url: http://davidgohel.github.io/ggiraph/introduction.html
+    url: http://davidgohel.github.io/ggiraph
     jslibs: >
       [d3](http://d3js.org)
     ghuser: davidgohel
