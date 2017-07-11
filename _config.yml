@@ -1055,7 +1055,7 @@ widgets:
   -
     name: ggiraph
     thumbnail: images/ggiraph.png
-    url: http://davidgohel.github.io/ggiraph/introduction.html
+    url: http://davidgohel.github.io/ggiraph
     jslibs: >
       [d3](http://d3js.org)
     ghuser: davidgohel
@@ -1407,4 +1407,37 @@ widgets:
     ghauthor: cmap
     short: >
       A morpheus.js-based heatmap htmlwidget for R.
+    description: >
+  -
+    name: leaflet.minicharts
+    thumbnail: images/leaflet.minicharts.png
+    url: https://github.com/rte-antares-rpackage/leaflet.minicharts
+    jslibs: >
+      [leaflet.minichart.js](https://github.com/rte-antares-rpackage/leaflet.minicharts)
+    ghuser: rte-antares-rpackage
+    ghrepo: leaflet.minicharts
+    tags: visualization,leaflet,map
+    cran: true
+    release: 0.3.1
+    examples: >
+      https://cran.r-project.org/web/packages/leaflet.minicharts/vignettes/introduction.html
+    ghauthor: FrancoisGuillem
+    short: >
+      Add tiny dynamic charts on an interactive map to represent at same time multiple variables and their evolution.
+    description: >
+  -
+    name: manipulateWidget
+    thumbnail: images/manipulateWidget.png
+    url: https://github.com/rte-antares-rpackage/manipulateWidget
+    jslibs: >
+    ghuser: rte-antares-rpackage
+    ghrepo: manipulateWidget
+    tags: visualization
+    cran: true
+    release: 0.7.0
+    examples: >
+      https://cran.r-project.org/web/packages/manipulateWidget/vignettes/manipulateWidgets.html
+    ghauthor: FrancoisGuillem
+    short: >
+      Combine multiple htmlwidgets in a single one and dynamically modify their data and their graphical parameters.
     description: >
