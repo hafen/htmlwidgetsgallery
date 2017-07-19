@@ -8,6 +8,22 @@ sass:
 
 widgets:
   -
+    name: jsTree
+    thumbnail: images/yonicd-jsTree.png
+    url: https://github.com/metrumresearchgroup/jsTree
+    jslibs: >
+       [jsTree](https://www.jstree.com/), [jQuery](https://jquery.com/), [bootstrap](http://getbootstrap.com/)
+    ghuser: metrumresearchgroup
+    ghrepo: jsTree
+    tags: visualization, heirarchy, data managment, general
+    cran: false
+    examples: https://github.com/metrumresearchgroup/fluidSpline
+    ghauthor: yonicd
+    short: >
+      An htmlwidgets binding for the jsTree javascript library to interact with heirachry structures.
+    description: >
+      Create and customize interactive trees using the jQuery 'jsTree' plugin library and the 'htmlwidgets' package. These trees can be used directly from the R console, from 'RStudio', in Shiny apps and R Markdown html documents.
+  -
     name: fluidSpline
     thumbnail: images/fluidSpline.png
     url: https://github.com/metrumresearchgroup/fluidSpline
