@@ -1457,3 +1457,21 @@ widgets:
     short: >
       Combine multiple htmlwidgets in a single one and dynamically modify their data and their graphical parameters.
     description: >
+  -
+    name: billboarder
+    thumbnail: images/billboarder.png
+    url: https://github.com/dreamRs/billboarder
+    jslibs: >
+      [billboard](https://naver.github.io/billboard.js/)
+    ghuser: dreamRs
+    ghrepo: billboarder
+    tags: visualization,general
+    cran: true
+    release:
+    examples: >
+      https://cran.r-project.org/web/packages/billboarder/vignettes/billboarder-intro.html
+    ghauthor: pvictor
+    short: >
+      Create Interactive Chart with the JavaScript Billboard Library.
+    description: >
+      Provides an htmlwidgets interface to billboard.js, a re-usable easy interface JavaScript chart library, based on D3 v4+.
