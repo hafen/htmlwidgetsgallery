@@ -1468,11 +1468,10 @@ widgets:
     tags: visualization,general
     cran: true
     release:
-    examples: > 
+    examples: >
       https://cran.r-project.org/web/packages/billboarder/vignettes/billboarder-intro.html
     ghauthor: pvictor
     short: >
       Create Interactive Chart with the JavaScript Billboard Library.
-    description: > 
+    description: >
       Provides an htmlwidgets interface to billboard.js, a re-usable easy interface JavaScript chart library, based on D3 v4+.
-  -
