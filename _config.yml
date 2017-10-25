@@ -7,7 +7,7 @@ sass:
   style: compressed
 
 widgets:
--
+  -
     name: rpdf
     thumbnail: images/yonicd-rpdf.png
     url: https://github.com/yonicd/rpdf
@@ -23,7 +23,7 @@ widgets:
       An htmlwidgets binding for the pdf javascript library to view pdf directly on the internal viewer.
     description: >
       View PDF files in R  using the Mozilla pdf JavaScript library and the 'htmlwidgets' package. Can be used directly from the R console, from 'RStudio', in Shiny apps and R Markdown documents.
--
+  -
     name: jsTree
     thumbnail: images/yonicd-jsTree.png
     url: https://github.com/metrumresearchgroup/jsTree
@@ -39,7 +39,7 @@ widgets:
       An htmlwidgets binding for the jsTree javascript library to interact with heirachry structures.
     description: >
       Create and customize interactive trees using the jQuery 'jsTree' plugin library and the 'htmlwidgets' package. These trees can be used directly from the R console, from 'RStudio', in Shiny apps and R Markdown html documents.
--
+  -
     name: shinyCanvas
     thumbnail: images/yonicd-shinyCanvas.png
     url: https://github.com/metrumresearchgroup/shinyCanvas
@@ -55,6 +55,38 @@ widgets:
       An htmlwidgets binding for the d3js editable splines with animation.
     description: >
       An htmlwidget binding for interacting with bivariate plots by dragging/adding/removing points and changing interpolations written in the d3.js library, that when used in Shiny the widget can be used as a functional slider, returning current locations of points and samples of the interpolated line with animation. This widget was motivated by an example written by [Mike Bostock](https://bl.ocks.org/mbostock/4342190).
+  -
+    name: phylocanvas
+    thumbnail: images/zachcp-phylocanvas.png
+    url: https://zachcp.github.io/phylocanvas/
+    jslibs: >
+       [phylocanvas](https://github.com/phylocanvas)
+    ghuser: zachcp
+    ghrepo: phylocanvas
+    tags: phylogenetics, trees, biology
+    cran: true
+    examples: https://zachcp.github.io/phylocanvas/
+    ghauthor: zachcp
+    short: >
+      An htmlwidgets binding for creating interactive phylogenetic trees.
+    description: >
+      An htmlwidgets binding for the excellent [phylocanvas](https://github.com/phylocanvas) library for creating interactive phylogenetic trees.
+  -
+    name: msaR
+    thumbnail: images/zachcp-msaR.png
+    url: https://zachcp.github.io/msaR/
+    jslibs: >
+       [msa](https://github.com/wilzbach/msa)
+    ghuser: zachcp
+    ghrepo: msaR
+    tags: sequence, alignment, general, biology, DNA
+    cran: true
+    examples: https://zachcp.github.io/msaR/
+    ghauthor: zachcp
+    short: >
+      An htmlwidgets binding for creating interactive multiple sequence alignments.
+    description: >
+      An htmlwidgets binding for the excellent [msa](https://github.com/wilzbach/msa) library for interactively plotting DNA or protein multiple sequence alignments.
   -
     name: d3Tree
     thumbnail: images/yonicd-d3Tree.png
@@ -1055,7 +1087,7 @@ widgets:
   -
     name: ggiraph
     thumbnail: images/ggiraph.png
-    url: http://davidgohel.github.io/ggiraph/introduction.html
+    url: http://davidgohel.github.io/ggiraph
     jslibs: >
       [d3](http://d3js.org)
     ghuser: davidgohel
@@ -1077,12 +1109,12 @@ widgets:
     ghuser: SymbolixAU
     ghrepo: googleway
     tags: visualization,maps
-    cran: false
+    cran: true
     release:
     examples:
     ghauthor: SymbolixAU
     short: >
-      Interactive Google Maps 
+      Interactive Google Maps
     description:
   -
     name: highcharter
@@ -1235,7 +1267,7 @@ widgets:
     ghuser: neuhausi
     ghrepo: canvasXpress
     tags: genomics,heatmap,network,scatter,genome,venn,cloud,treemap,boxplot
-    cran: false
+    cran: true
     release:
     examples:
     ghauthor: neuhausi
@@ -1326,3 +1358,136 @@ widgets:
     short: >
       Visualization component suite with a simple normalized API.
     description: >
+  -
+    name: collapsibleTree
+    thumbnail: images/collapsibleTree.png
+    url: https://AdeelK93.github.io/collapsibleTree/
+    jslibs: >
+       [d3](http://d3js.org)
+    ghuser: AdeelK93
+    ghrepo: collapsibleTree
+    tags: d3, visualization, networks
+    cran: true
+    examples: https://AdeelK93.github.io/collapsibleTree/
+    ghauthor: AdeelK93
+    short: >
+      Interactive Collapsible Tree Diagrams using 'D3.js'
+    description: >
+      Interactive Reingold–Tilford tree diagrams created using 'D3.js', where every node can be expanded and collapsed by clicking on it.
+  -
+    name: diffRgit
+    thumbnail: images/abossi-diffRgit.png
+    url: https://github.com/abossi/diffRgit
+    jslibs: >
+       [diff2html](https://diff2html.xyz)
+    ghuser: abossi
+    ghrepo: diffRgit
+    tags: diff, git, visualization, diff2html
+    cran: false
+    examples:
+    ghauthor: abossi
+    short: >
+      Visualization of a diff git.
+    description: >
+      Create an HTML git diff visualization widget using the diff2html library.
+  -
+    name: heatmaply
+    thumbnail: images/talgalili-heatmaply.png
+    url: https://github.com/talgalili/heatmaply/
+    jslibs: >
+       [plotly.js](https://github.com/plotly/plotly.js)
+    ghuser: talgalili
+    ghrepo: heatmaply
+    tags: visualization,heatmap,plotly,d3,clustering,dendrogram
+    cran: true
+    release: stable
+    examples: >
+      https://cran.r-project.org/web/packages/heatmaply/vignettes/heatmaply.html
+    ghauthor: talgalili
+    short: >
+      Create Interactive Cluster Heat Maps Using 'plotly'.
+    description: >
+  -
+    name: D3plusR
+    thumbnail: images/d3plusr_thumbnail.png
+    url: https://github.com/paulofelipe/D3plusR
+    jslibs: >
+       [D3plus](http://d3plus.org/)
+    ghuser: paulofelipe
+    ghrepo: D3plusR
+    tags: d3,maps,treemaps,networks
+    cran: false
+    release: 0.0.1
+    examples:
+    ghauthor: paulofelipe
+    short: >
+      Bring D3plus visualizations to R
+    description: >
+      D3plus is build on top of D3. This library allow a fast creation of simple but beautiful visualizations. D3plusR brings D3plus to R users. Visit the original project [page](http://d3plus.org/).
+  -
+    name: morpheus
+    thumbnail: images/joshua-gould-morpheus.png
+    url: https://github.com/cmap/morpheus.R
+    jslibs: >
+      [morpheus.js](https://clue.io/morpheus)
+    ghuser: cmap
+    ghrepo: morpheus.R
+    tags: visualization,heatmap
+    cran: false
+    release:
+    examples:
+    ghauthor: cmap
+    short: >
+      A morpheus.js-based heatmap htmlwidget for R.
+    description: >
+  -
+    name: leaflet.minicharts
+    thumbnail: images/leaflet.minicharts.png
+    url: https://github.com/rte-antares-rpackage/leaflet.minicharts
+    jslibs: >
+      [leaflet.minichart.js](https://github.com/rte-antares-rpackage/leaflet.minicharts)
+    ghuser: rte-antares-rpackage
+    ghrepo: leaflet.minicharts
+    tags: visualization,leaflet,map
+    cran: true
+    release: 0.3.1
+    examples: >
+      https://cran.r-project.org/web/packages/leaflet.minicharts/vignettes/introduction.html
+    ghauthor: FrancoisGuillem
+    short: >
+      Add tiny dynamic charts on an interactive map to represent at same time multiple variables and their evolution.
+    description: >
+  -
+    name: manipulateWidget
+    thumbnail: images/manipulateWidget.png
+    url: https://github.com/rte-antares-rpackage/manipulateWidget
+    jslibs: >
+    ghuser: rte-antares-rpackage
+    ghrepo: manipulateWidget
+    tags: visualization
+    cran: true
+    release: 0.7.0
+    examples: >
+      https://cran.r-project.org/web/packages/manipulateWidget/vignettes/manipulateWidgets.html
+    ghauthor: FrancoisGuillem
+    short: >
+      Combine multiple htmlwidgets in a single one and dynamically modify their data and their graphical parameters.
+    description: >
+  -
+    name: billboarder
+    thumbnail: images/billboarder.png
+    url: https://github.com/dreamRs/billboarder
+    jslibs: >
+      [billboard](https://naver.github.io/billboard.js/)
+    ghuser: dreamRs
+    ghrepo: billboarder
+    tags: visualization,general
+    cran: true
+    release:
+    examples: >
+      https://cran.r-project.org/web/packages/billboarder/vignettes/billboarder-intro.html
+    ghauthor: pvictor
+    short: >
+      Create Interactive Chart with the JavaScript Billboard Library.
+    description: >
+      Provides an htmlwidgets interface to billboard.js, a re-usable easy interface JavaScript chart library, based on D3 v4+.
