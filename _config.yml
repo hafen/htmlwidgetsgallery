@@ -1491,3 +1491,20 @@ widgets:
       Create Interactive Chart with the JavaScript Billboard Library.
     description: >
       Provides an htmlwidgets interface to billboard.js, a re-usable easy interface JavaScript chart library, based on D3 v4+.
+  -
+    name: shinyaframe
+    thumbnail: images/wmurphyrd-shinyaframe.png
+    url: https://github.com/wmurphyrd/shinyaframe
+    jslibs: >
+       [A-Frame](http://aframe.io),[gg-aframe](https://github.com/wmurphyrd/gg-aframe)
+    ghuser: wmurphyrd
+    ghrepo: shinyaframe
+    tags: visualization,3D,virtual reality
+    cran: true
+    release: stable
+    examples: https://cran.r-project.org/web/packages/shinyaframe/vignettes/scatterplot3d.html,https://github.com/wmurphyrd/adit
+    ghauthor: wmurphyrd
+    short: >
+      Bring R data into virtual reality for immersive, interactive data visualization
+    description: >
+      Make R data available in Web-based virtual reality experiences for immersive, cross-platform data visualizations. Includes the 'gg-aframe' JavaScript package for a Grammar of Graphics declarative HTML syntax to create 3-dimensional data visualizations with 'Mozilla A-Frame'
