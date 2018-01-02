@@ -1474,6 +1474,24 @@ widgets:
       Combine multiple htmlwidgets in a single one and dynamically modify their data and their graphical parameters.
     description: >
   -
+    name: BioCircos
+    thumbnail: images/BioCircos.png
+    url: https://github.com/lvulliard/BioCircos.R
+    jslibs: >
+      [BioCircos.js](http://bioinfo.ibp.ac.cn/biocircos/)
+    ghuser: lvulliard
+    ghrepo: BioCircos.R
+    tags: visualization,genome,circos,circular,multi-track
+    cran: true
+    release: 0.2.2
+    examples: >
+      https://cran.r-project.org/web/packages/BioCircos/vignettes/BioCircos.html
+    ghauthor: koalive
+    short: >
+      Provide interactive multi-track circular visualizations, with the 'BioCircos.js' library.
+    description: >
+      Implement interactive Circos-like visualizations of genomic data, to map information such as genetic variants, genomic fusions and aberrations to a circular genome, as proposed by the 'BioCircos.js' JavaScript library, based on the 'JQuery' and 'D3' technologies.
+  -
     name: billboarder
     thumbnail: images/billboarder.png
     url: https://github.com/dreamRs/billboarder
