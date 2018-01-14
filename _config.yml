@@ -1509,7 +1509,7 @@ widgets:
       Create Interactive Chart with the JavaScript Billboard Library.
     description: >
       Provides an htmlwidgets interface to billboard.js, a re-usable easy interface JavaScript chart library, based on D3 v4+.
-   -
+  -
     name: lineup
     thumbnail: images/lineup.png
     url: https://github.com/sgratzl/lineup_htmlwidget
