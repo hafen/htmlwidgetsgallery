@@ -1509,3 +1509,20 @@ widgets:
       Create Interactive Chart with the JavaScript Billboard Library.
     description: >
       Provides an htmlwidgets interface to billboard.js, a re-usable easy interface JavaScript chart library, based on D3 v4+.
+  -
+    name: lineup
+    thumbnail: images/lineup.png
+    url: https://github.com/sgratzl/lineup_htmlwidget
+    jslibs: >
+       [lineupjs](https://github.com/sgratzl/lineupjs)
+    ghuser: sgratzl
+    ghrepo: lineup_htmlwidget
+    tags: visualization, lineup, ranking, table, crosstalk
+    cran: false
+    examples: https://sgratzl.github.com/lineupjs_docs/R
+    ghauthor: sgratzl
+    short: >
+      An htmlwidgets binding for the LineUp.js library.
+    description: >
+      An htmlwidget binding for [LineUp.js](https://github.com/sgratzl/lineupjs) multi attribute ranking library, developed by [Samuel Gratzl](https://github.com/sgratzl) and the [Caleydo Team](http://caleydo.org). Crosstalk is supported for syncing selections and filtering
+  
