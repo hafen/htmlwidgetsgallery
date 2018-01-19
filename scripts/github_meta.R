@@ -22,8 +22,8 @@ meta <- lapply(yml$widgets, function(wdgt) {
 
 names(meta) <- sapply(yml$widgets, function(x)
   paste(
-    grepl("\\.", "_", x$ghuser),
-    grepl("\\.", "_", x$ghrepo),
+    gsub("\\.", "_", x$ghuser),
+    gsub("\\.", "_", x$ghrepo),
     sep = "_"))
 
 all_good <- sapply(meta, function(x) is.numeric(x$stargazers_count))
