@@ -20,7 +20,11 @@ meta <- lapply(yml$widgets, function(wdgt) {
   a$content[c("stargazers_count", "open_issues_count", "forks_count", "watchers_count")]
 })
 
-names(meta) <- sapply(yml$widgets, function(x) paste(x$ghuser, x$ghrepo, sep = "_"))
+names(meta) <- sapply(yml$widgets, function(x)
+  paste(
+    grepl("\\.", "_", x$ghuser),
+    grepl("\\.", "_", x$ghrepo),
+    sep = "_"))
 
 all_good <- sapply(meta, function(x) is.numeric(x$stargazers_count))
 

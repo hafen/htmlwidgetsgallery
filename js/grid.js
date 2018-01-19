@@ -51,6 +51,7 @@ $( function() {
 
   $grid.isotope({
     itemSelector : '.grid-item',
+    initLayout: false,
     layoutMode: 'masonry',
     getSortData: {
       // author: '[data-author]',
@@ -204,9 +205,11 @@ $( function() {
       $('#' + key).html(val.stargazers_count);
     });
   })
-  .success(function() {
+  .done(function() {
     // default sort is by github stars - trigger it on load
     $('#gridsort').trigger('change');
+    // now make things transparent
+    $('.grid-item').removeClass('invisible');
   });
 
   // enforce initial filter (CRAN only)
