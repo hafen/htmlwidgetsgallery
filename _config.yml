@@ -1546,8 +1546,7 @@ widgets:
    name: mutsneedle
     thumbnail: images/mutsneedle_tp53.png
     url: https://github.com/freezecoder/mutsneedle
-    jslibs: >
-       [muts-needle-plot](http://biojs.io/d/muts-needle-plot)
+    jslibs: [muts-needle-plot](http://biojs.io/d/muts-needle-plot)
     ghuser: freezecoder
     ghrepo: mutsneedle
     tags: genomics,NGS,bioinformatics,mutation
