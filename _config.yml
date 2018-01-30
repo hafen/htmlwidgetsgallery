@@ -1543,16 +1543,16 @@ widgets:
     description: >
       Make R data available in Web-based virtual reality experiences for immersive, cross-platform data visualizations. Includes the 'gg-aframe' JavaScript package for a Grammar of Graphics declarative HTML syntax to create 3-dimensional data visualizations with 'Mozilla A-Frame'
   -
-   name: mutsneedle
-    thumbnail: images/mutsneedle_tp53.png
-    url: https://github.com/freezecoder/mutsneedle
-    jslibs: [muts-needle-plot](http://biojs.io/d/muts-needle-plot)
-    ghuser: freezecoder
-    ghrepo: mutsneedle
-    tags: genomics,NGS,bioinformatics,mutation
-    cran: false
-    ghauthor: freezecoder
-    short: >
-      Interactive Stem-Lolipop Mutation plots for R-users
-    description: >
-      Make the mutation lolipop charts easily drawn and manipulated using R /Shiny for use in investigating the significance of these nucleotide changes in disease-causing context
+    name: mutsneedle
+      thumbnail: images/mutsneedle_tp53.png
+      url: https://github.com/freezecoder/mutsneedle
+      jslibs: [muts-needle-plot](http://biojs.io/d/muts-needle-plot)
+      ghuser: freezecoder
+      ghrepo: mutsneedle
+      tags: genomics,NGS,bioinformatics,mutation
+      cran: false
+      ghauthor: freezecoder
+      short: >
+        Interactive Stem-Lolipop Mutation plots for R-users
+      description: >
+        Make the mutation lolipop charts easily drawn and manipulated using R /Shiny for use in investigating the significance of these nucleotide changes in disease-causing context
