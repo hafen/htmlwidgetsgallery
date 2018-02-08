@@ -1557,3 +1557,18 @@ widgets:
      Interactive Stem-Lolipop Mutation plots for R-users
     description: >
      Make the mutation lolipop charts easily drawn and manipulated using R /Shiny for use in investigating the significance of these nucleotide changes in disease-causing context
+  -
+    name: bpexploder
+    thumbnail: images/homerhanumat-bpexploder.png
+    url: https://homerhanumat.github.io/bpexploder
+    jslibs: >
+      [d3-exploding-boxplot](https://mcaule.github.io/d3_exploding_boxplot/)
+    ghuser: homerhanumat
+    ghrepo: bpexploder
+    tags: data visualization, D3
+    cran: false
+    ghauthor: homerhanumat
+    short: >
+     Exploding Box-Plots in R
+    description: >
+     Renders an svg element showing box-plots that explode upon mouse-click into individual-value plots.  Tool-tips for individual points are an option.
