@@ -1557,3 +1557,18 @@ widgets:
      Interactive Stem-Lolipop Mutation plots for R-users
     description: >
      Make the mutation lolipop charts easily drawn and manipulated using R /Shiny for use in investigating the significance of these nucleotide changes in disease-causing context
+    name: sigmaNet
+    thumbnail: images/sigmaNet.png
+    url: https://github.com/iankloo/sigmaNet
+    jslibs: >
+       [sigmajs](https://github.com/jacomyal/sigma.js)
+    ghuser: iankloo
+    ghrepo: sigmaNet
+    tags: visualization,network,graph
+    cran: true
+    examples: https://iankloo.github.io/sigmaNet/articles/getting-started.html
+    ghauthor: iankloo
+    short: >
+      Create responsive, interactive network plots using Sigma.js
+    description: >
+      Leverage the power of Sigma.js to draw networks in R quickly.  Because Sigma.js uses webgl to render, these visualizations maintain interactivity and responsiveness when drawing much larger graphs than those built with other javascript libraries that rely on SVG or Canvas renderers.
