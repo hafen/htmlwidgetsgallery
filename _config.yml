@@ -1572,4 +1572,19 @@ widgets:
     short: >
       Create responsive, interactive network plots using Sigma.js
     description: >
-      Leverage the power of Sigma.js to draw networks in R quickly.  Because Sigma.js uses webgl to render, these visualizations maintain interactivity and responsiveness when drawing much larger graphs than those built with other javascript libraries that rely on SVG or Canvas renderers.
+      Leverage the power of Sigma.js to draw networks in R quickly. Because Sigma.js uses webgl to render, these visualizations maintain interactivity and responsiveness when drawing much larger graphs than those built with other javascript libraries that rely on SVG or Canvas renderers.
+  -
+    name: bpexploder
+    thumbnail: images/homerhanumat-bpexploder.png
+    url: https://homerhanumat.github.io/bpexploder
+    jslibs: >
+      [d3-exploding-boxplot](https://mcaule.github.io/d3_exploding_boxplot/)
+    ghuser: homerhanumat
+    ghrepo: bpexploder
+    tags: data visualization, D3
+    cran: false
+    ghauthor: homerhanumat
+    short: >
+     Exploding Box-Plots in R
+    description: >
+     Renders an svg element showing box-plots that explode upon mouse-click into individual-value plots. Tool-tips for individual points are an option.
