@@ -1557,6 +1557,7 @@ widgets:
      Interactive Stem-Lolipop Mutation plots for R-users
     description: >
      Make the mutation lolipop charts easily drawn and manipulated using R /Shiny for use in investigating the significance of these nucleotide changes in disease-causing context
+  -
     name: sigmaNet
     thumbnail: images/sigmaNet.png
     url: https://github.com/iankloo/sigmaNet
