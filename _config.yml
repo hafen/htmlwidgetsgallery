@@ -1155,8 +1155,8 @@ widgets:
     ghuser: mrjoh3
     ghrepo: c3
     tags: visualization,plots,charts
-    cran: false
-    release:
+    cran: true
+    release: 0.2.0
     examples:
     ghauthor: mrjoh3
     short: >
