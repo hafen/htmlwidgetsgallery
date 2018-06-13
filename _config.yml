@@ -1603,4 +1603,4 @@ widgets:
     short: >
      This package provides a function aggrid() to display R data via the ag-grid library.
     description: >
-     Providers an interface aggrid.js (https://www.ag-grid.com/) with cross-talk and shiny support
+     Provides an interface aggrid.js (https://www.ag-grid.com/) with cross-talk and shiny support
