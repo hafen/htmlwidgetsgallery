@@ -1588,3 +1588,19 @@ widgets:
      Exploding Box-Plots in R
     description: >
      Renders an svg element showing box-plots that explode upon mouse-click into individual-value plots. Tool-tips for individual points are an option.
+  -
+    name: RagGrid
+    thumbnail: images/RagGrid.png
+    url: http://raggrid.netlify.com/
+    jslibs: >
+       [agGrid](https://www.ag-grid.com/), [jQuery](https://jquery.com/)
+    ghuser: no-types
+    ghrepo: RagGrid
+    tags: tables, AgGrid, pivot table
+    cran: true
+    examples: http://raggrid.netlify.com/guide/table-formatting/
+    ghauthor: no-types
+    short: >
+     This package provides a function aggrid() to display R data via the ag-grid library.
+    description: >
+     Providers an interface aggrid.js (https://www.ag-grid.com/) with cross-talk and shiny support
