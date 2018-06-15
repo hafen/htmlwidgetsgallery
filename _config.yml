@@ -1589,6 +1589,7 @@ widgets:
     description: >
      Renders an svg element showing box-plots that explode upon mouse-click into individual-value plots. Tool-tips for individual points are an option.
   -
+<<<<<<< HEAD
     name: imageviewer
     thumbnail: images/yapus-imageviewer.png
     url: https://github.com/yapus/imageviewer
@@ -1618,3 +1619,19 @@ widgets:
      ECharts version 4 for R
     description: >
      Powerful interactive visualisations for the R console, R Markdown and Shiny, from streamgraphs to 3D visualisations through network visualisations.
+  -
+    name: RagGrid
+    thumbnail: images/RagGrid.png
+    url: http://raggrid.netlify.com/
+    jslibs: >
+       [agGrid](https://www.ag-grid.com/), [jQuery](https://jquery.com/)
+    ghuser: no-types
+    ghrepo: RagGrid
+    tags: tables, AgGrid, pivot table
+    cran: true
+    examples: http://raggrid.netlify.com/guide/table-formatting/
+    ghauthor: no-types
+    short: >
+     This package provides a function aggrid() to display R data via the ag-grid library.
+    description: >
+     Provides an interface aggrid.js (https://www.ag-grid.com/) with cross-talk and shiny support
