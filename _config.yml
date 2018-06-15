@@ -1283,9 +1283,9 @@ widgets:
     ghuser: mrjoh3
     ghrepo: c3
     tags: visualization,plots,charts
-    cran: false
-    release:
-    examples:
+    cran: true
+    release: 0.2.0
+    examples: https://cran.r-project.org/web/packages/c3/vignettes/examples.html
     ghauthor: mrjoh3
     short: >
       c3.js library for simple charts.
