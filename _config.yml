@@ -1603,3 +1603,18 @@ widgets:
      View 2D matrix as image with brightness/contrast settings
     description: >
      Simple 2D matrices image viewer with brightness/contrast filters & D3 svg charts for X & Y slices at cursor position
+  -
+    name: echarts4r
+    thumbnail: images/echarts4r.png
+    url: http://echarts4r.john-coene.com/
+    jslibs: >
+      [ECharts](http://echarts.baidu.com/)
+    ghuser: JohnCoene
+    ghrepo: echarts4r
+    tags: 3D, webgl, echarts
+    cran: false
+    ghauthor: echarts4r
+    short: >
+     ECharts version 4 for R
+    description: >
+     Powerful interactive visualisations for the R console, R Markdown and Shiny, from streamgraphs to 3D visualisations through network visualisations.
