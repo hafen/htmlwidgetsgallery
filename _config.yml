@@ -1589,7 +1589,6 @@ widgets:
     description: >
      Renders an svg element showing box-plots that explode upon mouse-click into individual-value plots. Tool-tips for individual points are an option.
   -
-<<<<<<< HEAD
     name: imageviewer
     thumbnail: images/yapus-imageviewer.png
     url: https://github.com/yapus/imageviewer
