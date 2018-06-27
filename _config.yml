@@ -1510,7 +1510,7 @@ widgets:
     description: >
       Provides an htmlwidgets interface to billboard.js, a re-usable easy interface JavaScript chart library, based on D3 v4+.
   -
-    name: lineup
+    name: lineupjs
     thumbnail: images/lineup.png
     url: https://github.com/sgratzl/lineup_htmlwidget
     jslibs: >
@@ -1519,7 +1519,7 @@ widgets:
     ghrepo: lineup_htmlwidget
     tags: visualization, lineup, ranking, table, crosstalk
     cran: true
-    release: 3.0.1.12
+    release: 3.0.1.13
     examples: https://lineup.js.org/integrations/rshiny
     ghauthor: sgratzl
     short: >
