@@ -1514,12 +1514,13 @@ widgets:
     thumbnail: images/lineup.png
     url: https://github.com/sgratzl/lineup_htmlwidget
     jslibs: >
-       [lineupjs](https://github.com/sgratzl/lineupjs)
-    ghuser: sgratzl
+       [lineupjs](https://github.com/datavisyn/lineupjs)
+    ghuser: datavisyn
     ghrepo: lineup_htmlwidget
     tags: visualization, lineup, ranking, table, crosstalk
-    cran: false
-    examples: https://sgratzl.github.com/lineupjs_docs/R
+    cran: true
+    release: 3.0.1.12
+    examples: https://lineup.js.org/integrations/rshiny
     ghauthor: sgratzl
     short: >
       An htmlwidgets binding for the LineUp.js library.
