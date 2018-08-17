@@ -1002,7 +1002,7 @@ widgets:
     examples:
     ghauthor: SymbolixAU
     short: >
-      Interactive Google Maps 
+      Interactive Google Maps
     description:
   -
     name: highcharter
@@ -1230,3 +1230,19 @@ widgets:
     short: >
       R binding to wordcloud2.js library for interactive wordclouds.
     description: A fast visualization tool for creating wordcloud by using wordcloud2.js.
+  -
+    name: mapdeck
+    thumbnail: images/mapdeck_arcs.png
+    url: http://github.com/SymbolixAU/mapdeck
+    jslibs: >
+      [Deck.gl](http://deck.gl/#/)
+    ghuser: SymbolixAU
+    ghrepo: mapdeck
+    tags: visualization, maps
+    cran: true
+    release:
+    examples:
+    ghauthor: SymbolixAU
+    short: >
+      Interactive Maps using WebGL
+    description:
