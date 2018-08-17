@@ -1635,3 +1635,19 @@ widgets:
      This package provides a function aggrid() to display R data via the ag-grid library.
     description: >
      Provides an interface aggrid.js (https://www.ag-grid.com/) with cross-talk and shiny support
+  -
+    name: mapdeck
+    thumbnail: images/mapdeck_arcs.png
+    url: http://github.com/SymbolixAU/mapdeck
+    jslibs: >
+      [Deck.gl](http://deck.gl/#/)
+    ghuser: SymbolixAU
+    ghrepo: mapdeck
+    tags: visualization, maps
+    cran: true
+    release:
+    examples:
+    ghauthor: SymbolixAU
+    short: >
+      Interactive Maps using WebGL
+    description:
