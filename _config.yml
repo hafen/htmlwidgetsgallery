@@ -1510,16 +1510,17 @@ widgets:
     description: >
       Provides an htmlwidgets interface to billboard.js, a re-usable easy interface JavaScript chart library, based on D3 v4+.
   -
-    name: lineup
+    name: lineupjs
     thumbnail: images/lineup.png
     url: https://github.com/sgratzl/lineup_htmlwidget
     jslibs: >
-       [lineupjs](https://github.com/sgratzl/lineupjs)
-    ghuser: sgratzl
+       [lineupjs](https://github.com/datavisyn/lineupjs)
+    ghuser: datavisyn
     ghrepo: lineup_htmlwidget
     tags: visualization, lineup, ranking, table, crosstalk
-    cran: false
-    examples: https://sgratzl.github.com/lineupjs_docs/R
+    cran: true
+    release: 3.0.1.13
+    examples: https://lineup.js.org/integrations/rshiny
     ghauthor: sgratzl
     short: >
       An htmlwidgets binding for the LineUp.js library.
@@ -1634,3 +1635,19 @@ widgets:
      This package provides a function aggrid() to display R data via the ag-grid library.
     description: >
      Provides an interface aggrid.js (https://www.ag-grid.com/) with cross-talk and shiny support
+  -
+    name: mapdeck
+    thumbnail: images/mapdeck_arcs.png
+    url: http://github.com/SymbolixAU/mapdeck
+    jslibs: >
+      [Deck.gl](http://deck.gl/#/)
+    ghuser: SymbolixAU
+    ghrepo: mapdeck
+    tags: visualization, maps
+    cran: true
+    release:
+    examples:
+    ghauthor: SymbolixAU
+    short: >
+      Interactive Maps using WebGL
+    description:
