@@ -1651,3 +1651,19 @@ widgets:
     short: >
       Interactive Maps using WebGL
     description:
+  -
+    name: MovingBubbles
+    thumbnail: images/MovingBubbles.png
+    url: https://github.com/chengvt/MovingBubbles
+    jslibs: >
+      [d3](https://d3js.org)
+    ghuser: chengvt
+    ghrepo: MovingBubbles
+    tags: visualization, bubbles, plot, animation
+    cran: false
+    release:
+    examples:
+    ghauthor: chengvt
+    short: >
+      Moving bubbles chart
+    description:
