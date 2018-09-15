@@ -1667,3 +1667,19 @@ widgets:
     short: >
       Moving bubbles chart
     description:
+  -
+    name: compareBars
+    thumbnail: images/compareBars.png
+    url: https://github.com/daranzolin/compareBars
+    jslibs: >
+      [d3](https://d3js.org), [d3-tip](https://github.com/Caged/d3-tip)
+    ghuser: daranzolin
+    ghrepo: compareBars
+    tags: visualization, bar charts, d3
+    cran: false
+    release:
+    examples:
+    ghauthor: daranzolin
+    short: >
+      Comparative bar charts
+    description:
