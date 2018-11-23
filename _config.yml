@@ -1613,7 +1613,7 @@ widgets:
     ghuser: JohnCoene
     ghrepo: echarts4r
     tags: 3D, webgl, echarts
-    cran: false
+    cran: true
     ghauthor: echarts4r
     short: >
      ECharts version 4 for R
