@@ -1197,20 +1197,21 @@ widgets:
       API for using the 'amCharts' library.
     description:
   -
-    name: rglwidget
+    name: rgl
     thumbnail: images/rglwidget.png
-    url: https://github.com/cran/rglwidget
+    url: https://r-forge.r-project.org/projects/rgl/
     jslibs: >
-    ghuser: cran
-    ghrepo: rglwidget
-    tags: visualization,3D
+    ghuser: rforge
+    ghrepo: rgl
+    tags: visualization,3D,crosstalk
     cran: true
     release:
-    examples:
-    ghauthor: DuncanMurdoch
+    examples: https://cran.r-project.org/web/packages/rgl/vignettes/rgl.html, https://cran.r-project.org/web/packages/rgl/vignettes/WebGL.html
+    ghauthor: dmurdoch
     short: >
       'rgl' in the htmlwidgets framework.
     description:
+      3D interactive graphs using WebGL.  Crosstalk is supported for syncing selections and filtering.
   -
     name: scatterD3
     thumbnail: images/scatterd3.png
