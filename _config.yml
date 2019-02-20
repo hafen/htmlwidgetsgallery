@@ -1684,7 +1684,7 @@ widgets:
     short: >
       Comparative bar charts
     description:
-   -
+  -
     name: topogram
     thumbnail: images/topogram.png
     url: https://github.com/dreamRs/topogram
