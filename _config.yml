@@ -1599,7 +1599,7 @@ widgets:
     ghuser: yapus
     ghrepo: imageviewer
     tags: visualization,network,graph
-    cran: false
+    cran: true
     ghauthor: yapus
     short: >
      View 2D matrix as image with brightness/contrast settings
