@@ -1683,3 +1683,22 @@ widgets:
     short: >
       Comparative bar charts
     description:
+   -
+    name: topogram
+    thumbnail: images/topogram.png
+    url: https://github.com/dreamRs/topogram
+    jslibs: >
+      [cartogram-chart](https://github.com/vasturiano/cartogram-chart)
+    ghuser: dreamRs
+    ghrepo: topogram
+    tags: visualization,maps,d3
+    cran: false
+    release:
+    examples: >
+      https://pvictor.github.io/cartogramme-vin/
+    ghauthor: pvictor
+    short: >
+      Interactive Continuous Cartograms.
+    description: >
+      Cartogram htmlwidget for visualizing geographical data by distorting a TopoJson topology.
+    
