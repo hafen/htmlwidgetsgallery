@@ -1702,4 +1702,21 @@ widgets:
       Interactive Continuous Cartograms.
     description: >
       Cartogram htmlwidget for visualizing geographical data by distorting a TopoJson topology.
+
+  -
+    name: d3rain
+    thumbnail: images/d3rain.png
+    url: https://github.com/daranzolin/d3rain
+    jslibs: >
+      [d3](https://d3js.org), [d3-tip](https://github.com/Caged/d3-tip)
+    ghuser: daranzolin
+    ghrepo: d3rain
+    tags: visualization, d3
+    cran: false
+    release:
+    examples:
+    ghauthor: daranzolin
+    short: >
+      D3 Raindrop Visualizations
+    description:
     
