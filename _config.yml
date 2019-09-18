@@ -1719,4 +1719,22 @@ widgets:
     short: >
       D3 Raindrop Visualizations
     description:
+  -
+    name: wavesurfer
+    thumbnail: images/athospd-wavesurfer.png
+    url: "https://github.com/athospd/wavesurfer#readme"
+    jslibs: >
+      [wavesurfer.js](http://wavesurfer-js.org/)
+    ghuser: athospd
+    ghrepo: wavesurfer
+    tags: visualization, audio
+    cran: false
+    release: experimental
+    examples: >
+      [Annotator](https://athos.shinyapps.io/wavesurfer_annotator/), [Plugins](https://athos.shinyapps.io/wavesurfer_plugins/), [Decorations](https://athos.shinyapps.io/wavesurfer_decoration/)
+    ghauthor: athospd
+    short: >
+      R interface to wavesurfer.js.
+    description: >
+      An interactive soundwave player and visualizer with rich set of plugins and enhanced annotator tool. It works well with pipe (%>%) and can be used in Shiny. It is an interface of `wavesurfer.js` JavaScript library.
     
