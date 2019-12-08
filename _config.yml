@@ -1754,4 +1754,4 @@ widgets:
     short: >
       R Interface to the parcats trace of plotly.js with marginal histograms for numerical features.
     description: >
-      visualise your dataframe using alluvial plots with easyalluvial and convert them to an interactive diagram for even easier data exploration using parcats. Also supports model response and partial dependency plots.
+      Visualise your dataframe using alluvial plots with easyalluvial and convert them to an interactive diagram for even easier data exploration using parcats. Also supports model response and partial dependency plots.
