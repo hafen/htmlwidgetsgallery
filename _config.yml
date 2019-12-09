@@ -1738,3 +1738,20 @@ widgets:
     description: >
       An interactive soundwave player and visualizer with rich set of plugins and enhanced annotator tool. It works well with pipe (%>%) and can be used in Shiny. It is an interface of `wavesurfer.js` JavaScript library.
     
+    name: parcats
+    thumbnail: images/parcats.png
+    url: "https://erblast.github.io/parcats/"
+    jslibs: >
+      [plotly.js](https://plot.ly/javascript/)
+    ghuser: erblast
+    ghrepo: parcats
+    tags: visualization, d3, parallel_categories_diagram
+    cran: true
+    release: 
+    examples: >
+      [parcats](https://erblast.github.io/parcats/articles/parcats.html)
+    ghauthor: erblast
+    short: >
+      R Interface to the parcats trace of plotly.js with marginal histograms for numerical features.
+    description: >
+      Visualise your dataframe using alluvial plots with easyalluvial and convert them to an interactive diagram for even easier data exploration using parcats. Also supports model response and partial dependency plots.
