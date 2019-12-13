@@ -1737,7 +1737,7 @@ widgets:
       R interface to wavesurfer.js.
     description: >
       An interactive soundwave player and visualizer with rich set of plugins and enhanced annotator tool. It works well with pipe (%>%) and can be used in Shiny. It is an interface of `wavesurfer.js` JavaScript library.
-    
+  -  
     name: parcats
     thumbnail: images/parcats.png
     url: "https://erblast.github.io/parcats/"
@@ -1755,3 +1755,19 @@ widgets:
       R Interface to the parcats trace of plotly.js with marginal histograms for numerical features.
     description: >
       Visualise your dataframe using alluvial plots with easyalluvial and convert them to an interactive diagram for even easier data exploration using parcats. Also supports model response and partial dependency plots.
+  -
+    name: vennr
+    thumbnail: images/vennr.png
+    url: https://github.com/montilab/vennr
+    jslibs: >
+       [d3](https://d3js.org), [venn.js](https://github.com/benfred/venn.js/)
+    ghuser: montilab
+    ghrepo: vennr
+    tags: visualization, d3, venn
+    cran: false
+    examples: https://github.com/montilab/vennr
+    ghauthor: anfederico
+    short: >
+      R interface to venn.js
+    description: >
+      Area proportional venn and euler diagrams through venn.js
