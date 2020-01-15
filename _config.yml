@@ -1755,3 +1755,57 @@ widgets:
       R Interface to the parcats trace of plotly.js with marginal histograms for numerical features.
     description: >
       Visualise your dataframe using alluvial plots with easyalluvial and convert them to an interactive diagram for even easier data exploration using parcats. Also supports model response and partial dependency plots.
+  -
+    name: apexcharter
+    thumbnail: images/apexcharter.png
+    url: https://github.com/dreamRs/apexcharter
+    jslibs: >
+      [ApexCharts](https://github.com/apexcharts/apexcharts.js)
+    ghuser: dreamRs
+    ghrepo: apexcharter
+    tags: visualization,general
+    cran: true
+    release:
+    examples: >
+      https://dreamrs.github.io/apexcharter/articles/starting-with-apexcharts.html
+    ghauthor: pvictor
+    short: >
+      Create Interactive Chart with the JavaScript 'ApexCharts' Library.
+    description: >
+       Apexcharts is a modern JavaScript charting library to build interactive charts and visualizations with simple API.
+  -
+    name: tuichartr
+    thumbnail: images/tuichartr.png
+    url: https://github.com/dreamRs/tuichartr
+    jslibs: >
+      [tui.chart](https://github.com/nhn/tui.chart)
+    ghuser: dreamRs
+    ghrepo: tuichartr
+    tags: visualization,general,map
+    cran: false
+    release:
+    examples: >
+      https://dreamrs.github.io/tuichartr/articles/starting-with-tuichartr.html
+    ghauthor: pvictor
+    short: >
+      Create Interactive Visualisations with the JavaScript 'tui-chart' Library.
+    description: >
+       Beautiful chart for data visualization. Various type of charts are implemented: bar, column, line, area, boxplot, scatter, heatmap, treemap, radar, pie.
+  -
+    name: tuicalendr
+    thumbnail: images/tuicalendr.png
+    url: https://github.com/dreamRs/tuicalendr
+    jslibs: >
+      [tui.calendar](https://github.com/nhn/tui.calendar)
+    ghuser: dreamRs
+    ghrepo: tuicalendr
+    tags: time,calendar
+    cran: false
+    release:
+    examples: >
+      https://dreamrs.github.io/tuicalendr/articles/starting-with-tuicalendr.html
+    ghauthor: pvictor
+    short: >
+      Create Interactive Calendars with the JavaScript 'tui-calendar' Library
+    description: >
+       A JavaScript schedule calendar that is full featured.
