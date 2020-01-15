@@ -1737,7 +1737,7 @@ widgets:
       R interface to wavesurfer.js.
     description: >
       An interactive soundwave player and visualizer with rich set of plugins and enhanced annotator tool. It works well with pipe (%>%) and can be used in Shiny. It is an interface of `wavesurfer.js` JavaScript library.
-    
+  -
     name: parcats
     thumbnail: images/parcats.png
     url: "https://erblast.github.io/parcats/"
