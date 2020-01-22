@@ -289,7 +289,7 @@ widgets:
     ghuser: jpmarindiaz
     ghrepo: sigmaGraph
     tags: visualization,networks
-    cran: true
+    cran: 
     release: alpha
     examples:
     ghauthor: jpmarindiaz
