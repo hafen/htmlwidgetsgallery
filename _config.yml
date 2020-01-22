@@ -1857,3 +1857,20 @@ widgets:
        Interactive globes for R.
     description: >
        Interactive globes for R, includes; bars, hex, choropleth, labels, arcs, and paths.
+  -
+    name: vennr
+    thumbnail: images/vennr.png
+    url: https://github.com/montilab/vennr
+    jslibs: >
+      [d3](https://d3js.org), [venn.js](https://github.com/benfred/venn.js/)
+    ghuser: montilab
+    ghrepo: vennr
+    tags: visualization, d3, venn
+    cran: false
+    examples: https://github.com/montilab/vennr
+    ghauthor: anfederico
+    short: >
+      R interface to venn.js
+    description: >
+      Area proportional venn and euler diagrams through venn.js
+   
