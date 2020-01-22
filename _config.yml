@@ -289,7 +289,7 @@ widgets:
     ghuser: jpmarindiaz
     ghrepo: sigmaGraph
     tags: visualization,networks
-    cran:
+    cran: true
     release: alpha
     examples:
     ghauthor: jpmarindiaz
@@ -1809,3 +1809,51 @@ widgets:
       Create Interactive Calendars with the JavaScript 'tui-calendar' Library
     description: >
        A JavaScript schedule calendar that is full featured.
+  -
+    name: grapher
+    thumbnail: images/grapher.png
+    url: https://grapher.network
+    jslibs: >
+      [ngraph](https://github.com/anvaka/ngraph)
+    ghuser: JohnCoene
+    ghrepo: grapher
+    tags: visualization,network,graph,3D
+    cran: false
+    release:
+    examples: >
+      https://grapher.network/blog/
+    ghauthor: JohnCoene
+    short: >
+      3D Network Visualisation for large monopartite graphs.
+    description: >
+       An integration of the works of Andrei Kashcha to visualise large network graphs.
+  -
+    name: g2r
+    thumbnail: images/g2r.png
+    url: https://g2r.dev/
+    jslibs: >
+      [g2](https://github.com/antvis/g2)
+    ghuser: JohnCoene
+    ghrepo: g2r
+    tags: visualization,grammar
+    cran: false
+    ghauthor: JohnCoene
+    short: >
+       A ggplot2-inspired grammar of graphics for interactive visualisations.
+    description: >
+       A ggplot2-inspired grammar of graphics for interactive visualisations using g2.
+  -
+    name: globe4r
+    thumbnail: images/globe4r.png
+    url: https://globe4r.john-coene.com/
+    jslibs: >
+      [globe.gl](https://github.com/vasturiano/globe.gl)
+    ghuser: JohnCoene
+    ghrepo: globe4r
+    tags: visualization,globe,map,geo
+    cran: false
+    ghauthor: JohnCoene
+    short: >
+       Interactive globes for R.
+    description: >
+       Interactive globes for R, includes; bars, hex, choropleth, labels, arcs, and paths.
