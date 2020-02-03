@@ -1876,7 +1876,7 @@ widgets:
   -
     name: iheatmapr
     thumbnail: images/iheatmapr.png
-    url: https://github.com/ropensci/iheatmapr
+    url: https://docs.ropensci.org/iheatmapr
     jslibs: >
       [plotly](https://plot.ly/)
     ghuser: ropensci
