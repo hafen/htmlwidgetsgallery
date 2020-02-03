@@ -1884,7 +1884,7 @@ widgets:
     tags: visualization, heatmap
     cran: true
     examples: https://docs.ropensci.org/iheatmapr/articles/full_vignettes/iheatmapr.html
-    ghauthor: aschep
+    ghauthor: AliciaSchep
     short: >
       Complex interactive heatmaps
     description: >
