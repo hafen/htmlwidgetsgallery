@@ -1873,4 +1873,20 @@ widgets:
       R interface to venn.js
     description: >
       Area proportional venn and euler diagrams through venn.js
+  -
+    name: iheatmapr
+    thumbnail: images/iheatmapr.png
+    url: https://docs.ropensci.org/iheatmapr
+    jslibs: >
+      [plotly](https://plot.ly/)
+    ghuser: ropensci
+    ghrepo: iheatmapr
+    tags: visualization, heatmap
+    cran: true
+    examples: https://docs.ropensci.org/iheatmapr/articles/full_vignettes/iheatmapr.html
+    ghauthor: AliciaSchep
+    short: >
+      Complex interactive heatmaps
+    description: >
+      A modular interface for iteratively building up complex, interactive heatmaps.
    
