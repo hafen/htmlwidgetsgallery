@@ -1889,4 +1889,22 @@ widgets:
       Complex interactive heatmaps
     description: >
       A modular interface for iteratively building up complex, interactive heatmaps.
-   
+      
+     
+    name: corrly
+    thumbnail: images/newplot.png
+    url: https://kmaheshkulkarni.github.io/corrly
+    jslibs: >
+       [plotly.js](https://github.com/plotly/plotly.js)
+    ghuser: kmaheshkulkarni
+    ghrepo: corrly
+    tags: visualization,matrix, scatter plot, autocorrelation, correlation, normal distribution, plotly
+    cran: false
+    release: stable
+    examples: >
+      https://kmaheshkulkarni.github.io/corrly/articles/corrly.html
+    ghauthor: MaheshKulkarni
+    short: >
+      All Types of Correlation Charts using 'plotly'
+    description: >
+      This is a Data Visualization Package For all types of Correlation.
