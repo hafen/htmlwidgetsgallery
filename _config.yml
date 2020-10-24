@@ -1889,8 +1889,7 @@ widgets:
       Complex interactive heatmaps
     description: >
       A modular interface for iteratively building up complex, interactive heatmaps.
-      
-     
+  -    
     name: corrly
     thumbnail: images/newplot.png
     url: https://kmaheshkulkarni.github.io/corrly
@@ -1908,3 +1907,115 @@ widgets:
       All Types of Correlation Charts using 'plotly'
     description: >
       This is a Data Visualization Package For all types of Correlation.
+  -
+    name: jsTreeR
+    thumbnail: images/stla-jsTreeR.png
+    url: https://github.com/stla/jsTreeR
+    jslibs: >
+       [jsTree](https://www.jstree.com/), [jQuery](https://jquery.com/), [jstree-bootstrap-theme](https://github.com/orangehill/jstree-bootstrap-theme), [jsTreeGrid](https://github.com/deitch/jstree-grid)
+    ghuser: stla
+    ghrepo: jsTreeR
+    tags: hierarchical data,checkbox tree
+    cran: true
+    examples: https://github.com/stla/jsTreeR
+    ghauthor: stla
+    short: >
+      Interactive trees.
+    description: >
+      Creates interactive trees. A tree allows to represent hierarchical data (e.g. the contents of a directory). Similar to the 'shinyTree' package but offers more features and options, such as the grid extension, restricting the drag-and-drop behavior, and settings for the search functionality. It is possible to attach some data to the nodes of a tree and then to get these data in 'Shiny' when a node is selected. Also provides a 'Shiny' gadget allowing to manipulate one or more folders.
+  -
+    name: thorn
+    thumbnail: images/stla-thorn.png
+    url: https://github.com/stla/thorn
+    jslibs: >
+       [PixiJS](https://github.com/pixijs/pixi.js), [Hamster.js](https://github.com/monospaced/hamster.js)
+    ghuser: stla
+    ghrepo: thorn
+    tags: shaders,webgl
+    cran: true
+    examples: https://github.com/stla/thorn
+    ghauthor: stla
+    short: >
+      Some shaders.
+    description: >
+      Creates some 'WebGL' shaders. They can be used as the background of a 'Shiny' app. They also can be visualized in the 'RStudio' viewer pane or included in 'Rmd' documents, but this is pretty useless, besides contemplating them.
+  -
+    name: findInFiles
+    thumbnail: images/stla-findInFiles.png
+    url: https://github.com/stla/findInFiles
+    jslibs: >
+       [ansi-to-html](https://github.com/rburns/ansi-to-html)
+    ghuser: stla
+    ghrepo: findInFiles
+    tags: utility
+    cran: true
+    examples: https://github.com/stla/findInFiles
+    ghauthor: stla
+    short: >
+      Find a pattern in some files.
+    description: >
+      A HTML widget which displays the results of searching for a pattern in files in a given folder. The results are colored.
+  -
+    name: graph3d
+    thumbnail: images/stla-graph3d.png
+    url: https://github.com/stla/graph3d
+    jslibs: >
+       [vis-graph3d](https://github.com/visjs/vis-graph3d)
+    ghuser: stla
+    ghrepo: graph3d
+    tags: visualization,3D
+    cran: true
+    examples: https://github.com/stla/graph3d
+    ghauthor: stla
+    short: >
+      Interactive 3D charts.
+    description: >
+      Create interactive visualization charts to draw data in three dimensional graphs. The charts can be animated.
+  -
+    name: rAmCharts4
+    thumbnail: images/stla-rAmCharts4.png
+    url: https://github.com/stla/rAmCharts4
+    jslibs: >
+       [amCharts4](https://github.com/amcharts/amcharts4/), [regression-js](https://github.com/Tom-Alexander/regression-js/)
+    ghuser: stla
+    ghrepo: rAmCharts4
+    tags: visualization
+    cran: true
+    examples: https://github.com/stla/rAmCharts4
+    ghauthor: stla
+    short: >
+      Interactive charts.
+    description: >
+      Creates JavaScript charts. Currently available types of chart are: vertical and horizontal bar chart, radial bar chart, vertical and horizontal Dumbbell chart, line chart, scatter chart, range area chart, and gauge chart.
+  -
+    name: aceEditor
+    thumbnail: images/stla-aceEditor.png
+    url: https://github.com/stla/aceEditor
+    jslibs: >
+       [react-ace](https://github.com/securingsincity/react-ace)
+    ghuser: stla
+    ghrepo: aceEditor
+    tags: utility,code editor
+    cran: true
+    examples: https://github.com/stla/aceEditor
+    ghauthor: stla
+    short: >
+      The Ace editor.
+    description: >
+      Wraps the 'Ace' editor in a HTML widget. The 'Ace' editor has support for many languages. It can be opened in the viewer pane of 'RStudio', and this provides a second source editor. The package also makes available the 'Ace diff' editor as a HTML widget, which highlights the differences between two files.
+  -
+    name: monaco
+    thumbnail: images/stla-monaco.png
+    url: https://github.com/stla/monaco
+    jslibs: >
+       [Monaco Editor](https://github.com/microsoft/monaco-editor)
+    ghuser: stla
+    ghrepo: monaco
+    tags: utility,code editor
+    cran: true
+    examples: https://github.com/stla/monaco
+    ghauthor: stla
+    short: >
+      The Monaco editor.
+    description: >
+      A HTML widget rendering the Monaco editor. The Monaco editor is the code editor which powers 'VS Code'. It is particularly well developed for JavaScript. In addition to the built-in features of the Monaco editor, the widget allows to prettify multiple languages, to view the HTML rendering of Markdown code, and to view and resize SVG images.
