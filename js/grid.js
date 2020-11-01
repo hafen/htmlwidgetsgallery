@@ -149,7 +149,7 @@ $( function() {
         var tags = $(this).find('.widget-tags').html();
         tags = tags.split(',');
         for (var i = 0; i < tags.length; i++) {
-          tagBool = tagBool || (tags[i] == tagVal);
+          tagBool = tagBool || (tags[i].trim() == tagVal);
         }
       }
 
