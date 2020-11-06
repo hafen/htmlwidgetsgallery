@@ -1528,6 +1528,26 @@ widgets:
     description: >
       An htmlwidget binding for [LineUp.js](https://github.com/lineupjs/lineupjs) multi attribute ranking library, developed by [Samuel Gratzl](https://github.com/sgratzl) and the [Caleydo Team](http://caleydo.org). Crosstalk is supported for syncing selections and filtering.
   -
+    name: upsetjs
+    thumbnail: images/upsetjs-upsetjs_r.png
+    url: https://github.com/upsetjs/upsetjs_r
+    jslibs: >
+       [upsetjs](https://github.com/upsetjs/upsetjs)
+    ghuser: upsetjs
+    ghrepo: upsetjs_r
+    tags: visualization,upset,upsetr,set,venn diagram,crosstalk
+    cran: true
+    release: 0.6.0
+    examples: 
+      - https://upset.js.org/integrations/r/articles/basic.html
+      - https://upset.js.org/integrations/r
+      - https://upset.js.org
+    ghauthor: sgratzl
+    short: >
+      UpSet.js is a re-implementation of UpSetR to create interactive set visualizations for more than three sets.
+    description: >
+      This is a [HTMLWidget](http://www.htmlwidgets.org/) wrapper around the JavaScript library [UpSet.js](https://github.com/upsetjs/upsetjs) and an alternative implementation of [UpSetR](https://www.rdocumentation.org/packages/UpSetR). More details can be found on https://upset.js.org.
+  -
     name: shinyaframe
     thumbnail: images/wmurphyrd-shinyaframe.png
     url: https://github.com/wmurphyrd/shinyaframe
