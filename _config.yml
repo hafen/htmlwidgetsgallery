@@ -167,7 +167,7 @@ widgets:
     ghauthor: rstudio
     short: >
       Leaflet is an open-source JavaScript library for interactive maps. This package makes it easy to create Leaflet maps from R.
-    description: >
+    description:
   -
     name: DT
     thumbnail: images/rstudio-DT.png
@@ -183,7 +183,7 @@ widgets:
     ghauthor: rstudio
     short: >
       This package provides a function datatable() to display R data via the DataTables javascript library.
-    description: >
+    description:
   -
     name: dygraphs
     thumbnail: images/rstudio-dygraphs.png
@@ -199,7 +199,7 @@ widgets:
     ghauthor: rstudio
     short: >
       An R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
-    description: >
+    description:
   -
     name: metricsgraphics
     thumbnail: images/hrbrmstr-metricsgraphics.png
@@ -215,7 +215,7 @@ widgets:
     ghauthor: hrbrmstr
     short: >
       An htmlwidget interface to the MetricsGraphics.js D3-based charting library.
-    description: >
+    description:
   -
     name: streamgraph
     thumbnail: images/hrbrmstr-streamgraph.png
@@ -231,7 +231,7 @@ widgets:
     ghauthor: hrbrmstr
     short: >
       An htmlwidget for making streamgraphs.
-    description: >
+    description:
   -
     name: networkD3
     thumbnail: images/christophergandrud-networkD3.png
@@ -247,7 +247,7 @@ widgets:
     ghauthor: christophergandrud
     short: >
       A port of Christopher Gandrud's d3Network package to the htmlwidgets framework.
-    description: >
+    description:
   -
     name: threejs
     thumbnail: images/bwlewis-rthreejs.png
@@ -263,7 +263,7 @@ widgets:
     ghauthor: bwlewis
     short: >
       An htmlwidgets binding for three.js.
-    description: >
+    description:
   -
     name: DiagrammeR
     thumbnail: images/rich-iannone-DiagrammeR.png
@@ -279,7 +279,7 @@ widgets:
     ghauthor: rich-iannone
     short: >
       Easily create graph diagrams using R.
-    description: >
+    description:
   -
     name: sigmaGraph
     thumbnail: images/jpmarindiaz-sigmaGraph.png
@@ -295,7 +295,7 @@ widgets:
     ghauthor: jpmarindiaz
     short: >
       R interface to sigmajs library.
-    description: >
+    description:
   -
     name: bubbleCloud
     thumbnail:
@@ -308,8 +308,8 @@ widgets:
     release: alpha
     examples:
     ghauthor: jpmarindiaz
-    short: >
-    description: >
+    short:
+    description:
   -
     name: d3plus
     thumbnail: images/jpmarindiaz-d3plus.png
@@ -325,7 +325,7 @@ widgets:
     ghauthor: jpmarindiaz
     short: >
       R Htmlwidget for d3plus.
-    description: >
+    description:
   -
     name: isotope
     thumbnail: images/jpmarindiaz-isotope.png
@@ -341,7 +341,7 @@ widgets:
     ghauthor: jpmarindiaz
     short: >
       Isotope layout library for rendering R data frames as interactive galleries.
-    description: >
+    description:
   -
     name: D3TableFilter
     thumbnail: images/ThomasSiegmund-D3TableFilter.png
@@ -357,7 +357,7 @@ widgets:
     ghauthor: ThomasSiegmund
     short: >
       A table widget based on Max Guglielmi's "HTML Table Filter Generator" and D3.js.
-    description: >
+    description:
   -
     name: rhandsontable
     thumbnail: images/jrowen-rhandsontable.png
@@ -373,7 +373,7 @@ widgets:
     ghauthor: jrowen
     short: >
       An htmlwidgets implementation of Handsontable.js, a minimalist Excel-like data grid editor for HTML & JavaScript.
-    description: >
+    description:
   -
     name: rcdimple
     thumbnail: images/timelyportfolio-rcdimple.png
@@ -389,7 +389,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       An htmlwidget for dimple.js. The goal is beautiful, customizable d3.js charts with minimal code and no knowledge of JavaScript.
-    description: >
+    description:
   -
     name: sortableR
     thumbnail: images/timelyportfolio-sortableR.png
@@ -405,7 +405,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       sortableR attempts to harness some of the power of Sortable.js.
-    description: >
+    description:
   -
     name: parcoords
     thumbnail: images/timelyportfolio-parcoords.png
@@ -421,7 +421,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       R htmlwidget for parallel-coordinates d3 chart.
-    description: >
+    description:
   -
     name: listviewer
     thumbnail: images/timelyportfolio-listviewer.png
@@ -437,7 +437,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       A package of R htmlwidgets to interactively view and maybe modify lists. Provides one interface to jsoneditor.
-    description: >
+    description:
   -
     name: svgPanZoom
     thumbnail: images/svgPanZoom.png
@@ -453,7 +453,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       Gives R users an easy way to add panning and zooming to any R graphics (base, ggplot2, lattice, and lots more).
-    description: >
+    description:
   -
     name: exportwidget
     thumbnail:
@@ -469,7 +469,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       R htmlwidget to export other htmlwidgets and SVG as png.
-    description: >
+    description:
   -
     name: imageR
     thumbnail: images/timelyportfolio-imageR.png
@@ -485,7 +485,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       Intense-images htmlwidget for R.
-    description: >
+    description:
   -
     name: chartist
     thumbnail: images/yutannihilation-chartist.png
@@ -501,7 +501,7 @@ widgets:
     ghauthor: yutannihilation
     short: >
       R interface to chartist.js.
-    description: >
+    description:
   -
     name: phylowidget
     thumbnail: images/sdwfrost-phylowidget.png
@@ -517,7 +517,7 @@ widgets:
     ghauthor: sdwfrost
     short: >
       An R interface to phylotree.js, a JavaScript interactive viewer of phylogenetic trees.
-    description: >
+    description:
   -
     name: qtlcharts
     thumbnail: images/kbroman-qtlcharts.png
@@ -533,7 +533,7 @@ widgets:
     ghauthor: kbroman
     short: >
       Interactive Graphics FOR QTL Experiments.
-    description: >
+    description:
   -
     name: highchartR
     thumbnail:
@@ -549,7 +549,7 @@ widgets:
     ghauthor: jcizel
     short: >
       An htmlwidget wrapper for Highcharts and Highstock APIs.
-    description: >
+    description:
   -
     name: greatCircles
     thumbnail: images/homeaway-great-circles.png
@@ -565,7 +565,7 @@ widgets:
     ghauthor: homeaway
     short: >
       Create great circles arcs via d3, Shiny, htmlwidgets and R.
-    description: >
+    description:
   -
     name: sparklines
     thumbnail: images/htmlwidgets-sparkline.png
@@ -581,7 +581,7 @@ widgets:
     ghauthor: htmlwidgets
     short: >
       Create jquery sparklines from R.
-    description: >
+    description:
   -
     name: rWordCloud
     thumbnail: images/adymimos-rWordCloud.png
@@ -597,7 +597,7 @@ widgets:
     ghauthor: adymimos
     short: >
       An htmlwidget interface for d3 word cloud.
-    description: >
+    description:
   -
     name: c3r
     thumbnail: images/HarlanH-c3r.png
@@ -613,7 +613,7 @@ widgets:
     ghauthor: HarlanH
     short: >
       An htmlwidgets interface to the c3.js d3 charting library.
-    description: >
+    description:
   -
     name: dcStockR
     thumbnail: images/yutannihilation-dcStockR.png
@@ -629,7 +629,7 @@ widgets:
     ghauthor: yutannihilation
     short: >
       R bindings for dc.js.
-    description: >
+    description:
   -
     name: scatterMatrixD3
     thumbnail: images/jcizel-scatterMatrixD3.png
@@ -645,7 +645,7 @@ widgets:
     ghauthor: jcizel
     short: >
       R interface to Benjie Chen's extension of Mike Bostock's scatterplot matrix.
-    description: >
+    description:
   -
     name: rbokeh
     thumbnail: images/bokeh-rbokeh.png
@@ -661,7 +661,7 @@ widgets:
     ghauthor: hafen
     short: >
       An interface to Bokeh that provides a flexible, powerful, declarative framework for creating interactive plots.
-    description: >
+    description:
   -
     name: d3heatmap
     thumbnail: images/rstudio-d3heatmap.png
@@ -677,7 +677,7 @@ widgets:
     ghauthor: rstudio
     short: >
       A D3.js-based heatmap htmlwidget for R.
-    description: >
+    description:
   -
     name: rpivotTable
     thumbnail: images/smartinsightsfromdata-rpivotTable.png
@@ -693,7 +693,7 @@ widgets:
     ghauthor: smartinsightsfromdata
     short: >
       R interface to the pivottable library.
-    description: >
+    description:
   -
     name: formattable
     thumbnail: images/renkun-ken-formattable.png
@@ -708,7 +708,7 @@ widgets:
     ghauthor: renkun-ken
     short: >
       Formattable data structures.
-    description: >
+    description:
   -
     name: bubbles
     thumbnail: images/jcheng5-bubbles.png
@@ -724,7 +724,7 @@ widgets:
     ghauthor: jcheng5
     short: >
       d3 Bubble Chart htmlwidget.
-    description: >
+    description:
   -
     name: pairsD3
     thumbnail: images/garthtarr-pairsD3.png
@@ -740,7 +740,7 @@ widgets:
     ghauthor: garthtarr
     short: >
       D3 Scatterplot Matrices.
-    description: >
+    description:
   -
     name: edgebundleR
     thumbnail: images/garthtarr-edgebundleR.png
@@ -756,7 +756,7 @@ widgets:
     ghauthor: garthtarr
     short: >
       Circle plot with bundled edges.
-    description: >
+    description:
   -
     name: katexR
     thumbnail: images/timelyportfolio-katexR.png
@@ -772,7 +772,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       KaTeX in R.
-    description: >
+    description:
   -
     name: navr
     thumbnail: images/timelyportfolio-navr.png
@@ -788,7 +788,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       An htmlwidget for Responsive-Nav.
-    description: >
+    description:
   -
     name: gamer
     thumbnail: images/timelyportfolio-gamer.png
@@ -804,7 +804,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       Games as htmlwidgets for R.
-    description: >
+    description:
   -
     name: materializeR
     thumbnail: images/timelyportfolio-materializeR.png
@@ -820,7 +820,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       Materialize front-end web framework as an htmlwidget in R.
-    description: >
+    description:
   -
     name: comicR
     thumbnail: images/timelyportfolio-comicR.png
@@ -836,7 +836,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       Comic (xkcd-like) effects for R output.
-    description: >
+    description:
   -
     name: loryR
     thumbnail: images/timelyportfolio-loryR.png
@@ -852,7 +852,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       Slider htmlwidget your images based on lory.js.
-    description: >
+    description:
   -
     name: d3vennR
     thumbnail: images/timelyportfolio-d3vennR.png
@@ -868,7 +868,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       Interactive Venn/Euler diagrams in R.
-    description: >
+    description:
   -
     name: flowtypeR
     thumbnail: images/timelyportfolio-flowtypeR.png
@@ -884,7 +884,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       R htmlwidget for flowtype.js.
-    description: >
+    description:
   -
     name: sweetalertR
     thumbnail: images/timelyportfolio-sweetalertR.png
@@ -900,7 +900,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       R htmlwidget for SweetAlert.
-    description: >
+    description:
   -
     name: sunburstR
     thumbnail: images/timelyportfolio-sunburstR.png
@@ -916,7 +916,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       R htmlwidget for d3.js sequences sunburst.
-    description: >
+    description:
   -
     name: d3hiveR
     thumbnail: images/timelyportfolio-d3hiveR.png
@@ -932,7 +932,7 @@ widgets:
     ghauthor: timelyportfolio
     short: >
       R htmlwidget for d3.js hive plots.
-    description: >
+    description:
   -
     name: calheatmapR
     thumbnail: images/durtal-calheatmapR.png
@@ -948,7 +948,7 @@ widgets:
     ghauthor: durtal
     short: >
       Interface to the cal-heatmap Javascript charting library.
-    description: >
+    description:
   -
     name: coffeewheel
     thumbnail: images/armish-coffeewheel.png
@@ -1358,7 +1358,7 @@ widgets:
     ghauthor: jeffbaumes
     short: >
       Visualization component suite with a simple normalized API.
-    description: >
+    description:
   -
     name: collapsibleTree
     thumbnail: images/collapsibleTree.png
@@ -1407,7 +1407,7 @@ widgets:
     ghauthor: talgalili
     short: >
       Create Interactive Cluster Heat Maps Using 'plotly'.
-    description: >
+    description:
   -
     name: D3plusR
     thumbnail: images/d3plusr_thumbnail.png
@@ -1440,7 +1440,7 @@ widgets:
     ghauthor: cmap
     short: >
       A morpheus.js-based heatmap htmlwidget for R.
-    description: >
+    description:
   -
     name: leaflet.minicharts
     thumbnail: images/leaflet.minicharts.png
@@ -1457,7 +1457,7 @@ widgets:
     ghauthor: FrancoisGuillem
     short: >
       Add tiny dynamic charts on an interactive map to represent at same time multiple variables and their evolution.
-    description: >
+    description:
   -
     name: manipulateWidget
     thumbnail: images/manipulateWidget.png
@@ -1473,7 +1473,7 @@ widgets:
     ghauthor: FrancoisGuillem
     short: >
       Combine multiple htmlwidgets in a single one and dynamically modify their data and their graphical parameters.
-    description: >
+    description:
   -
     name: BioCircos
     thumbnail: images/BioCircos.png
@@ -1889,8 +1889,7 @@ widgets:
       Complex interactive heatmaps
     description: >
       A modular interface for iteratively building up complex, interactive heatmaps.
-      
-     
+  -    
     name: corrly
     thumbnail: images/newplot.png
     url: https://kmaheshkulkarni.github.io/corrly
@@ -1908,8 +1907,6 @@ widgets:
       All Types of Correlation Charts using 'plotly'
     description: >
       This is a Data Visualization Package For all types of Correlation.
-
-
  name: pivta
     thumbnail: images/pivta.png
     url: https://github.com/feddelegrand7/pivta
@@ -1930,7 +1927,115 @@ widgets:
       'WebDataRocks' 'JavaScript' library and 'htmlwidgets' package. 
       Two types of data are supported: 'CSV' and 'JSON'. 
       See <https://www.webdatarocks.com/>.
-
-
-
-
+  -
+    name: jsTreeR
+    thumbnail: images/stla-jsTreeR.png
+    url: https://github.com/stla/jsTreeR
+    jslibs: >
+       [jsTree](https://www.jstree.com/), [jQuery](https://jquery.com/), [jstree-bootstrap-theme](https://github.com/orangehill/jstree-bootstrap-theme), [jsTreeGrid](https://github.com/deitch/jstree-grid)
+    ghuser: stla
+    ghrepo: jsTreeR
+    tags: hierarchical data,checkbox tree
+    cran: true
+    examples: https://github.com/stla/jsTreeR
+    ghauthor: stla
+    short: >
+      Interactive trees.
+    description: >
+      Creates interactive trees. A tree allows to represent hierarchical data (e.g. the contents of a directory). Similar to the 'shinyTree' package but offers more features and options, such as the grid extension, restricting the drag-and-drop behavior, and settings for the search functionality. It is possible to attach some data to the nodes of a tree and then to get these data in 'Shiny' when a node is selected. Also provides a 'Shiny' gadget allowing to manipulate one or more folders.
+  -
+    name: thorn
+    thumbnail: images/stla-thorn.png
+    url: https://github.com/stla/thorn
+    jslibs: >
+       [PixiJS](https://github.com/pixijs/pixi.js), [Hamster.js](https://github.com/monospaced/hamster.js)
+    ghuser: stla
+    ghrepo: thorn
+    tags: shaders,webgl
+    cran: true
+    examples: https://github.com/stla/thorn
+    ghauthor: stla
+    short: >
+      Some shaders.
+    description: >
+      Creates some 'WebGL' shaders. They can be used as the background of a 'Shiny' app. They also can be visualized in the 'RStudio' viewer pane or included in 'Rmd' documents, but this is pretty useless, besides contemplating them.
+  -
+    name: findInFiles
+    thumbnail: images/stla-findInFiles.png
+    url: https://github.com/stla/findInFiles
+    jslibs: >
+       [ansi-to-html](https://github.com/rburns/ansi-to-html)
+    ghuser: stla
+    ghrepo: findInFiles
+    tags: utility
+    cran: true
+    examples: https://github.com/stla/findInFiles
+    ghauthor: stla
+    short: >
+      Find a pattern in some files.
+    description: >
+      A HTML widget which displays the results of searching for a pattern in files in a given folder. The results are colored.
+  -
+    name: graph3d
+    thumbnail: images/stla-graph3d.png
+    url: https://github.com/stla/graph3d
+    jslibs: >
+       [vis-graph3d](https://github.com/visjs/vis-graph3d)
+    ghuser: stla
+    ghrepo: graph3d
+    tags: visualization,3D
+    cran: true
+    examples: https://github.com/stla/graph3d
+    ghauthor: stla
+    short: >
+      Interactive 3D charts.
+    description: >
+      Create interactive visualization charts to draw data in three dimensional graphs. The charts can be animated.
+  -
+    name: rAmCharts4
+    thumbnail: images/stla-rAmCharts4.png
+    url: https://github.com/stla/rAmCharts4
+    jslibs: >
+       [amCharts4](https://github.com/amcharts/amcharts4/), [regression-js](https://github.com/Tom-Alexander/regression-js/)
+    ghuser: stla
+    ghrepo: rAmCharts4
+    tags: visualization
+    cran: true
+    examples: https://github.com/stla/rAmCharts4
+    ghauthor: stla
+    short: >
+      Interactive charts.
+    description: >
+      Creates JavaScript charts. Currently available types of chart are: vertical and horizontal bar chart, radial bar chart, vertical and horizontal Dumbbell chart, line chart, scatter chart, range area chart, and gauge chart.
+  -
+    name: aceEditor
+    thumbnail: images/stla-aceEditor.png
+    url: https://github.com/stla/aceEditor
+    jslibs: >
+       [react-ace](https://github.com/securingsincity/react-ace)
+    ghuser: stla
+    ghrepo: aceEditor
+    tags: utility,code editor
+    cran: true
+    examples: https://github.com/stla/aceEditor
+    ghauthor: stla
+    short: >
+      The Ace editor.
+    description: >
+      Wraps the 'Ace' editor in a HTML widget. The 'Ace' editor has support for many languages. It can be opened in the viewer pane of 'RStudio', and this provides a second source editor. The package also makes available the 'Ace diff' editor as a HTML widget, which highlights the differences between two files.
+  -
+    name: monaco
+    thumbnail: images/stla-monaco.png
+    url: https://github.com/stla/monaco
+    jslibs: >
+       [Monaco Editor](https://github.com/microsoft/monaco-editor)
+    ghuser: stla
+    ghrepo: monaco
+    tags: utility,code editor
+    cran: true
+    examples: https://github.com/stla/monaco
+    ghauthor: stla
+    short: >
+      The Monaco editor.
+    description: >
+      A HTML widget rendering the Monaco editor. The Monaco editor is the code editor which powers 'VS Code'. It is particularly well developed for JavaScript. In addition to the built-in features of the Monaco editor, the widget allows to prettify multiple languages, to view the HTML rendering of Markdown code, and to view and resize SVG images.
