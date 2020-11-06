@@ -1513,10 +1513,10 @@ widgets:
   -
     name: lineupjs
     thumbnail: images/lineup.png
-    url: https://github.com/sgratzl/lineup_htmlwidget
+    url: https://github.com/lineupjs/lineup_htmlwidget
     jslibs: >
-       [lineupjs](https://github.com/datavisyn/lineupjs)
-    ghuser: datavisyn
+       [lineupjs](https://github.com/lineupjs/lineupjs)
+    ghuser: lineupjs
     ghrepo: lineup_htmlwidget
     tags: visualization, lineup, ranking, table, crosstalk
     cran: true
@@ -1526,7 +1526,7 @@ widgets:
     short: >
       An htmlwidgets binding for the LineUp.js library.
     description: >
-      An htmlwidget binding for [LineUp.js](https://github.com/sgratzl/lineupjs) multi attribute ranking library, developed by [Samuel Gratzl](https://github.com/sgratzl) and the [Caleydo Team](http://caleydo.org). Crosstalk is supported for syncing selections and filtering
+      An htmlwidget binding for [LineUp.js](https://github.com/lineupjs/lineupjs) multi attribute ranking library, developed by [Samuel Gratzl](https://github.com/sgratzl) and the [Caleydo Team](http://caleydo.org). Crosstalk is supported for syncing selections and filtering.
   -
     name: shinyaframe
     thumbnail: images/wmurphyrd-shinyaframe.png
