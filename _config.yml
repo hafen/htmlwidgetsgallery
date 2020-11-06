@@ -1908,3 +1908,29 @@ widgets:
       All Types of Correlation Charts using 'plotly'
     description: >
       This is a Data Visualization Package For all types of Correlation.
+
+
+ name: pivta
+    thumbnail: images/pivta.png
+    url: https://github.com/feddelegrand7/pivta
+    jslibs: >
+       [webdatarocks.js](https://www.webdatarocks.com/)
+    ghuser: feddelegrand7
+    ghrepo: pivta
+    tags: data,tables, pivot table, data summary
+    cran: false
+    release: stable
+    examples: >
+      https://github.com/feddelegrand7/pivta
+    ghauthor: feddelegrand7
+    short: >
+      Create an Interactive Pivot Table with Data Analysis Tools
+    description: >
+      The package allows users to create an interactive pivot table, along with many data analysis features using the 
+      'WebDataRocks' 'JavaScript' library and 'htmlwidgets' package. 
+      Two types of data are supported: 'CSV' and 'JSON'. 
+      See <https://www.webdatarocks.com/>.
+
+
+
+
