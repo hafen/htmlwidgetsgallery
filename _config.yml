@@ -1927,7 +1927,8 @@ widgets:
       All Types of Correlation Charts using 'plotly'
     description: >
       This is a Data Visualization Package For all types of Correlation.
- name: pivta
+  -
+    name: pivta
     thumbnail: images/pivta.png
     url: https://github.com/feddelegrand7/pivta
     jslibs: >
