@@ -8,6 +8,22 @@ sass:
 
 widgets:
   -
+    name: threeBrain
+    thumbnail: images/dipterix-threeBrain.png
+    url: https://dipterix.github.io/threeBrain
+    jslibs: >
+       [threejs](http://threejs.org)
+    ghuser: dipterix
+    ghrepo: threeBrain
+    tags: visualization, 3D, webgl, MRI
+    cran: true
+    examples: https://dipterix.github.io/threeBrain
+    ghauthor: dipterix
+    short: >
+      Interactive 3D brain viewer
+    description: >
+      View FreeSurfer and AFNI/SUMA data in R, can easily interact with R-shiny.
+  -
     name: rpdf
     thumbnail: images/yonicd-rpdf.png
     url: https://github.com/yonicd/rpdf
@@ -289,7 +305,7 @@ widgets:
     ghuser: jpmarindiaz
     ghrepo: sigmaGraph
     tags: visualization,networks
-    cran: 
+    cran:
     release: alpha
     examples:
     ghauthor: jpmarindiaz
@@ -1538,7 +1554,7 @@ widgets:
     tags: visualization,upset,upsetr,set,venn diagram,crosstalk
     cran: true
     release: 0.6.0
-    examples: 
+    examples:
       - https://upset.js.org/integrations/r/articles/basic.html
       - https://upset.js.org/integrations/r
       - https://upset.js.org
@@ -1767,7 +1783,7 @@ widgets:
     ghrepo: parcats
     tags: visualization, d3, parallel_categories_diagram
     cran: true
-    release: 
+    release:
     examples: >
       [parcats](https://erblast.github.io/parcats/articles/parcats.html)
     ghauthor: erblast
@@ -1909,7 +1925,7 @@ widgets:
       Complex interactive heatmaps
     description: >
       A modular interface for iteratively building up complex, interactive heatmaps.
-  -    
+  -
     name: corrly
     thumbnail: images/newplot.png
     url: https://kmaheshkulkarni.github.io/corrly
@@ -1944,9 +1960,9 @@ widgets:
     short: >
       Create an Interactive Pivot Table with Data Analysis Tools
     description: >
-      The package allows users to create an interactive pivot table, along with many data analysis features using the 
-      'WebDataRocks' 'JavaScript' library and 'htmlwidgets' package. 
-      Two types of data are supported: 'CSV' and 'JSON'. 
+      The package allows users to create an interactive pivot table, along with many data analysis features using the
+      'WebDataRocks' 'JavaScript' library and 'htmlwidgets' package.
+      Two types of data are supported: 'CSV' and 'JSON'.
       See <https://www.webdatarocks.com/>.
   -
     name: jsTreeR
