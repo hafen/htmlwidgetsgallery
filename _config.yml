@@ -2091,7 +2091,7 @@ widgets:
     examples: https://mihaiv.shinyapps.io/annotator/
     ghauthor: valcu
     short: >
-      Image annotation,.
+      Image Annotation and Polygon Outlining using Free Drawing
     description: >
       Annotator provides functions to create image annotations through polygon outlining. Annotator has the same function as graphics::locator() but achieves its purpose through drawing, rather than multiple mouse clicks.
 
