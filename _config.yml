@@ -2076,3 +2076,23 @@ widgets:
       The Monaco editor.
     description: >
       A HTML widget rendering the Monaco editor. The Monaco editor is the code editor which powers 'VS Code'. It is particularly well developed for JavaScript. In addition to the built-in features of the Monaco editor, the widget allows to prettify multiple languages, to view the HTML rendering of Markdown code, and to view and resize SVG images.
+
+
+  -
+    name: annotator
+    thumbnail: images/annotator.png
+    url: https://github.com/valcu/annotator
+    jslibs: >
+       [fabric.js](http://fabricjs.com/), [jQuery](https://jquery.com/)
+    ghuser: valcu
+    ghrepo: annotator
+    tags: utility,image annotation, locator
+    cran: true
+    examples: https://mihaiv.shinyapps.io/annotator/
+    ghauthor: valcu
+    short: >
+      Image annotation,.
+    description: >
+      Annotator provides functions to create image annotations through polygon outlining. Annotator has the same function as graphics::locator() but achieves its purpose through drawing, rather than multiple mouse clicks.
+
+
