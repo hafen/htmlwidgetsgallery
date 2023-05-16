@@ -1659,12 +1659,12 @@ widgets:
   -
     name: echarty
     thumbnail: images/echarty700.png
-    url: https://github.com/helgasoft/echarty/
+    url: https://helgasoft.github.io/echarty/
     jslibs: >
       [ECharts](https://github.com/apache/echarts/)
     ghuser: helgasoft
     ghrepo: echarty
-    tags: general, 3D, maps, svg, webgl, crosstalk
+    tags: general,3D,maps,svg,webgl,crosstalk
     cran: true
     examples: >
       https://helgasoft.github.io/echarty/gallery.html
