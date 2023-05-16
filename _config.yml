@@ -1657,6 +1657,23 @@ widgets:
     description: >
      Powerful interactive visualisations for the R console, R Markdown and Shiny, from streamgraphs to 3D visualisations through network visualisations.
   -
+    name: echarty
+    thumbnail: images/echarty700.png
+    url: https://github.com/helgasoft/echarty/
+    jslibs: >
+      [ECharts](https://github.com/apache/echarts/)
+    ghuser: helgasoft
+    ghrepo: echarty
+    tags: general, 3D, maps, svg, webgl, crosstalk
+    cran: true
+    examples: >
+      https://helgasoft.github.io/echarty/gallery.html
+    ghauthor: helgasoft
+    short: >
+     A thin R wrapper for the ECharts library
+    description: >
+     Interactive charts and maps in 2D or 3D
+  -
     name: RagGrid
     thumbnail: images/RagGrid.png
     url: http://raggrid.netlify.com/
