@@ -8,6 +8,23 @@ sass:
 
 widgets:
   -
+    name: recogito
+    thumbnail: images/recogito.png
+    url: https://github.com/DIGI-VUB/recogito
+    jslibs: >
+       [recogito-js](https://github.com/recogito/recogito-js)
+       [annotorious](https://github.com/annotorious/annotorious)
+    ghuser: DIGI-VUB
+    ghrepo: recogito
+    tags: Text annotation, Image annotation
+    cran: true
+    examples: https://github.com/DIGI-VUB/recogito
+    ghauthor: jwijffels
+    short: >
+      Annotate text and images with your own labels
+    description: >
+      Annotate text using tags and relations between these tags (entity labelling / entity linking) and annotate areas of interest (rectangles / polygons) in images with specific labels.  
+  -
     name: threeBrain
     thumbnail: images/dipterix-threeBrain.png
     url: https://dipterix.github.io/threeBrain
