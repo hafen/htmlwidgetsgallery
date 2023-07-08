@@ -2130,23 +2130,6 @@ widgets:
       Annotator provides functions to create image annotations through polygon outlining. Annotator has the same function as graphics::locator() but achieves its purpose through drawing, rather than multiple mouse clicks.
 
   -
-    name: dygraphs
-    thumbnail: images/rstudio-dygraphs.png
-    url: http://rstudio.github.io/dygraphs/
-    jslibs: >
-       [dygraphs](http://dygraphs.com)
-    ghuser: rstudio
-    ghrepo: dygraphs
-    tags: visualization,timeseries
-    cran: true
-    release: stable
-    examples:
-    ghauthor: rstudio
-    short: >
-      An R interface to the dygraphs JavaScript charting library. It provides rich facilites for charting time-series data in R.
-    description:
-
-  -
     name: aggrid
     thumbnail: images/aggrid.png
     url: https://liripo.github.io/aggrid/
