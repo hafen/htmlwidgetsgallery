@@ -8,6 +8,22 @@ sass:
 
 widgets:
   -
+    name: GWalkR
+    thumbnail: images/Kanaries-GwalkR.png
+    url: https://github.com/Kanaries/GWalkR
+    jslibs: >
+       [graphic-walker](https://github.com/Kanaries/graphic-walker)
+    ghuser: Kanaries
+    ghrepo: GWalkR
+    tags: visualization, plot, graph, table, general
+    cran: false
+    examples: https://github.com/Kanaries/GWalkR
+    ghauthor: Bruceshark
+    short: >
+      Interactive Exploratory Data Analysis with Visualization
+    description: >
+      One line of code to simplify your R data analysis and data visualization workflow, by turning your data frame into a Tableau-style User Interface for visual exploration.
+  -
     name: recogito
     thumbnail: images/recogito.png
     url: https://github.com/DIGI-VUB/recogito
