@@ -2129,4 +2129,19 @@ widgets:
     description: >
       Annotator provides functions to create image annotations through polygon outlining. Annotator has the same function as graphics::locator() but achieves its purpose through drawing, rather than multiple mouse clicks.
 
-
+  -
+    name: aggrid
+    thumbnail: images/aggrid.png
+    url: https://liripo.github.io/aggrid/
+    jslibs: >
+       [ag-grid](https://www.ag-grid.com)
+    ghuser: Liripo
+    ghrepo: aggrid
+    tags: tables
+    cran: false
+    examples: https://liripo.github.io/aggrid/articles/Examples.html
+    ghauthor: Liripo
+    short: >
+      An R interface to the the ag-grid javascript library.It can display large data in shiny.
+    description: >
+      This package provides the `aggrid()` function to display data, and for shiny, you can use the server parameter to quickly display millions of rows of data.
