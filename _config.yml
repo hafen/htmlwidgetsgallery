@@ -1597,23 +1597,6 @@ widgets:
     description: >
       This is a [HTMLWidget](http://www.htmlwidgets.org/) wrapper around the JavaScript library [UpSet.js](https://github.com/upsetjs/upsetjs) and an alternative implementation of [UpSetR](https://www.rdocumentation.org/packages/UpSetR). More details can be found on https://upset.js.org.
   -
-    name: shinyaframe
-    thumbnail: images/wmurphyrd-shinyaframe.png
-    url: https://github.com/wmurphyrd/shinyaframe
-    jslibs: >
-       [A-Frame](http://aframe.io),[gg-aframe](https://github.com/wmurphyrd/gg-aframe)
-    ghuser: wmurphyrd
-    ghrepo: shinyaframe
-    tags: visualization,3D,virtual reality
-    cran: true
-    release: stable
-    examples: https://cran.r-project.org/web/packages/shinyaframe/vignettes/scatterplot3d.html,https://github.com/wmurphyrd/adit
-    ghauthor: wmurphyrd
-    short: >
-      Bring R data into virtual reality for immersive, interactive data visualization
-    description: >
-      Make R data available in Web-based virtual reality experiences for immersive, cross-platform data visualizations. Includes the 'gg-aframe' JavaScript package for a Grammar of Graphics declarative HTML syntax to create 3-dimensional data visualizations with 'Mozilla A-Frame'
-  -
     name: mutsneedle
     thumbnail: images/mutsneedle_tp53.png
     url: https://github.com/freezecoder/mutsneedle
