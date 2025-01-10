@@ -191,7 +191,7 @@
   "timelyportfolio_sortableR": {
     "cran": false,
     "stargazers_count": 134,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 31,
     "watchers_count": 134
   },
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2588,
-    "open_issues_count": 722,
+    "open_issues_count": 723,
     "forks_count": 627,
     "watchers_count": 2588
   },
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 520,
+    "stargazers_count": 521,
     "open_issues_count": 94,
     "forks_count": 90,
-    "watchers_count": 520
+    "watchers_count": 521
   },
   "cran_qrage": {
     "cran": false,
@@ -561,10 +561,10 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 547,
+    "stargazers_count": 548,
     "open_issues_count": 153,
     "forks_count": 124,
-    "watchers_count": 547
+    "watchers_count": 548
   },
   "neuhausi_canvasXpress": {
     "cran": true,
