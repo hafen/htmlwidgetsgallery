@@ -99,10 +99,10 @@
   },
   "rstudio_dygraphs": {
     "cran": true,
-    "stargazers_count": 365,
+    "stargazers_count": 364,
     "open_issues_count": 121,
     "forks_count": 192,
-    "watchers_count": 365
+    "watchers_count": 364
   },
   "hrbrmstr_metricsgraphics": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2588,
+    "stargazers_count": 2589,
     "open_issues_count": 723,
     "forks_count": 627,
-    "watchers_count": 2588
+    "watchers_count": 2589
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -534,7 +534,7 @@
   "datastorm-open_rAmCharts": {
     "cran": true,
     "stargazers_count": 49,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 17,
     "watchers_count": 49
   },
@@ -653,7 +653,7 @@
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
     "stargazers_count": 128,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 12,
     "watchers_count": 128
   },
@@ -723,7 +723,7 @@
   "helgasoft_echarty": {
     "cran": true,
     "stargazers_count": 90,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 3,
     "watchers_count": 90
   },
