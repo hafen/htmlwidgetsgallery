@@ -2,7 +2,7 @@
   "Kanaries_GWalkR": {
     "cran": true,
     "stargazers_count": 439,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 42,
     "watchers_count": 439
   },
@@ -191,7 +191,7 @@
   "timelyportfolio_sortableR": {
     "cran": false,
     "stargazers_count": 134,
-    "open_issues_count": 16,
+    "open_issues_count": 15,
     "forks_count": 31,
     "watchers_count": 134
   },
