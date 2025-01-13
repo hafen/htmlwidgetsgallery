@@ -2,8 +2,8 @@
   "Kanaries_GWalkR": {
     "cran": true,
     "stargazers_count": 439,
-    "open_issues_count": 13,
-    "forks_count": 42,
+    "open_issues_count": 14,
+    "forks_count": 43,
     "watchers_count": 439
   },
   "DIGI-VUB_recogito": {
@@ -302,10 +302,10 @@
   },
   "bokeh_rbokeh": {
     "cran": false,
-    "stargazers_count": 312,
+    "stargazers_count": 311,
     "open_issues_count": 73,
     "forks_count": 66,
-    "watchers_count": 312
+    "watchers_count": 311
   },
   "rstudio_d3heatmap": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2589,
+    "stargazers_count": 2590,
     "open_issues_count": 723,
     "forks_count": 627,
-    "watchers_count": 2589
+    "watchers_count": 2590
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -554,10 +554,10 @@
   },
   "mtennekes_tmap": {
     "cran": true,
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 2,
-    "watchers_count": 12
+    "watchers_count": 13
   },
   "datastorm-open_visNetwork": {
     "cran": true,
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 380,
+    "stargazers_count": 381,
     "open_issues_count": 35,
     "forks_count": 73,
-    "watchers_count": 380
+    "watchers_count": 381
   },
   "paulofelipe_D3plusR": {
     "cran": false,
