@@ -2,7 +2,7 @@
   "Kanaries_GWalkR": {
     "cran": true,
     "stargazers_count": 439,
-    "open_issues_count": 14,
+    "open_issues_count": 12,
     "forks_count": 43,
     "watchers_count": 439
   },
@@ -85,15 +85,15 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 813,
+    "stargazers_count": 814,
     "open_issues_count": 307,
     "forks_count": 506,
-    "watchers_count": 813
+    "watchers_count": 814
   },
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 603,
-    "open_issues_count": 199,
+    "open_issues_count": 200,
     "forks_count": 184,
     "watchers_count": 603
   },
@@ -456,10 +456,10 @@
   },
   "jbkunst_rchess": {
     "cran": false,
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 7,
     "forks_count": 9,
-    "watchers_count": 76
+    "watchers_count": 77
   },
   "jbkunst_d3wordcloud": {
     "cran": false,
@@ -589,10 +589,10 @@
   },
   "daattali_timevis": {
     "cran": true,
-    "stargazers_count": 666,
+    "stargazers_count": 667,
     "open_issues_count": 3,
     "forks_count": 155,
-    "watchers_count": 666
+    "watchers_count": 667
   },
   "lchiffon_wordcloud2": {
     "cran": true,
@@ -638,10 +638,10 @@
   },
   "cmap_morpheus_R": {
     "cran": false,
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 7,
     "forks_count": 14,
-    "watchers_count": 37
+    "watchers_count": 38
   },
   "rte-antares-rpackage_leaflet_minicharts": {
     "cran": true,
