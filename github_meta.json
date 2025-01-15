@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 399,
+    "stargazers_count": 400,
     "open_issues_count": 49,
     "forks_count": 107,
-    "watchers_count": 399
+    "watchers_count": 400
   },
   "kitware_candela": {
     "cran": false,
