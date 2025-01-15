@@ -39,7 +39,7 @@ widgets:
     short: >
       Annotate text and images with your own labels
     description: >
-      Annotate text using tags and relations between these tags (entity labelling / entity linking) and annotate areas of interest (rectangles / polygons) in images with specific labels.  
+      Annotate text using tags and relations between these tags (entity labelling / entity linking) and annotate areas of interest (rectangles / polygons) in images with specific labels.
   -
     name: threeBrain
     thumbnail: images/dipterix-threeBrain.png
@@ -2161,3 +2161,19 @@ widgets:
       Build SVG Custom User Interface
     description: >
       Render SVG as interactive figures to display contextual information, with selectable and clickable user interface elements. These figures can be seamlessly integrated into ‘rmarkdown’ and ‘Quarto’ documents, as well as ‘shiny’ applications, allowing manipulation of elements and reporting actions performed on them. Additional features include pan, zoom in/out functionality, and the ability to export the figures in SVG or PNG formats.
+
+  -
+    name: shinybody
+    thumbnail: images/shinybody.png
+    url: https://github.com/robert-norberg/shinybody
+    jslibs: >
+    ghuser: robert-norberg
+    ghrepo: shinybody
+    tags: bioinformatics, crosstalk, general, SVG, visualization
+    cran: true
+    examples: https://github.com/robert-norberg/shinybody/blob/main/README.md
+    ghauthor: robert-norberg
+    short: >
+      An htmlwidget of the human body that allows you to hide/show and assign colors to 79 different body parts.
+    description: >
+      Choose a male or female avatar, then show/hide, assign colors to, and assign tooltip contents to different body parts/organs. Tooltip is triggered on hover. Clicking a shown organ selects it and clicking it again de-selects it. Clicked organ and selected organs are available as shiny inputs. `shinybody` is crosstalk compatible.
