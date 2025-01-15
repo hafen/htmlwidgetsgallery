@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 439,
+    "stargazers_count": 440,
     "open_issues_count": 12,
     "forks_count": 43,
-    "watchers_count": 439
+    "watchers_count": 440
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -16,8 +16,8 @@
   "dipterix_threeBrain": {
     "cran": true,
     "stargazers_count": 43,
-    "open_issues_count": 3,
-    "forks_count": 10,
+    "open_issues_count": 2,
+    "forks_count": 11,
     "watchers_count": 43
   },
   "yonicd_rpdf": {
@@ -85,17 +85,17 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 814,
+    "stargazers_count": 815,
     "open_issues_count": 307,
     "forks_count": 506,
-    "watchers_count": 814
+    "watchers_count": 815
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 603,
+    "stargazers_count": 604,
     "open_issues_count": 200,
     "forks_count": 184,
-    "watchers_count": 603
+    "watchers_count": 604
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -922,5 +922,12 @@
     "open_issues_count": 0,
     "forks_count": 0,
     "watchers_count": 11
+  },
+  "robert-norberg_shinybody": {
+    "cran": true,
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 4
   }
 }
