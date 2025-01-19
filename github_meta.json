@@ -2,7 +2,7 @@
   "Kanaries_GWalkR": {
     "cran": true,
     "stargazers_count": 442,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 43,
     "watchers_count": 442
   },
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 521,
+    "stargazers_count": 522,
     "open_issues_count": 94,
     "forks_count": 90,
-    "watchers_count": 521
+    "watchers_count": 522
   },
   "cran_qrage": {
     "cran": false,
