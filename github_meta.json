@@ -3,7 +3,7 @@
     "cran": true,
     "stargazers_count": 443,
     "open_issues_count": 13,
-    "forks_count": 43,
+    "forks_count": 44,
     "watchers_count": 443
   },
   "DIGI-VUB_recogito": {
@@ -15,10 +15,10 @@
   },
   "dipterix_threeBrain": {
     "cran": true,
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 1,
     "forks_count": 11,
-    "watchers_count": 43
+    "watchers_count": 44
   },
   "yonicd_rpdf": {
     "cran": false,
@@ -86,7 +86,7 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 816,
-    "open_issues_count": 307,
+    "open_issues_count": 308,
     "forks_count": 505,
     "watchers_count": 816
   },
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2594,
+    "stargazers_count": 2593,
     "open_issues_count": 725,
     "forks_count": 629,
-    "watchers_count": 2594
+    "watchers_count": 2593
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -484,17 +484,17 @@
   },
   "muschellij2_diffr": {
     "cran": true,
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 4,
     "forks_count": 5,
-    "watchers_count": 64
+    "watchers_count": 65
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 816,
+    "stargazers_count": 817,
     "open_issues_count": 15,
     "forks_count": 74,
-    "watchers_count": 816
+    "watchers_count": 817
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 291,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 44,
     "watchers_count": 291
   },
@@ -737,7 +737,7 @@
   "SymbolixAU_mapdeck": {
     "cran": true,
     "stargazers_count": 363,
-    "open_issues_count": 78,
+    "open_issues_count": 79,
     "forks_count": 40,
     "watchers_count": 363
   },
