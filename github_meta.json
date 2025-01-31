@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 443,
+    "stargazers_count": 444,
     "open_issues_count": 13,
     "forks_count": 44,
-    "watchers_count": 443
+    "watchers_count": 444
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 816,
+    "stargazers_count": 817,
     "open_issues_count": 308,
     "forks_count": 505,
-    "watchers_count": 816
+    "watchers_count": 817
   },
   "rstudio_DT": {
     "cran": true,
@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 697,
+    "stargazers_count": 698,
     "open_issues_count": 64,
     "forks_count": 78,
-    "watchers_count": 697
+    "watchers_count": 698
   },
   "jcheng5_bubbles": {
     "cran": false,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2592,
-    "open_issues_count": 726,
+    "open_issues_count": 727,
     "forks_count": 629,
     "watchers_count": 2592
   },
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 725,
+    "stargazers_count": 726,
     "open_issues_count": 64,
     "forks_count": 149,
-    "watchers_count": 725
+    "watchers_count": 726
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 292,
-    "open_issues_count": 22,
+    "open_issues_count": 20,
     "forks_count": 44,
     "watchers_count": 292
   },
@@ -589,10 +589,10 @@
   },
   "daattali_timevis": {
     "cran": true,
-    "stargazers_count": 669,
+    "stargazers_count": 670,
     "open_issues_count": 3,
     "forks_count": 155,
-    "watchers_count": 669
+    "watchers_count": 670
   },
   "lchiffon_wordcloud2": {
     "cran": true,
@@ -603,10 +603,10 @@
   },
   "kitware_candela": {
     "cran": false,
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 98,
     "forks_count": 29,
-    "watchers_count": 118
+    "watchers_count": 119
   },
   "AdeelK93_collapsibleTree": {
     "cran": true,
