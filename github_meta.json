@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 444,
+    "stargazers_count": 446,
     "open_issues_count": 13,
     "forks_count": 44,
-    "watchers_count": 444
+    "watchers_count": 446
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 817,
+    "stargazers_count": 818,
     "open_issues_count": 308,
     "forks_count": 505,
-    "watchers_count": 817
+    "watchers_count": 818
   },
   "rstudio_DT": {
     "cran": true,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1704,
+    "stargazers_count": 1705,
     "open_issues_count": 166,
     "forks_count": 247,
-    "watchers_count": 1704
+    "watchers_count": 1705
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 698,
+    "stargazers_count": 699,
     "open_issues_count": 64,
     "forks_count": 78,
-    "watchers_count": 698
+    "watchers_count": 699
   },
   "jcheng5_bubbles": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2592,
+    "stargazers_count": 2593,
     "open_issues_count": 727,
     "forks_count": 629,
-    "watchers_count": 2592
+    "watchers_count": 2593
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -562,7 +562,7 @@
   "datastorm-open_visNetwork": {
     "cran": true,
     "stargazers_count": 548,
-    "open_issues_count": 153,
+    "open_issues_count": 154,
     "forks_count": 124,
     "watchers_count": 548
   },
