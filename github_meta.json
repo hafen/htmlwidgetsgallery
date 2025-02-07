@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 447,
+    "stargazers_count": 446,
     "open_issues_count": 13,
     "forks_count": 44,
-    "watchers_count": 447
+    "watchers_count": 446
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -64,10 +64,10 @@
   },
   "metrumresearchgroup_slickR": {
     "cran": true,
-    "stargazers_count": 161,
+    "stargazers_count": 160,
     "open_issues_count": 17,
     "forks_count": 14,
-    "watchers_count": 161
+    "watchers_count": 160
   },
   "htmlwidgets_datamaps": {
     "cran": false,
@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 820,
+    "stargazers_count": 821,
     "open_issues_count": 309,
     "forks_count": 505,
-    "watchers_count": 820
+    "watchers_count": 821
   },
   "rstudio_DT": {
     "cran": true,
@@ -267,10 +267,10 @@
   },
   "htmlwidgets_sparkline": {
     "cran": false,
-    "stargazers_count": 246,
+    "stargazers_count": 245,
     "open_issues_count": 10,
     "forks_count": 40,
-    "watchers_count": 246
+    "watchers_count": 245
   },
   "adymimos_rWordCloud": {
     "cran": false,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2595,
-    "open_issues_count": 730,
+    "open_issues_count": 732,
     "forks_count": 630,
     "watchers_count": 2595
   },
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 817,
+    "stargazers_count": 816,
     "open_issues_count": 15,
     "forks_count": 74,
-    "watchers_count": 817
+    "watchers_count": 816
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 727,
+    "stargazers_count": 726,
     "open_issues_count": 64,
     "forks_count": 149,
-    "watchers_count": 727
+    "watchers_count": 726
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 293,
-    "open_issues_count": 19,
+    "open_issues_count": 21,
     "forks_count": 44,
     "watchers_count": 293
   },
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 603,
+    "stargazers_count": 602,
     "open_issues_count": 163,
     "forks_count": 81,
-    "watchers_count": 603
+    "watchers_count": 602
   },
   "helgasoft_echarty": {
     "cran": true,
