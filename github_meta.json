@@ -93,16 +93,16 @@
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 602,
-    "open_issues_count": 201,
+    "open_issues_count": 202,
     "forks_count": 182,
     "watchers_count": 602
   },
   "rstudio_dygraphs": {
     "cran": true,
-    "stargazers_count": 364,
+    "stargazers_count": 365,
     "open_issues_count": 121,
     "forks_count": 192,
-    "watchers_count": 364
+    "watchers_count": 365
   },
   "hrbrmstr_metricsgraphics": {
     "cran": false,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1703,
+    "stargazers_count": 1704,
     "open_issues_count": 166,
     "forks_count": 247,
-    "watchers_count": 1703
+    "watchers_count": 1704
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2595,
-    "open_issues_count": 732,
+    "open_issues_count": 733,
     "forks_count": 631,
     "watchers_count": 2595
   },
@@ -561,17 +561,17 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 548,
+    "stargazers_count": 549,
     "open_issues_count": 153,
     "forks_count": 124,
-    "watchers_count": 548
+    "watchers_count": 549
   },
   "neuhausi_canvasXpress": {
     "cran": true,
-    "stargazers_count": 293,
+    "stargazers_count": 294,
     "open_issues_count": 15,
     "forks_count": 44,
-    "watchers_count": 293
+    "watchers_count": 294
   },
   "mrjoh3_c3": {
     "cran": true,
