@@ -86,7 +86,7 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 821,
-    "open_issues_count": 309,
+    "open_issues_count": 308,
     "forks_count": 505,
     "watchers_count": 821
   },
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 818,
+    "stargazers_count": 819,
     "open_issues_count": 17,
     "forks_count": 74,
-    "watchers_count": 818
+    "watchers_count": 819
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 294,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 44,
     "watchers_count": 294
   },
