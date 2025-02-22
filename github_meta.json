@@ -136,7 +136,7 @@
     "cran": true,
     "stargazers_count": 1705,
     "open_issues_count": 166,
-    "forks_count": 247,
+    "forks_count": 246,
     "watchers_count": 1705
   },
   "jpmarindiaz_sigmaGraph": {
@@ -344,10 +344,10 @@
   },
   "garthtarr_edgebundleR": {
     "cran": true,
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 15,
     "forks_count": 12,
-    "watchers_count": 67
+    "watchers_count": 68
   },
   "timelyportfolio_katexR": {
     "cran": false,
