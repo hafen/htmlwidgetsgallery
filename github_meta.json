@@ -316,10 +316,10 @@
   },
   "smartinsightsfromdata_rpivotTable": {
     "cran": true,
-    "stargazers_count": 287,
+    "stargazers_count": 288,
     "open_issues_count": 41,
     "forks_count": 73,
-    "watchers_count": 287
+    "watchers_count": 288
   },
   "renkun-ken_formattable": {
     "cran": true,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 820,
+    "stargazers_count": 821,
     "open_issues_count": 19,
     "forks_count": 74,
-    "watchers_count": 820
+    "watchers_count": 821
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -506,7 +506,7 @@
   "jbkunst_highcharter": {
     "cran": true,
     "stargazers_count": 726,
-    "open_issues_count": 65,
+    "open_issues_count": 53,
     "forks_count": 150,
     "watchers_count": 726
   },
@@ -561,15 +561,15 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 549,
+    "stargazers_count": 550,
     "open_issues_count": 153,
-    "forks_count": 124,
-    "watchers_count": 549
+    "forks_count": 125,
+    "watchers_count": 550
   },
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 294,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 44,
     "watchers_count": 294
   },
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 603,
-    "open_issues_count": 162,
+    "open_issues_count": 164,
     "forks_count": 81,
     "watchers_count": 603
   },
