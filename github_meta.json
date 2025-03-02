@@ -344,10 +344,10 @@
   },
   "garthtarr_edgebundleR": {
     "cran": true,
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 15,
     "forks_count": 12,
-    "watchers_count": 68
+    "watchers_count": 69
   },
   "timelyportfolio_katexR": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2600,
+    "stargazers_count": 2601,
     "open_issues_count": 733,
     "forks_count": 631,
-    "watchers_count": 2600
+    "watchers_count": 2601
   },
   "tutuchan_morrisjs": {
     "cran": false,
