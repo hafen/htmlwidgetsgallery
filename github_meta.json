@@ -15,10 +15,10 @@
   },
   "dipterix_threeBrain": {
     "cran": true,
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 1,
     "forks_count": 11,
-    "watchers_count": 43
+    "watchers_count": 44
   },
   "yonicd_rpdf": {
     "cran": false,
@@ -191,7 +191,7 @@
   "timelyportfolio_sortableR": {
     "cran": false,
     "stargazers_count": 135,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 31,
     "watchers_count": 135
   },
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2601,
-    "open_issues_count": 733,
+    "stargazers_count": 2602,
+    "open_issues_count": 734,
     "forks_count": 631,
-    "watchers_count": 2601
+    "watchers_count": 2602
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 384,
+    "stargazers_count": 385,
     "open_issues_count": 35,
     "forks_count": 73,
-    "watchers_count": 384
+    "watchers_count": 385
   },
   "paulofelipe_D3plusR": {
     "cran": false,
