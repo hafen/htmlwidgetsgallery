@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 453,
+    "stargazers_count": 454,
     "open_issues_count": 13,
     "forks_count": 44,
-    "watchers_count": 453
+    "watchers_count": 454
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 821,
+    "stargazers_count": 820,
     "open_issues_count": 309,
     "forks_count": 505,
-    "watchers_count": 821
+    "watchers_count": 820
   },
   "rstudio_DT": {
     "cran": true,
@@ -120,10 +120,10 @@
   },
   "christophergandrud_networkD3": {
     "cran": true,
-    "stargazers_count": 655,
+    "stargazers_count": 654,
     "open_issues_count": 78,
     "forks_count": 266,
-    "watchers_count": 655
+    "watchers_count": 654
   },
   "bwlewis_rthreejs": {
     "cran": true,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1705,
+    "stargazers_count": 1704,
     "open_issues_count": 166,
     "forks_count": 246,
-    "watchers_count": 1705
+    "watchers_count": 1704
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 699,
+    "stargazers_count": 700,
     "open_issues_count": 64,
     "forks_count": 78,
-    "watchers_count": 699
+    "watchers_count": 700
   },
   "jcheng5_bubbles": {
     "cran": false,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2602,
-    "open_issues_count": 734,
+    "open_issues_count": 736,
     "forks_count": 631,
     "watchers_count": 2602
   },
@@ -505,15 +505,15 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 726,
+    "stargazers_count": 725,
     "open_issues_count": 52,
     "forks_count": 150,
-    "watchers_count": 726
+    "watchers_count": 725
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
     "stargazers_count": 526,
-    "open_issues_count": 94,
+    "open_issues_count": 95,
     "forks_count": 90,
     "watchers_count": 526
   },
@@ -562,7 +562,7 @@
   "datastorm-open_visNetwork": {
     "cran": true,
     "stargazers_count": 550,
-    "open_issues_count": 153,
+    "open_issues_count": 154,
     "forks_count": 125,
     "watchers_count": 550
   },
