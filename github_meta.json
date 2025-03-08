@@ -16,7 +16,7 @@
   "dipterix_threeBrain": {
     "cran": true,
     "stargazers_count": 44,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 11,
     "watchers_count": 44
   },
@@ -311,7 +311,7 @@
     "cran": false,
     "stargazers_count": 238,
     "open_issues_count": 43,
-    "forks_count": 93,
+    "forks_count": 92,
     "watchers_count": 238
   },
   "smartinsightsfromdata_rpivotTable": {
