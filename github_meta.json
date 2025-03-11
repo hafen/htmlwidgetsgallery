@@ -115,7 +115,7 @@
     "cran": false,
     "stargazers_count": 147,
     "open_issues_count": 23,
-    "forks_count": 49,
+    "forks_count": 48,
     "watchers_count": 147
   },
   "christophergandrud_networkD3": {
@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2602,
     "open_issues_count": 737,
-    "forks_count": 631,
+    "forks_count": 632,
     "watchers_count": 2602
   },
   "tutuchan_morrisjs": {
@@ -925,9 +925,9 @@
   },
   "robert-norberg_shinybody": {
     "cran": true,
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0,
-    "watchers_count": 11
+    "watchers_count": 12
   }
 }
