@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 823,
+    "stargazers_count": 824,
     "open_issues_count": 309,
     "forks_count": 505,
-    "watchers_count": 823
+    "watchers_count": 824
   },
   "rstudio_DT": {
     "cran": true,
@@ -191,7 +191,7 @@
   "timelyportfolio_sortableR": {
     "cran": false,
     "stargazers_count": 135,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 31,
     "watchers_count": 135
   },
@@ -331,7 +331,7 @@
   "jcheng5_bubbles": {
     "cran": false,
     "stargazers_count": 57,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 23,
     "watchers_count": 57
   },
@@ -736,10 +736,10 @@
   },
   "SymbolixAU_mapdeck": {
     "cran": true,
-    "stargazers_count": 365,
+    "stargazers_count": 366,
     "open_issues_count": 79,
     "forks_count": 40,
-    "watchers_count": 365
+    "watchers_count": 366
   },
   "chengvt_MovingBubbles": {
     "cran": false,
