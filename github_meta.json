@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2602,
+    "stargazers_count": 2601,
     "open_issues_count": 734,
     "forks_count": 633,
-    "watchers_count": 2602
+    "watchers_count": 2601
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -526,10 +526,10 @@
   },
   "mangothecat_radarchart": {
     "cran": true,
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 12,
-    "forks_count": 25,
-    "watchers_count": 68
+    "forks_count": 26,
+    "watchers_count": 69
   },
   "datastorm-open_rAmCharts": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 295,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 44,
     "watchers_count": 295
   },
