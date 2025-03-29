@@ -8,10 +8,10 @@
   },
   "DIGI-VUB_recogito": {
     "cran": true,
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 6,
     "forks_count": 6,
-    "watchers_count": 21
+    "watchers_count": 22
   },
   "dipterix_threeBrain": {
     "cran": true,
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 723,
+    "stargazers_count": 724,
     "open_issues_count": 52,
     "forks_count": 150,
-    "watchers_count": 723
+    "watchers_count": 724
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 297,
-    "open_issues_count": 20,
+    "open_issues_count": 18,
     "forks_count": 44,
     "watchers_count": 297
   },
