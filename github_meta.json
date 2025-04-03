@@ -198,7 +198,7 @@
   "timelyportfolio_parcoords": {
     "cran": false,
     "stargazers_count": 77,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 20,
     "watchers_count": 77
   },
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 824,
+    "stargazers_count": 825,
     "open_issues_count": 19,
     "forks_count": 76,
-    "watchers_count": 824
+    "watchers_count": 825
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -514,7 +514,7 @@
     "cran": true,
     "stargazers_count": 525,
     "open_issues_count": 96,
-    "forks_count": 90,
+    "forks_count": 91,
     "watchers_count": 525
   },
   "cran_qrage": {
@@ -547,10 +547,10 @@
   },
   "juba_scatterD3": {
     "cran": true,
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "open_issues_count": 3,
     "forks_count": 22,
-    "watchers_count": 160
+    "watchers_count": 161
   },
   "mtennekes_tmap": {
     "cran": true,
