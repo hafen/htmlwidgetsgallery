@@ -135,7 +135,7 @@
   "rich-iannone_DiagrammeR": {
     "cran": true,
     "stargazers_count": 1707,
-    "open_issues_count": 167,
+    "open_issues_count": 168,
     "forks_count": 246,
     "watchers_count": 1707
   },
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2607,
-    "open_issues_count": 733,
+    "open_issues_count": 734,
     "forks_count": 633,
     "watchers_count": 2607
   },
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 525,
+    "stargazers_count": 526,
     "open_issues_count": 96,
     "forks_count": 91,
-    "watchers_count": 525
+    "watchers_count": 526
   },
   "cran_qrage": {
     "cran": false,
