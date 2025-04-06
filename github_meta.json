@@ -176,10 +176,10 @@
   },
   "jrowen_rhandsontable": {
     "cran": true,
-    "stargazers_count": 390,
+    "stargazers_count": 389,
     "open_issues_count": 166,
     "forks_count": 148,
-    "watchers_count": 390
+    "watchers_count": 389
   },
   "timelyportfolio_rcdimple": {
     "cran": false,
@@ -561,17 +561,17 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 553,
+    "stargazers_count": 554,
     "open_issues_count": 153,
     "forks_count": 125,
-    "watchers_count": 553
+    "watchers_count": 554
   },
   "neuhausi_canvasXpress": {
     "cran": true,
-    "stargazers_count": 298,
+    "stargazers_count": 297,
     "open_issues_count": 18,
     "forks_count": 44,
-    "watchers_count": 298
+    "watchers_count": 297
   },
   "mrjoh3_c3": {
     "cran": true,
@@ -590,7 +590,7 @@
   "daattali_timevis": {
     "cran": true,
     "stargazers_count": 671,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 154,
     "watchers_count": 671
   },
@@ -723,7 +723,7 @@
   "helgasoft_echarty": {
     "cran": true,
     "stargazers_count": 90,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 3,
     "watchers_count": 90
   },
