@@ -3,7 +3,7 @@
     "cran": true,
     "stargazers_count": 463,
     "open_issues_count": 12,
-    "forks_count": 46,
+    "forks_count": 47,
     "watchers_count": 463
   },
   "DIGI-VUB_recogito": {
@@ -589,10 +589,10 @@
   },
   "daattali_timevis": {
     "cran": true,
-    "stargazers_count": 671,
+    "stargazers_count": 672,
     "open_issues_count": 2,
     "forks_count": 154,
-    "watchers_count": 671
+    "watchers_count": 672
   },
   "lchiffon_wordcloud2": {
     "cran": true,
