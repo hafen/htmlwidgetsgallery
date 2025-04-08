@@ -86,7 +86,7 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 828,
-    "open_issues_count": 309,
+    "open_issues_count": 310,
     "forks_count": 505,
     "watchers_count": 828
   },
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 526,
+    "stargazers_count": 527,
     "open_issues_count": 97,
     "forks_count": 91,
-    "watchers_count": 526
+    "watchers_count": 527
   },
   "cran_qrage": {
     "cran": false,
@@ -625,7 +625,7 @@
   "talgalili_heatmaply": {
     "cran": true,
     "stargazers_count": 387,
-    "open_issues_count": 35,
+    "open_issues_count": 34,
     "forks_count": 73,
     "watchers_count": 387
   },
@@ -722,10 +722,10 @@
   },
   "helgasoft_echarty": {
     "cran": true,
-    "stargazers_count": 90,
-    "open_issues_count": 3,
+    "stargazers_count": 91,
+    "open_issues_count": 2,
     "forks_count": 3,
-    "watchers_count": 90
+    "watchers_count": 91
   },
   "no-types_RagGrid": {
     "cran": true,
