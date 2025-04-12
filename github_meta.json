@@ -86,14 +86,14 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 829,
-    "open_issues_count": 310,
+    "open_issues_count": 311,
     "forks_count": 505,
     "watchers_count": 829
   },
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 604,
-    "open_issues_count": 205,
+    "open_issues_count": 206,
     "forks_count": 182,
     "watchers_count": 604
   },
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1707,
-    "open_issues_count": 168,
+    "stargazers_count": 1708,
+    "open_issues_count": 169,
     "forks_count": 246,
-    "watchers_count": 1707
+    "watchers_count": 1708
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -506,7 +506,7 @@
   "jbkunst_highcharter": {
     "cran": true,
     "stargazers_count": 726,
-    "open_issues_count": 52,
+    "open_issues_count": 56,
     "forks_count": 150,
     "watchers_count": 726
   },
