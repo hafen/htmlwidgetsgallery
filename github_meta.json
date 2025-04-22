@@ -121,7 +121,7 @@
   "christophergandrud_networkD3": {
     "cran": true,
     "stargazers_count": 654,
-    "open_issues_count": 78,
+    "open_issues_count": 79,
     "forks_count": 266,
     "watchers_count": 654
   },
@@ -492,7 +492,7 @@
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 829,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 76,
     "watchers_count": 829
   },
@@ -659,10 +659,10 @@
   },
   "lvulliard_BioCircos_R": {
     "cran": true,
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 19,
     "forks_count": 9,
-    "watchers_count": 37
+    "watchers_count": 38
   },
   "dreamRs_billboarder": {
     "cran": true,
@@ -722,10 +722,10 @@
   },
   "helgasoft_echarty": {
     "cran": true,
-    "stargazers_count": 93,
+    "stargazers_count": 94,
     "open_issues_count": 2,
     "forks_count": 3,
-    "watchers_count": 93
+    "watchers_count": 94
   },
   "no-types_RagGrid": {
     "cran": true,
