@@ -122,7 +122,7 @@
     "cran": true,
     "stargazers_count": 654,
     "open_issues_count": 79,
-    "forks_count": 266,
+    "forks_count": 265,
     "watchers_count": 654
   },
   "bwlewis_rthreejs": {
@@ -498,10 +498,10 @@
   },
   "SymbolixAU_googleway": {
     "cran": true,
-    "stargazers_count": 236,
+    "stargazers_count": 237,
     "open_issues_count": 58,
     "forks_count": 46,
-    "watchers_count": 236
+    "watchers_count": 237
   },
   "jbkunst_highcharter": {
     "cran": true,
