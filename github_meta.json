@@ -247,7 +247,7 @@
   "kbroman_qtlcharts": {
     "cran": true,
     "stargazers_count": 85,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "forks_count": 29,
     "watchers_count": 85
   },
@@ -666,10 +666,10 @@
   },
   "dreamRs_billboarder": {
     "cran": true,
-    "stargazers_count": 174,
+    "stargazers_count": 175,
     "open_issues_count": 11,
     "forks_count": 21,
-    "watchers_count": 174
+    "watchers_count": 175
   },
   "lineupjs_lineup_htmlwidget": {
     "cran": true,
@@ -918,10 +918,10 @@
   },
   "patzaw_bscui": {
     "cran": true,
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 0,
-    "watchers_count": 17
+    "watchers_count": 18
   },
   "robert-norberg_shinybody": {
     "cran": true,
