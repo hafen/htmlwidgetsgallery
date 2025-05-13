@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2611,
+    "stargazers_count": 2612,
     "open_issues_count": 735,
     "forks_count": 633,
-    "watchers_count": 2611
+    "watchers_count": 2612
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -596,17 +596,17 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 49,
     "forks_count": 107,
-    "watchers_count": 404
+    "watchers_count": 405
   },
   "kitware_candela": {
     "cran": false,
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 98,
     "forks_count": 29,
-    "watchers_count": 119
+    "watchers_count": 120
   },
   "AdeelK93_collapsibleTree": {
     "cran": true,
