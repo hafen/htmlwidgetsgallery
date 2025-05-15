@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 473,
+    "stargazers_count": 474,
     "open_issues_count": 13,
     "forks_count": 48,
-    "watchers_count": 473
+    "watchers_count": 474
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -120,10 +120,10 @@
   },
   "christophergandrud_networkD3": {
     "cran": true,
-    "stargazers_count": 654,
+    "stargazers_count": 655,
     "open_issues_count": 79,
     "forks_count": 265,
-    "watchers_count": 654
+    "watchers_count": 655
   },
   "bwlewis_rthreejs": {
     "cran": true,
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 727,
+    "stargazers_count": 728,
     "open_issues_count": 42,
     "forks_count": 151,
-    "watchers_count": 727
+    "watchers_count": 728
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 405,
+    "stargazers_count": 406,
     "open_issues_count": 49,
     "forks_count": 107,
-    "watchers_count": 405
+    "watchers_count": 406
   },
   "kitware_candela": {
     "cran": false,
@@ -645,10 +645,10 @@
   },
   "rte-antares-rpackage_leaflet_minicharts": {
     "cran": true,
-    "stargazers_count": 108,
+    "stargazers_count": 107,
     "open_issues_count": 26,
     "forks_count": 20,
-    "watchers_count": 108
+    "watchers_count": 107
   },
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
