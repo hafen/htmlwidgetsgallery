@@ -302,10 +302,10 @@
   },
   "bokeh_rbokeh": {
     "cran": false,
-    "stargazers_count": 310,
+    "stargazers_count": 311,
     "open_issues_count": 73,
     "forks_count": 64,
-    "watchers_count": 310
+    "watchers_count": 311
   },
   "rstudio_d3heatmap": {
     "cran": false,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2615,
-    "open_issues_count": 735,
+    "open_issues_count": 736,
     "forks_count": 633,
     "watchers_count": 2615
   },
