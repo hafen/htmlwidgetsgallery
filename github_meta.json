@@ -2,7 +2,7 @@
   "Kanaries_GWalkR": {
     "cran": true,
     "stargazers_count": 476,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "forks_count": 49,
     "watchers_count": 476
   },
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2615,
-    "open_issues_count": 734,
+    "open_issues_count": 735,
     "forks_count": 633,
     "watchers_count": 2615
   },
@@ -493,7 +493,7 @@
     "cran": true,
     "stargazers_count": 833,
     "open_issues_count": 20,
-    "forks_count": 76,
+    "forks_count": 77,
     "watchers_count": 833
   },
   "SymbolixAU_googleway": {
