@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2615,
+    "stargazers_count": 2616,
     "open_issues_count": 735,
     "forks_count": 633,
-    "watchers_count": 2615
+    "watchers_count": 2616
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 406,
+    "stargazers_count": 404,
     "open_issues_count": 49,
     "forks_count": 107,
-    "watchers_count": 406
+    "watchers_count": 404
   },
   "kitware_candela": {
     "cran": false,
