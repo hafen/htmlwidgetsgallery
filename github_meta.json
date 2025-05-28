@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 477,
+    "stargazers_count": 478,
     "open_issues_count": 13,
     "forks_count": 49,
-    "watchers_count": 477
+    "watchers_count": 478
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -122,7 +122,7 @@
     "cran": true,
     "stargazers_count": 655,
     "open_issues_count": 80,
-    "forks_count": 265,
+    "forks_count": 266,
     "watchers_count": 655
   },
   "bwlewis_rthreejs": {
@@ -191,7 +191,7 @@
   "timelyportfolio_sortableR": {
     "cran": false,
     "stargazers_count": 135,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 32,
     "watchers_count": 135
   },
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 528,
+    "stargazers_count": 529,
     "open_issues_count": 99,
     "forks_count": 92,
-    "watchers_count": 528
+    "watchers_count": 529
   },
   "cran_qrage": {
     "cran": false,
