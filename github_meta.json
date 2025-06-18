@@ -63,7 +63,7 @@
     "watchers_count": 87
   },
   "metrumresearchgroup_slickR": {
-    "cran": true,
+    "cran": false,
     "stargazers_count": 160,
     "open_issues_count": 18,
     "forks_count": 14,
@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 834,
+    "stargazers_count": 833,
     "open_issues_count": 314,
     "forks_count": 506,
-    "watchers_count": 834
+    "watchers_count": 833
   },
   "rstudio_DT": {
     "cran": true,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2617,
-    "open_issues_count": 737,
+    "open_issues_count": 738,
     "forks_count": 633,
     "watchers_count": 2617
   },
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 608,
-    "open_issues_count": 165,
+    "open_issues_count": 166,
     "forks_count": 82,
     "watchers_count": 608
   },
