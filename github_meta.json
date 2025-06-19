@@ -471,8 +471,8 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2617,
-    "open_issues_count": 738,
-    "forks_count": 633,
+    "open_issues_count": 739,
+    "forks_count": 634,
     "watchers_count": 2617
   },
   "tutuchan_morrisjs": {
@@ -785,10 +785,10 @@
   },
   "dreamRs_apexcharter": {
     "cran": true,
-    "stargazers_count": 146,
+    "stargazers_count": 147,
     "open_issues_count": 14,
     "forks_count": 16,
-    "watchers_count": 146
+    "watchers_count": 147
   },
   "dreamRs_tuichartr": {
     "cran": false,
