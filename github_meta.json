@@ -92,10 +92,10 @@
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 609,
+    "stargazers_count": 608,
     "open_issues_count": 207,
     "forks_count": 181,
-    "watchers_count": 609
+    "watchers_count": 608
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2617,
-    "open_issues_count": 739,
+    "stargazers_count": 2618,
+    "open_issues_count": 738,
     "forks_count": 634,
-    "watchers_count": 2617
+    "watchers_count": 2618
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 836,
+    "stargazers_count": 837,
     "open_issues_count": 21,
     "forks_count": 77,
-    "watchers_count": 836
+    "watchers_count": 837
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -591,7 +591,7 @@
     "cran": true,
     "stargazers_count": 673,
     "open_issues_count": 3,
-    "forks_count": 154,
+    "forks_count": 153,
     "watchers_count": 673
   },
   "lchiffon_wordcloud2": {
@@ -913,7 +913,7 @@
     "cran": false,
     "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 4,
+    "forks_count": 5,
     "watchers_count": 4
   },
   "patzaw_bscui": {
