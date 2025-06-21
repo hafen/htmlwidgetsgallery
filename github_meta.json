@@ -65,7 +65,7 @@
   "metrumresearchgroup_slickR": {
     "cran": false,
     "stargazers_count": 160,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 14,
     "watchers_count": 160
   },
@@ -94,7 +94,7 @@
     "cran": true,
     "stargazers_count": 608,
     "open_issues_count": 207,
-    "forks_count": 181,
+    "forks_count": 180,
     "watchers_count": 608
   },
   "rstudio_dygraphs": {
