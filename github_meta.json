@@ -535,7 +535,7 @@
     "cran": true,
     "stargazers_count": 49,
     "open_issues_count": 16,
-    "forks_count": 17,
+    "forks_count": 16,
     "watchers_count": 49
   },
   "rforge_rgl": {
@@ -591,7 +591,7 @@
     "cran": true,
     "stargazers_count": 673,
     "open_issues_count": 3,
-    "forks_count": 154,
+    "forks_count": 153,
     "watchers_count": 673
   },
   "lchiffon_wordcloud2": {
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 609,
-    "open_issues_count": 166,
+    "open_issues_count": 167,
     "forks_count": 82,
     "watchers_count": 609
   },
