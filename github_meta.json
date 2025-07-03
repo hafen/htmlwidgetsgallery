@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2618,
-    "open_issues_count": 739,
+    "open_issues_count": 738,
     "forks_count": 634,
     "watchers_count": 2618
   },
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 389,
+    "stargazers_count": 390,
     "open_issues_count": 35,
     "forks_count": 74,
-    "watchers_count": 389
+    "watchers_count": 390
   },
   "paulofelipe_D3plusR": {
     "cran": false,
