@@ -86,7 +86,7 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 834,
-    "open_issues_count": 314,
+    "open_issues_count": 315,
     "forks_count": 506,
     "watchers_count": 834
   },
@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 699,
+    "stargazers_count": 700,
     "open_issues_count": 64,
     "forks_count": 79,
-    "watchers_count": 699
+    "watchers_count": 700
   },
   "jcheng5_bubbles": {
     "cran": false,
