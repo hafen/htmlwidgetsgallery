@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 835,
+    "stargazers_count": 834,
     "open_issues_count": 315,
     "forks_count": 506,
-    "watchers_count": 835
+    "watchers_count": 834
   },
   "rstudio_DT": {
     "cran": true,
@@ -309,10 +309,10 @@
   },
   "rstudio_d3heatmap": {
     "cran": false,
-    "stargazers_count": 237,
+    "stargazers_count": 236,
     "open_issues_count": 43,
     "forks_count": 93,
-    "watchers_count": 237
+    "watchers_count": 236
   },
   "smartinsightsfromdata_rpivotTable": {
     "cran": true,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2624,
+    "stargazers_count": 2623,
     "open_issues_count": 739,
     "forks_count": 633,
-    "watchers_count": 2624
+    "watchers_count": 2623
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -652,10 +652,10 @@
   },
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
-    "stargazers_count": 129,
+    "stargazers_count": 128,
     "open_issues_count": 18,
     "forks_count": 12,
-    "watchers_count": 129
+    "watchers_count": 128
   },
   "lvulliard_BioCircos_R": {
     "cran": true,
