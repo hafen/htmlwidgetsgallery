@@ -92,10 +92,10 @@
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 609,
+    "stargazers_count": 610,
     "open_issues_count": 207,
     "forks_count": 180,
-    "watchers_count": 609
+    "watchers_count": 610
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2625,
+    "stargazers_count": 2626,
     "open_issues_count": 739,
     "forks_count": 632,
-    "watchers_count": 2625
+    "watchers_count": 2626
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -717,7 +717,7 @@
     "cran": true,
     "stargazers_count": 610,
     "open_issues_count": 169,
-    "forks_count": 82,
+    "forks_count": 83,
     "watchers_count": 610
   },
   "helgasoft_echarty": {
