@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1716,
+    "stargazers_count": 1717,
     "open_issues_count": 168,
     "forks_count": 248,
-    "watchers_count": 1716
+    "watchers_count": 1717
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 536,
+    "stargazers_count": 537,
     "open_issues_count": 98,
     "forks_count": 92,
-    "watchers_count": 536
+    "watchers_count": 537
   },
   "cran_qrage": {
     "cran": false,
@@ -625,7 +625,7 @@
   "talgalili_heatmaply": {
     "cran": true,
     "stargazers_count": 390,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 74,
     "watchers_count": 390
   },
@@ -773,7 +773,7 @@
     "cran": false,
     "stargazers_count": 72,
     "open_issues_count": 2,
-    "forks_count": 12,
+    "forks_count": 13,
     "watchers_count": 72
   },
   "erblast_parcats": {
