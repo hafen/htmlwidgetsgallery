@@ -493,7 +493,7 @@
     "cran": true,
     "stargazers_count": 837,
     "open_issues_count": 25,
-    "forks_count": 77,
+    "forks_count": 78,
     "watchers_count": 837
   },
   "SymbolixAU_googleway": {
@@ -589,10 +589,10 @@
   },
   "daattali_timevis": {
     "cran": true,
-    "stargazers_count": 673,
+    "stargazers_count": 674,
     "open_issues_count": 3,
     "forks_count": 152,
-    "watchers_count": 673
+    "watchers_count": 674
   },
   "lchiffon_wordcloud2": {
     "cran": true,
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 390,
+    "stargazers_count": 391,
     "open_issues_count": 35,
     "forks_count": 74,
-    "watchers_count": 390
+    "watchers_count": 391
   },
   "paulofelipe_D3plusR": {
     "cran": false,
