@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 496,
+    "stargazers_count": 497,
     "open_issues_count": 14,
     "forks_count": 52,
-    "watchers_count": 496
+    "watchers_count": 497
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -86,7 +86,7 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 834,
-    "open_issues_count": 315,
+    "open_issues_count": 316,
     "forks_count": 506,
     "watchers_count": 834
   },
@@ -513,7 +513,7 @@
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
     "stargazers_count": 537,
-    "open_issues_count": 98,
+    "open_issues_count": 99,
     "forks_count": 92,
     "watchers_count": 537
   },
@@ -652,10 +652,10 @@
   },
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 18,
     "forks_count": 12,
-    "watchers_count": 128
+    "watchers_count": 129
   },
   "lvulliard_BioCircos_R": {
     "cran": true,
