@@ -86,16 +86,16 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 834,
-    "open_issues_count": 316,
+    "open_issues_count": 315,
     "forks_count": 506,
     "watchers_count": 834
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 610,
+    "stargazers_count": 611,
     "open_issues_count": 207,
     "forks_count": 180,
-    "watchers_count": 610
+    "watchers_count": 611
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2629,
     "open_issues_count": 739,
-    "forks_count": 632,
+    "forks_count": 631,
     "watchers_count": 2629
   },
   "tutuchan_morrisjs": {
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 537,
+    "stargazers_count": 538,
     "open_issues_count": 99,
-    "forks_count": 92,
-    "watchers_count": 537
+    "forks_count": 93,
+    "watchers_count": 538
   },
   "cran_qrage": {
     "cran": false,
