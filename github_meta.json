@@ -86,7 +86,7 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 834,
-    "open_issues_count": 315,
+    "open_issues_count": 316,
     "forks_count": 506,
     "watchers_count": 834
   },
@@ -653,7 +653,7 @@
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
     "stargazers_count": 129,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 12,
     "watchers_count": 129
   },
@@ -820,10 +820,10 @@
   },
   "JohnCoene_globe4r": {
     "cran": false,
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 1,
     "forks_count": 2,
-    "watchers_count": 56
+    "watchers_count": 57
   },
   "montilab_vennr": {
     "cran": false,
