@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 498,
+    "stargazers_count": 501,
     "open_issues_count": 14,
     "forks_count": 51,
-    "watchers_count": 498
+    "watchers_count": 501
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -93,7 +93,7 @@
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 611,
-    "open_issues_count": 207,
+    "open_issues_count": 208,
     "forks_count": 180,
     "watchers_count": 611
   },
@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2631,
     "open_issues_count": 739,
-    "forks_count": 631,
+    "forks_count": 632,
     "watchers_count": 2631
   },
   "tutuchan_morrisjs": {
@@ -491,17 +491,17 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 838,
+    "stargazers_count": 839,
     "open_issues_count": 25,
     "forks_count": 78,
-    "watchers_count": 838
+    "watchers_count": 839
   },
   "SymbolixAU_googleway": {
     "cran": true,
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 58,
     "forks_count": 44,
-    "watchers_count": 237
+    "watchers_count": 238
   },
   "jbkunst_highcharter": {
     "cran": true,
@@ -626,7 +626,7 @@
     "cran": true,
     "stargazers_count": 391,
     "open_issues_count": 35,
-    "forks_count": 74,
+    "forks_count": 75,
     "watchers_count": 391
   },
   "paulofelipe_D3plusR": {
