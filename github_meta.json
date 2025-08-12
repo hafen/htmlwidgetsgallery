@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 501,
+    "stargazers_count": 502,
     "open_issues_count": 14,
     "forks_count": 51,
-    "watchers_count": 501
+    "watchers_count": 502
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -85,16 +85,16 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 834,
+    "stargazers_count": 835,
     "open_issues_count": 316,
     "forks_count": 506,
-    "watchers_count": 834
+    "watchers_count": 835
   },
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 611,
     "open_issues_count": 208,
-    "forks_count": 180,
+    "forks_count": 181,
     "watchers_count": 611
   },
   "rstudio_dygraphs": {
@@ -135,7 +135,7 @@
   "rich-iannone_DiagrammeR": {
     "cran": true,
     "stargazers_count": 1719,
-    "open_issues_count": 168,
+    "open_issues_count": 169,
     "forks_count": 248,
     "watchers_count": 1719
   },
@@ -429,7 +429,7 @@
   "durtal_calheatmapR": {
     "cran": false,
     "stargazers_count": 21,
-    "open_issues_count": 0,
+    "open_issues_count": 4,
     "forks_count": 6,
     "watchers_count": 21
   },
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2631,
-    "open_issues_count": 739,
+    "open_issues_count": 740,
     "forks_count": 632,
     "watchers_count": 2631
   },
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 730,
+    "stargazers_count": 731,
     "open_issues_count": 39,
     "forks_count": 151,
-    "watchers_count": 730
+    "watchers_count": 731
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
