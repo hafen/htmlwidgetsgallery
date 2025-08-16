@@ -17,7 +17,7 @@
     "cran": true,
     "stargazers_count": 47,
     "open_issues_count": 1,
-    "forks_count": 11,
+    "forks_count": 10,
     "watchers_count": 47
   },
   "yonicd_rpdf": {
@@ -86,14 +86,14 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 836,
-    "open_issues_count": 317,
+    "open_issues_count": 318,
     "forks_count": 506,
     "watchers_count": 836
   },
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 611,
-    "open_issues_count": 208,
+    "open_issues_count": 209,
     "forks_count": 180,
     "watchers_count": 611
   },
@@ -626,7 +626,7 @@
     "cran": true,
     "stargazers_count": 391,
     "open_issues_count": 35,
-    "forks_count": 75,
+    "forks_count": 74,
     "watchers_count": 391
   },
   "paulofelipe_D3plusR": {
@@ -722,10 +722,10 @@
   },
   "helgasoft_echarty": {
     "cran": true,
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 2,
     "forks_count": 3,
-    "watchers_count": 98
+    "watchers_count": 99
   },
   "no-types_RagGrid": {
     "cran": true,
