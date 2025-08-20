@@ -87,7 +87,7 @@
     "cran": true,
     "stargazers_count": 836,
     "open_issues_count": 319,
-    "forks_count": 506,
+    "forks_count": 505,
     "watchers_count": 836
   },
   "rstudio_DT": {
@@ -484,15 +484,15 @@
   },
   "muschellij2_diffr": {
     "cran": true,
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 4,
     "forks_count": 5,
-    "watchers_count": 66
+    "watchers_count": 67
   },
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 840,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 78,
     "watchers_count": 840
   },
