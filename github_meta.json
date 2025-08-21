@@ -197,17 +197,17 @@
   },
   "timelyportfolio_parcoords": {
     "cran": false,
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 25,
     "forks_count": 20,
-    "watchers_count": 77
+    "watchers_count": 78
   },
   "timelyportfolio_listviewer": {
     "cran": true,
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 13,
     "forks_count": 24,
-    "watchers_count": 181
+    "watchers_count": 182
   },
   "timelyportfolio_svgPanZoom": {
     "cran": true,
@@ -414,10 +414,10 @@
   },
   "timelyportfolio_sunburstR": {
     "cran": true,
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 40,
     "forks_count": 121,
-    "watchers_count": 213
+    "watchers_count": 214
   },
   "timelyportfolio_d3hiveR": {
     "cran": false,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 840,
-    "open_issues_count": 28,
+    "stargazers_count": 841,
+    "open_issues_count": 29,
     "forks_count": 78,
-    "watchers_count": 840
+    "watchers_count": 841
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 391,
+    "stargazers_count": 392,
     "open_issues_count": 35,
     "forks_count": 74,
-    "watchers_count": 391
+    "watchers_count": 392
   },
   "paulofelipe_D3plusR": {
     "cran": false,
