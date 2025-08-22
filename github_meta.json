@@ -3,7 +3,7 @@
     "cran": true,
     "stargazers_count": 503,
     "open_issues_count": 14,
-    "forks_count": 50,
+    "forks_count": 51,
     "watchers_count": 503
   },
   "DIGI-VUB_recogito": {
@@ -93,7 +93,7 @@
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 611,
-    "open_issues_count": 209,
+    "open_issues_count": 210,
     "forks_count": 180,
     "watchers_count": 611
   },
@@ -176,10 +176,10 @@
   },
   "jrowen_rhandsontable": {
     "cran": true,
-    "stargazers_count": 391,
+    "stargazers_count": 390,
     "open_issues_count": 166,
     "forks_count": 149,
-    "watchers_count": 391
+    "watchers_count": 390
   },
   "timelyportfolio_rcdimple": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2631,
+    "stargazers_count": 2632,
     "open_issues_count": 740,
     "forks_count": 632,
-    "watchers_count": 2631
+    "watchers_count": 2632
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 841,
+    "stargazers_count": 842,
     "open_issues_count": 29,
     "forks_count": 78,
-    "watchers_count": 841
+    "watchers_count": 842
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -561,15 +561,15 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 558,
+    "stargazers_count": 557,
     "open_issues_count": 154,
     "forks_count": 126,
-    "watchers_count": 558
+    "watchers_count": 557
   },
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 301,
-    "open_issues_count": 20,
+    "open_issues_count": 19,
     "forks_count": 46,
     "watchers_count": 301
   },
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 610,
+    "stargazers_count": 611,
     "open_issues_count": 169,
     "forks_count": 83,
-    "watchers_count": 610
+    "watchers_count": 611
   },
   "helgasoft_echarty": {
     "cran": true,
