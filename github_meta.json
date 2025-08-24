@@ -492,7 +492,7 @@
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 842,
-    "open_issues_count": 29,
+    "open_issues_count": 31,
     "forks_count": 78,
     "watchers_count": 842
   },
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 611,
-    "open_issues_count": 169,
+    "open_issues_count": 168,
     "forks_count": 83,
     "watchers_count": 611
   },
