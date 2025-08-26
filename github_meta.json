@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 702,
+    "stargazers_count": 701,
     "open_issues_count": 65,
     "forks_count": 80,
-    "watchers_count": 702
+    "watchers_count": 701
   },
   "jcheng5_bubbles": {
     "cran": false,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 843,
-    "open_issues_count": 31,
-    "forks_count": 78,
-    "watchers_count": 843
+    "stargazers_count": 844,
+    "open_issues_count": 32,
+    "forks_count": 79,
+    "watchers_count": 844
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 539,
+    "stargazers_count": 535,
     "open_issues_count": 100,
     "forks_count": 93,
-    "watchers_count": 539
+    "watchers_count": 535
   },
   "cran_qrage": {
     "cran": false,
@@ -570,7 +570,7 @@
     "cran": true,
     "stargazers_count": 302,
     "open_issues_count": 19,
-    "forks_count": 46,
+    "forks_count": 45,
     "watchers_count": 302
   },
   "mrjoh3_c3": {
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 612,
-    "open_issues_count": 168,
+    "open_issues_count": 167,
     "forks_count": 83,
     "watchers_count": 612
   },
@@ -736,10 +736,10 @@
   },
   "SymbolixAU_mapdeck": {
     "cran": true,
-    "stargazers_count": 371,
+    "stargazers_count": 372,
     "open_issues_count": 79,
     "forks_count": 42,
-    "watchers_count": 371
+    "watchers_count": 372
   },
   "chengvt_MovingBubbles": {
     "cran": false,
@@ -785,10 +785,10 @@
   },
   "dreamRs_apexcharter": {
     "cran": true,
-    "stargazers_count": 147,
+    "stargazers_count": 146,
     "open_issues_count": 14,
-    "forks_count": 16,
-    "watchers_count": 147
+    "forks_count": 15,
+    "watchers_count": 146
   },
   "dreamRs_tuichartr": {
     "cran": false,
