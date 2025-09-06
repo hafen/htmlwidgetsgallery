@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2638,
-    "open_issues_count": 740,
+    "open_issues_count": 741,
     "forks_count": 632,
     "watchers_count": 2638
   },
@@ -492,7 +492,7 @@
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 845,
-    "open_issues_count": 28,
+    "open_issues_count": 29,
     "forks_count": 79,
     "watchers_count": 845
   },
