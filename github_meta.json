@@ -16,7 +16,7 @@
   "dipterix_threeBrain": {
     "cran": true,
     "stargazers_count": 47,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 10,
     "watchers_count": 47
   },
@@ -122,7 +122,7 @@
     "cran": true,
     "stargazers_count": 657,
     "open_issues_count": 81,
-    "forks_count": 266,
+    "forks_count": 265,
     "watchers_count": 657
   },
   "bwlewis_rthreejs": {
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 303,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 45,
     "watchers_count": 303
   },
