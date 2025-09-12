@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 506,
+    "stargazers_count": 507,
     "open_issues_count": 14,
     "forks_count": 52,
-    "watchers_count": 506
+    "watchers_count": 507
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -85,17 +85,17 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 835,
+    "stargazers_count": 836,
     "open_issues_count": 317,
     "forks_count": 504,
-    "watchers_count": 835
+    "watchers_count": 836
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 611,
+    "stargazers_count": 612,
     "open_issues_count": 208,
     "forks_count": 180,
-    "watchers_count": 611
+    "watchers_count": 612
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 845,
+    "stargazers_count": 846,
     "open_issues_count": 29,
     "forks_count": 79,
-    "watchers_count": 845
+    "watchers_count": 846
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -505,17 +505,17 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 732,
+    "stargazers_count": 733,
     "open_issues_count": 39,
     "forks_count": 151,
-    "watchers_count": 732
+    "watchers_count": 733
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 535,
+    "stargazers_count": 536,
     "open_issues_count": 97,
     "forks_count": 93,
-    "watchers_count": 535
+    "watchers_count": 536
   },
   "cran_qrage": {
     "cran": false,
@@ -554,10 +554,10 @@
   },
   "mtennekes_tmap": {
     "cran": true,
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 2,
-    "watchers_count": 14
+    "watchers_count": 15
   },
   "datastorm-open_visNetwork": {
     "cran": true,
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 395,
+    "stargazers_count": 396,
     "open_issues_count": 35,
     "forks_count": 74,
-    "watchers_count": 395
+    "watchers_count": 396
   },
   "paulofelipe_D3plusR": {
     "cran": false,
@@ -736,10 +736,10 @@
   },
   "SymbolixAU_mapdeck": {
     "cran": true,
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 79,
     "forks_count": 42,
-    "watchers_count": 373
+    "watchers_count": 374
   },
   "chengvt_MovingBubbles": {
     "cran": false,
