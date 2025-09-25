@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2640,
-    "open_issues_count": 742,
+    "open_issues_count": 743,
     "forks_count": 634,
     "watchers_count": 2640
   },
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 614,
-    "open_issues_count": 168,
+    "open_issues_count": 169,
     "forks_count": 85,
     "watchers_count": 614
   },
