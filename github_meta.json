@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 509,
+    "stargazers_count": 508,
     "open_issues_count": 14,
     "forks_count": 52,
-    "watchers_count": 509
+    "watchers_count": 508
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2639,
+    "stargazers_count": 2642,
     "open_issues_count": 744,
     "forks_count": 634,
-    "watchers_count": 2639
+    "watchers_count": 2642
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -505,15 +505,15 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 733,
+    "stargazers_count": 734,
     "open_issues_count": 39,
     "forks_count": 151,
-    "watchers_count": 733
+    "watchers_count": 734
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
     "stargazers_count": 536,
-    "open_issues_count": 97,
+    "open_issues_count": 98,
     "forks_count": 93,
     "watchers_count": 536
   },
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 396,
+    "stargazers_count": 397,
     "open_issues_count": 35,
     "forks_count": 74,
-    "watchers_count": 396
+    "watchers_count": 397
   },
   "paulofelipe_D3plusR": {
     "cran": false,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 615,
+    "stargazers_count": 614,
     "open_issues_count": 169,
     "forks_count": 85,
-    "watchers_count": 615
+    "watchers_count": 614
   },
   "helgasoft_echarty": {
     "cran": true,
