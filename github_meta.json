@@ -507,7 +507,7 @@
     "cran": true,
     "stargazers_count": 735,
     "open_issues_count": 39,
-    "forks_count": 151,
+    "forks_count": 152,
     "watchers_count": 735
   },
   "environmentalinformatics-marburg_mapview": {
@@ -562,14 +562,14 @@
   "datastorm-open_visNetwork": {
     "cran": true,
     "stargazers_count": 557,
-    "open_issues_count": 153,
-    "forks_count": 126,
+    "open_issues_count": 154,
+    "forks_count": 127,
     "watchers_count": 557
   },
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 304,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "forks_count": 45,
     "watchers_count": 304
   },
