@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 508,
+    "stargazers_count": 509,
     "open_issues_count": 14,
     "forks_count": 52,
-    "watchers_count": 508
+    "watchers_count": 509
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -86,16 +86,16 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 838,
-    "open_issues_count": 317,
+    "open_issues_count": 316,
     "forks_count": 504,
     "watchers_count": 838
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 612,
+    "stargazers_count": 613,
     "open_issues_count": 208,
     "forks_count": 179,
-    "watchers_count": 612
+    "watchers_count": 613
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -204,10 +204,10 @@
   },
   "timelyportfolio_listviewer": {
     "cran": true,
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 13,
     "forks_count": 24,
-    "watchers_count": 183
+    "watchers_count": 184
   },
   "timelyportfolio_svgPanZoom": {
     "cran": true,
@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 703,
+    "stargazers_count": 704,
     "open_issues_count": 66,
     "forks_count": 79,
-    "watchers_count": 703
+    "watchers_count": 704
   },
   "jcheng5_bubbles": {
     "cran": false,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 854,
+    "stargazers_count": 855,
     "open_issues_count": 20,
     "forks_count": 79,
-    "watchers_count": 854
+    "watchers_count": 855
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 734,
+    "stargazers_count": 735,
     "open_issues_count": 39,
     "forks_count": 152,
-    "watchers_count": 734
+    "watchers_count": 735
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 613,
+    "stargazers_count": 614,
     "open_issues_count": 169,
     "forks_count": 85,
-    "watchers_count": 613
+    "watchers_count": 614
   },
   "helgasoft_echarty": {
     "cran": true,
