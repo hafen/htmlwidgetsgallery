@@ -86,8 +86,8 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 838,
-    "open_issues_count": 316,
-    "forks_count": 504,
+    "open_issues_count": 317,
+    "forks_count": 505,
     "watchers_count": 838
   },
   "rstudio_DT": {
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2643,
-    "open_issues_count": 745,
+    "open_issues_count": 746,
     "forks_count": 634,
     "watchers_count": 2643
   },
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 856,
+    "stargazers_count": 857,
     "open_issues_count": 20,
     "forks_count": 79,
-    "watchers_count": 856
+    "watchers_count": 857
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 304,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 45,
     "watchers_count": 304
   },
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 614,
-    "open_issues_count": 169,
+    "open_issues_count": 170,
     "forks_count": 85,
     "watchers_count": 614
   },
