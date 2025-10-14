@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1721,
+    "stargazers_count": 1722,
     "open_issues_count": 170,
     "forks_count": 249,
-    "watchers_count": 1721
+    "watchers_count": 1722
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2644,
-    "open_issues_count": 746,
+    "open_issues_count": 747,
     "forks_count": 636,
     "watchers_count": 2644
   },
