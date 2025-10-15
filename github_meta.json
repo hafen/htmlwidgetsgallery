@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 510,
+    "stargazers_count": 511,
     "open_issues_count": 14,
     "forks_count": 52,
-    "watchers_count": 510
+    "watchers_count": 511
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2644,
+    "stargazers_count": 2645,
     "open_issues_count": 747,
     "forks_count": 636,
-    "watchers_count": 2644
+    "watchers_count": 2645
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 612,
-    "open_issues_count": 170,
+    "open_issues_count": 171,
     "forks_count": 85,
     "watchers_count": 612
   },
