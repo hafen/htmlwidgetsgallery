@@ -309,10 +309,10 @@
   },
   "rstudio_d3heatmap": {
     "cran": false,
-    "stargazers_count": 239,
+    "stargazers_count": 238,
     "open_issues_count": 43,
     "forks_count": 93,
-    "watchers_count": 239
+    "watchers_count": 238
   },
   "smartinsightsfromdata_rpivotTable": {
     "cran": true,
@@ -716,16 +716,16 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 613,
-    "open_issues_count": 172,
+    "open_issues_count": 171,
     "forks_count": 85,
     "watchers_count": 613
   },
   "helgasoft_echarty": {
     "cran": true,
-    "stargazers_count": 101,
+    "stargazers_count": 102,
     "open_issues_count": 2,
     "forks_count": 3,
-    "watchers_count": 101
+    "watchers_count": 102
   },
   "no-types_RagGrid": {
     "cran": true,
