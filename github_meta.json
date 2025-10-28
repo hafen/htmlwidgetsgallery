@@ -127,15 +127,15 @@
   },
   "bwlewis_rthreejs": {
     "cran": true,
-    "stargazers_count": 306,
+    "stargazers_count": 307,
     "open_issues_count": 37,
     "forks_count": 59,
-    "watchers_count": 306
+    "watchers_count": 307
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
     "stargazers_count": 1725,
-    "open_issues_count": 170,
+    "open_issues_count": 171,
     "forks_count": 249,
     "watchers_count": 1725
   },
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2648,
+    "stargazers_count": 2649,
     "open_issues_count": 748,
     "forks_count": 636,
-    "watchers_count": 2648
+    "watchers_count": 2649
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 399,
+    "stargazers_count": 400,
     "open_issues_count": 35,
-    "forks_count": 75,
-    "watchers_count": 399
+    "forks_count": 76,
+    "watchers_count": 400
   },
   "paulofelipe_D3plusR": {
     "cran": false,
@@ -645,10 +645,10 @@
   },
   "rte-antares-rpackage_leaflet_minicharts": {
     "cran": true,
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 26,
     "forks_count": 20,
-    "watchers_count": 109
+    "watchers_count": 110
   },
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
