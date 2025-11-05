@@ -162,10 +162,10 @@
   },
   "jpmarindiaz_isotope": {
     "cran": false,
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 3,
     "forks_count": 4,
-    "watchers_count": 13
+    "watchers_count": 14
   },
   "ThomasSiegmund_D3TableFilter": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2648,
+    "stargazers_count": 2649,
     "open_issues_count": 749,
     "forks_count": 635,
-    "watchers_count": 2648
+    "watchers_count": 2649
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 736,
+    "stargazers_count": 737,
     "open_issues_count": 39,
     "forks_count": 153,
-    "watchers_count": 736
+    "watchers_count": 737
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
@@ -549,7 +549,7 @@
     "cran": true,
     "stargazers_count": 161,
     "open_issues_count": 3,
-    "forks_count": 22,
+    "forks_count": 21,
     "watchers_count": 161
   },
   "mtennekes_tmap": {
@@ -610,10 +610,10 @@
   },
   "AdeelK93_collapsibleTree": {
     "cran": true,
-    "stargazers_count": 164,
+    "stargazers_count": 163,
     "open_issues_count": 37,
     "forks_count": 41,
-    "watchers_count": 164
+    "watchers_count": 163
   },
   "abossi_diffRgit": {
     "cran": false,
@@ -759,7 +759,7 @@
     "cran": false,
     "stargazers_count": 50,
     "open_issues_count": 1,
-    "forks_count": 10,
+    "forks_count": 7,
     "watchers_count": 50
   },
   "daranzolin_d3rain": {
