@@ -191,7 +191,7 @@
   "timelyportfolio_sortableR": {
     "cran": false,
     "stargazers_count": 135,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 32,
     "watchers_count": 135
   },
@@ -414,10 +414,10 @@
   },
   "timelyportfolio_sunburstR": {
     "cran": true,
-    "stargazers_count": 214,
+    "stargazers_count": 213,
     "open_issues_count": 40,
     "forks_count": 121,
-    "watchers_count": 214
+    "watchers_count": 213
   },
   "timelyportfolio_d3hiveR": {
     "cran": false,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 613,
+    "stargazers_count": 614,
     "open_issues_count": 172,
     "forks_count": 85,
-    "watchers_count": 613
+    "watchers_count": 614
   },
   "helgasoft_echarty": {
     "cran": true,
