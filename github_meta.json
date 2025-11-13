@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2648,
+    "stargazers_count": 2650,
     "open_issues_count": 750,
     "forks_count": 635,
-    "watchers_count": 2648
+    "watchers_count": 2650
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -638,10 +638,10 @@
   },
   "cmap_morpheus_R": {
     "cran": false,
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 7,
     "forks_count": 15,
-    "watchers_count": 38
+    "watchers_count": 39
   },
   "rte-antares-rpackage_leaflet_minicharts": {
     "cran": true,
