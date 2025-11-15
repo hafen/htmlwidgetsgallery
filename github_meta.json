@@ -87,14 +87,14 @@
     "cran": true,
     "stargazers_count": 836,
     "open_issues_count": 317,
-    "forks_count": 505,
+    "forks_count": 506,
     "watchers_count": 836
   },
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 614,
-    "open_issues_count": 208,
-    "forks_count": 179,
+    "open_issues_count": 210,
+    "forks_count": 180,
     "watchers_count": 614
   },
   "rstudio_dygraphs": {
