@@ -507,7 +507,7 @@
     "cran": true,
     "stargazers_count": 737,
     "open_issues_count": 39,
-    "forks_count": 154,
+    "forks_count": 155,
     "watchers_count": 737
   },
   "environmentalinformatics-marburg_mapview": {
@@ -673,10 +673,10 @@
   },
   "lineupjs_lineup_htmlwidget": {
     "cran": true,
-    "stargazers_count": 55,
+    "stargazers_count": 54,
     "open_issues_count": 3,
     "forks_count": 9,
-    "watchers_count": 55
+    "watchers_count": 54
   },
   "upsetjs_upsetjs_r": {
     "cran": true,
