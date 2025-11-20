@@ -192,7 +192,7 @@
     "cran": false,
     "stargazers_count": 135,
     "open_issues_count": 21,
-    "forks_count": 32,
+    "forks_count": 33,
     "watchers_count": 135
   },
   "timelyportfolio_parcoords": {
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2650,
+    "stargazers_count": 2652,
     "open_issues_count": 750,
     "forks_count": 636,
-    "watchers_count": 2650
+    "watchers_count": 2652
   },
   "tutuchan_morrisjs": {
     "cran": false,
