@@ -57,10 +57,10 @@
   },
   "metrumresearchgroup_d3Tree": {
     "cran": true,
-    "stargazers_count": 87,
+    "stargazers_count": 86,
     "open_issues_count": 0,
     "forks_count": 34,
-    "watchers_count": 87
+    "watchers_count": 86
   },
   "metrumresearchgroup_slickR": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2652,
+    "stargazers_count": 2653,
     "open_issues_count": 750,
     "forks_count": 636,
-    "watchers_count": 2652
+    "watchers_count": 2653
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -610,10 +610,10 @@
   },
   "AdeelK93_collapsibleTree": {
     "cran": true,
-    "stargazers_count": 163,
+    "stargazers_count": 162,
     "open_issues_count": 37,
     "forks_count": 41,
-    "watchers_count": 163
+    "watchers_count": 162
   },
   "abossi_diffRgit": {
     "cran": false,
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 617,
-    "open_issues_count": 172,
+    "open_issues_count": 173,
     "forks_count": 85,
     "watchers_count": 617
   },
