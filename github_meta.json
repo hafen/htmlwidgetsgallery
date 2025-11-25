@@ -191,7 +191,7 @@
   "timelyportfolio_sortableR": {
     "cran": false,
     "stargazers_count": 135,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 33,
     "watchers_count": 135
   },
@@ -625,7 +625,7 @@
   "talgalili_heatmaply": {
     "cran": true,
     "stargazers_count": 401,
-    "open_issues_count": 35,
+    "open_issues_count": 36,
     "forks_count": 76,
     "watchers_count": 401
   },
@@ -666,10 +666,10 @@
   },
   "dreamRs_billboarder": {
     "cran": true,
-    "stargazers_count": 175,
+    "stargazers_count": 176,
     "open_issues_count": 11,
     "forks_count": 21,
-    "watchers_count": 175
+    "watchers_count": 176
   },
   "lineupjs_lineup_htmlwidget": {
     "cran": true,
