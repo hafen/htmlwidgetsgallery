@@ -99,10 +99,10 @@
   },
   "rstudio_dygraphs": {
     "cran": true,
-    "stargazers_count": 366,
+    "stargazers_count": 367,
     "open_issues_count": 122,
     "forks_count": 192,
-    "watchers_count": 366
+    "watchers_count": 367
   },
   "hrbrmstr_metricsgraphics": {
     "cran": false,
@@ -414,10 +414,10 @@
   },
   "timelyportfolio_sunburstR": {
     "cran": true,
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 41,
     "forks_count": 121,
-    "watchers_count": 213
+    "watchers_count": 214
   },
   "timelyportfolio_d3hiveR": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2656,
+    "stargazers_count": 2657,
     "open_issues_count": 751,
     "forks_count": 636,
-    "watchers_count": 2656
+    "watchers_count": 2657
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -568,10 +568,10 @@
   },
   "neuhausi_canvasXpress": {
     "cran": true,
-    "stargazers_count": 306,
+    "stargazers_count": 307,
     "open_issues_count": 20,
     "forks_count": 45,
-    "watchers_count": 306
+    "watchers_count": 307
   },
   "mrjoh3_c3": {
     "cran": true,
