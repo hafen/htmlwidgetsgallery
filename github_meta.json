@@ -93,7 +93,7 @@
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 614,
-    "open_issues_count": 210,
+    "open_issues_count": 211,
     "forks_count": 179,
     "watchers_count": 614
   },
@@ -191,8 +191,8 @@
   "timelyportfolio_sortableR": {
     "cran": false,
     "stargazers_count": 135,
-    "open_issues_count": 22,
-    "forks_count": 32,
+    "open_issues_count": 20,
+    "forks_count": 33,
     "watchers_count": 135
   },
   "timelyportfolio_parcoords": {
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 542,
+    "stargazers_count": 543,
     "open_issues_count": 100,
     "forks_count": 94,
-    "watchers_count": 542
+    "watchers_count": 543
   },
   "cran_qrage": {
     "cran": false,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 308,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 45,
     "watchers_count": 308
   },
@@ -722,10 +722,10 @@
   },
   "helgasoft_echarty": {
     "cran": true,
-    "stargazers_count": 108,
+    "stargazers_count": 109,
     "open_issues_count": 2,
     "forks_count": 4,
-    "watchers_count": 108
+    "watchers_count": 109
   },
   "no-types_RagGrid": {
     "cran": true,
