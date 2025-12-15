@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 862,
+    "stargazers_count": 863,
     "open_issues_count": 21,
     "forks_count": 79,
-    "watchers_count": 862
+    "watchers_count": 863
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 308,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 45,
     "watchers_count": 308
   },
@@ -785,10 +785,10 @@
   },
   "dreamRs_apexcharter": {
     "cran": true,
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 14,
     "forks_count": 15,
-    "watchers_count": 148
+    "watchers_count": 149
   },
   "dreamRs_tuichartr": {
     "cran": false,
