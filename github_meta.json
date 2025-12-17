@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 526,
+    "stargazers_count": 527,
     "open_issues_count": 14,
     "forks_count": 51,
-    "watchers_count": 526
+    "watchers_count": 527
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -93,7 +93,7 @@
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 614,
-    "open_issues_count": 211,
+    "open_issues_count": 210,
     "forks_count": 179,
     "watchers_count": 614
   },
@@ -492,7 +492,7 @@
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 863,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 79,
     "watchers_count": 863
   },
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 544,
+    "stargazers_count": 545,
     "open_issues_count": 100,
     "forks_count": 94,
-    "watchers_count": 544
+    "watchers_count": 545
   },
   "cran_qrage": {
     "cran": false,
