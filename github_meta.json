@@ -415,7 +415,7 @@
   "timelyportfolio_sunburstR": {
     "cran": true,
     "stargazers_count": 214,
-    "open_issues_count": 41,
+    "open_issues_count": 42,
     "forks_count": 121,
     "watchers_count": 214
   },
@@ -773,7 +773,7 @@
     "cran": false,
     "stargazers_count": 73,
     "open_issues_count": 2,
-    "forks_count": 13,
+    "forks_count": 14,
     "watchers_count": 73
   },
   "erblast_parcats": {
