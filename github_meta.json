@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 529,
+    "stargazers_count": 531,
     "open_issues_count": 14,
     "forks_count": 51,
-    "watchers_count": 529
+    "watchers_count": 531
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2656,
-    "open_issues_count": 751,
+    "open_issues_count": 753,
     "forks_count": 636,
     "watchers_count": 2656
   },
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 544,
+    "stargazers_count": 543,
     "open_issues_count": 100,
     "forks_count": 94,
-    "watchers_count": 544
+    "watchers_count": 543
   },
   "cran_qrage": {
     "cran": false,
@@ -645,10 +645,10 @@
   },
   "rte-antares-rpackage_leaflet_minicharts": {
     "cran": true,
-    "stargazers_count": 109,
+    "stargazers_count": 108,
     "open_issues_count": 26,
     "forks_count": 20,
-    "watchers_count": 109
+    "watchers_count": 108
   },
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
@@ -722,10 +722,10 @@
   },
   "helgasoft_echarty": {
     "cran": true,
-    "stargazers_count": 109,
+    "stargazers_count": 108,
     "open_issues_count": 2,
     "forks_count": 4,
-    "watchers_count": 109
+    "watchers_count": 108
   },
   "no-types_RagGrid": {
     "cran": true,
