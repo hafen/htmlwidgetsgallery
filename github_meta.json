@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 531,
+    "stargazers_count": 533,
     "open_issues_count": 14,
     "forks_count": 51,
-    "watchers_count": 531
+    "watchers_count": 533
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -204,10 +204,10 @@
   },
   "timelyportfolio_listviewer": {
     "cran": true,
-    "stargazers_count": 185,
+    "stargazers_count": 186,
     "open_issues_count": 13,
     "forks_count": 24,
-    "watchers_count": 185
+    "watchers_count": 186
   },
   "timelyportfolio_svgPanZoom": {
     "cran": true,
