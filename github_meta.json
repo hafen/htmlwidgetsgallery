@@ -414,10 +414,10 @@
   },
   "timelyportfolio_sunburstR": {
     "cran": true,
-    "stargazers_count": 214,
+    "stargazers_count": 215,
     "open_issues_count": 42,
     "forks_count": 121,
-    "watchers_count": 214
+    "watchers_count": 215
   },
   "timelyportfolio_d3hiveR": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2656,
+    "stargazers_count": 2655,
     "open_issues_count": 753,
     "forks_count": 636,
-    "watchers_count": 2656
+    "watchers_count": 2655
   },
   "tutuchan_morrisjs": {
     "cran": false,
