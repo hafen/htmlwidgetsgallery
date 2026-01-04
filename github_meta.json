@@ -3,7 +3,7 @@
     "cran": true,
     "stargazers_count": 535,
     "open_issues_count": 14,
-    "forks_count": 52,
+    "forks_count": 53,
     "watchers_count": 535
   },
   "DIGI-VUB_recogito": {
@@ -204,10 +204,10 @@
   },
   "timelyportfolio_listviewer": {
     "cran": true,
-    "stargazers_count": 186,
+    "stargazers_count": 187,
     "open_issues_count": 13,
     "forks_count": 24,
-    "watchers_count": 186
+    "watchers_count": 187
   },
   "timelyportfolio_svgPanZoom": {
     "cran": true,
@@ -820,10 +820,10 @@
   },
   "JohnCoene_globe4r": {
     "cran": false,
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 1,
     "forks_count": 2,
-    "watchers_count": 57
+    "watchers_count": 58
   },
   "montilab_vennr": {
     "cran": false,
