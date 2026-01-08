@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 534,
+    "stargazers_count": 533,
     "open_issues_count": 14,
     "forks_count": 53,
-    "watchers_count": 534
+    "watchers_count": 533
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -120,10 +120,10 @@
   },
   "christophergandrud_networkD3": {
     "cran": true,
-    "stargazers_count": 656,
+    "stargazers_count": 657,
     "open_issues_count": 81,
     "forks_count": 263,
-    "watchers_count": 656
+    "watchers_count": 657
   },
   "bwlewis_rthreejs": {
     "cran": true,
@@ -653,7 +653,7 @@
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
     "stargazers_count": 128,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 12,
     "watchers_count": 128
   },
@@ -778,10 +778,10 @@
   },
   "erblast_parcats": {
     "cran": true,
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 2,
     "forks_count": 3,
-    "watchers_count": 29
+    "watchers_count": 30
   },
   "dreamRs_apexcharter": {
     "cran": true,
