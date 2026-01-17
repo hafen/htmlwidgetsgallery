@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 535,
+    "stargazers_count": 536,
     "open_issues_count": 14,
     "forks_count": 53,
-    "watchers_count": 535
+    "watchers_count": 536
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -121,7 +121,7 @@
   "christophergandrud_networkD3": {
     "cran": true,
     "stargazers_count": 657,
-    "open_issues_count": 81,
+    "open_issues_count": 82,
     "forks_count": 263,
     "watchers_count": 657
   },
@@ -492,7 +492,7 @@
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 864,
-    "open_issues_count": 24,
+    "open_issues_count": 14,
     "forks_count": 80,
     "watchers_count": 864
   },
@@ -855,10 +855,10 @@
   },
   "stla_jsTreeR": {
     "cran": true,
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 9,
     "forks_count": 6,
-    "watchers_count": 48
+    "watchers_count": 49
   },
   "stla_thorn": {
     "cran": true,
