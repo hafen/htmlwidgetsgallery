@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1732,
+    "stargazers_count": 1730,
     "open_issues_count": 172,
     "forks_count": 248,
-    "watchers_count": 1732
+    "watchers_count": 1730
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2655,
-    "open_issues_count": 757,
+    "stargazers_count": 2656,
+    "open_issues_count": 746,
     "forks_count": 636,
-    "watchers_count": 2655
+    "watchers_count": 2656
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -492,7 +492,7 @@
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 864,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 80,
     "watchers_count": 864
   },
@@ -716,8 +716,8 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 617,
-    "open_issues_count": 175,
-    "forks_count": 87,
+    "open_issues_count": 174,
+    "forks_count": 88,
     "watchers_count": 617
   },
   "helgasoft_echarty": {
@@ -890,10 +890,10 @@
   },
   "stla_aceEditor": {
     "cran": true,
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 2,
-    "watchers_count": 6
+    "watchers_count": 7
   },
   "stla_monaco": {
     "cran": true,
