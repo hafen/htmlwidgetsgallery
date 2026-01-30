@@ -65,7 +65,7 @@
   "metrumresearchgroup_slickR": {
     "cran": false,
     "stargazers_count": 162,
-    "open_issues_count": 20,
+    "open_issues_count": 19,
     "forks_count": 15,
     "watchers_count": 162
   },
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2657,
-    "open_issues_count": 750,
+    "open_issues_count": 749,
     "forks_count": 639,
     "watchers_count": 2657
   },
@@ -562,7 +562,7 @@
   "datastorm-open_visNetwork": {
     "cran": true,
     "stargazers_count": 562,
-    "open_issues_count": 155,
+    "open_issues_count": 154,
     "forks_count": 127,
     "watchers_count": 562
   },
