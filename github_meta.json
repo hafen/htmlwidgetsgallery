@@ -267,10 +267,10 @@
   },
   "htmlwidgets_sparkline": {
     "cran": false,
-    "stargazers_count": 246,
+    "stargazers_count": 245,
     "open_issues_count": 10,
     "forks_count": 40,
-    "watchers_count": 246
+    "watchers_count": 245
   },
   "adymimos_rWordCloud": {
     "cran": false,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 866,
+    "stargazers_count": 867,
     "open_issues_count": 16,
     "forks_count": 80,
-    "watchers_count": 866
+    "watchers_count": 867
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 548,
+    "stargazers_count": 549,
     "open_issues_count": 101,
     "forks_count": 95,
-    "watchers_count": 548
+    "watchers_count": 549
   },
   "cran_qrage": {
     "cran": false,
