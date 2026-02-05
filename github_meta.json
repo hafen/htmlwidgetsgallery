@@ -10,7 +10,7 @@
     "cran": true,
     "stargazers_count": 22,
     "open_issues_count": 6,
-    "forks_count": 5,
+    "forks_count": 4,
     "watchers_count": 22
   },
   "dipterix_threeBrain": {
@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 837,
+    "stargazers_count": 838,
     "open_issues_count": 318,
     "forks_count": 506,
-    "watchers_count": 837
+    "watchers_count": 838
   },
   "rstudio_DT": {
     "cran": true,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1730,
+    "stargazers_count": 1731,
     "open_issues_count": 173,
     "forks_count": 249,
-    "watchers_count": 1730
+    "watchers_count": 1731
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 703,
+    "stargazers_count": 704,
     "open_issues_count": 66,
     "forks_count": 78,
-    "watchers_count": 703
+    "watchers_count": 704
   },
   "jcheng5_bubbles": {
     "cran": false,
@@ -918,10 +918,10 @@
   },
   "patzaw_bscui": {
     "cran": true,
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 0,
-    "watchers_count": 19
+    "watchers_count": 20
   },
   "robert-norberg_shinybody": {
     "cran": true,
