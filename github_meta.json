@@ -92,10 +92,10 @@
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 616,
+    "stargazers_count": 617,
     "open_issues_count": 209,
     "forks_count": 179,
-    "watchers_count": 616
+    "watchers_count": 617
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -458,7 +458,7 @@
     "cran": false,
     "stargazers_count": 77,
     "open_issues_count": 7,
-    "forks_count": 9,
+    "forks_count": 10,
     "watchers_count": 77
   },
   "jbkunst_d3wordcloud": {
@@ -492,7 +492,7 @@
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 867,
-    "open_issues_count": 16,
+    "open_issues_count": 8,
     "forks_count": 80,
     "watchers_count": 867
   },
@@ -548,7 +548,7 @@
   "juba_scatterD3": {
     "cran": true,
     "stargazers_count": 161,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 21,
     "watchers_count": 161
   },
@@ -786,7 +786,7 @@
   "dreamRs_apexcharter": {
     "cran": true,
     "stargazers_count": 149,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 15,
     "watchers_count": 149
   },
