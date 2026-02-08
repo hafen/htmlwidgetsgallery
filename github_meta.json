@@ -548,7 +548,7 @@
   "juba_scatterD3": {
     "cran": true,
     "stargazers_count": 161,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 21,
     "watchers_count": 161
   },
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 409,
+    "stargazers_count": 410,
     "open_issues_count": 49,
     "forks_count": 107,
-    "watchers_count": 409
+    "watchers_count": 410
   },
   "kitware_candela": {
     "cran": false,
@@ -785,10 +785,10 @@
   },
   "dreamRs_apexcharter": {
     "cran": true,
-    "stargazers_count": 149,
+    "stargazers_count": 148,
     "open_issues_count": 15,
     "forks_count": 15,
-    "watchers_count": 149
+    "watchers_count": 148
   },
   "dreamRs_tuichartr": {
     "cran": false,
