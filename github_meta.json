@@ -343,7 +343,11 @@
     "watchers_count": 55
   },
   "garthtarr_edgebundleR": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 69,
+    "open_issues_count": 15,
+    "forks_count": 12,
+    "watchers_count": 69
   },
   "timelyportfolio_katexR": {
     "cran": false,
@@ -711,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 617,
-    "open_issues_count": 175,
+    "stargazers_count": 618,
+    "open_issues_count": 174,
     "forks_count": 88,
-    "watchers_count": 617
+    "watchers_count": 618
   },
   "helgasoft_echarty": {
     "cran": true,
