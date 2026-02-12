@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 704,
+    "stargazers_count": 703,
     "open_issues_count": 66,
     "forks_count": 78,
-    "watchers_count": 704
+    "watchers_count": 703
   },
   "jcheng5_bubbles": {
     "cran": false,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 619,
-    "open_issues_count": 174,
+    "stargazers_count": 620,
+    "open_issues_count": 175,
     "forks_count": 88,
-    "watchers_count": 619
+    "watchers_count": 620
   },
   "helgasoft_echarty": {
     "cran": true,
@@ -736,10 +736,10 @@
   },
   "SymbolixAU_mapdeck": {
     "cran": true,
-    "stargazers_count": 377,
+    "stargazers_count": 378,
     "open_issues_count": 79,
     "forks_count": 42,
-    "watchers_count": 377
+    "watchers_count": 378
   },
   "chengvt_MovingBubbles": {
     "cran": false,
