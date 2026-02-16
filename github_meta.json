@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 620,
-    "open_issues_count": 176,
+    "open_issues_count": 177,
     "forks_count": 88,
     "watchers_count": 620
   },
@@ -778,10 +778,10 @@
   },
   "erblast_parcats": {
     "cran": true,
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 2,
     "forks_count": 3,
-    "watchers_count": 30
+    "watchers_count": 31
   },
   "dreamRs_apexcharter": {
     "cran": true,
