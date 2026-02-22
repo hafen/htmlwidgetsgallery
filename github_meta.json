@@ -122,15 +122,15 @@
     "cran": true,
     "stargazers_count": 658,
     "open_issues_count": 82,
-    "forks_count": 263,
+    "forks_count": 262,
     "watchers_count": 658
   },
   "bwlewis_rthreejs": {
     "cran": true,
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 37,
     "forks_count": 59,
-    "watchers_count": 307
+    "watchers_count": 308
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
@@ -318,7 +318,7 @@
     "cran": true,
     "stargazers_count": 290,
     "open_issues_count": 41,
-    "forks_count": 73,
+    "forks_count": 72,
     "watchers_count": 290
   },
   "renkun-ken_formattable": {
