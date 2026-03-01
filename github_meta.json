@@ -715,17 +715,17 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 620,
+    "stargazers_count": 621,
     "open_issues_count": 177,
     "forks_count": 88,
-    "watchers_count": 620
+    "watchers_count": 621
   },
   "helgasoft_echarty": {
     "cran": true,
-    "stargazers_count": 112,
+    "stargazers_count": 111,
     "open_issues_count": 3,
     "forks_count": 4,
-    "watchers_count": 112
+    "watchers_count": 111
   },
   "no-types_RagGrid": {
     "cran": true,
