@@ -101,7 +101,7 @@
     "cran": true,
     "stargazers_count": 366,
     "open_issues_count": 122,
-    "forks_count": 191,
+    "forks_count": 190,
     "watchers_count": 366
   },
   "hrbrmstr_metricsgraphics": {
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 868,
+    "stargazers_count": 869,
     "open_issues_count": 8,
     "forks_count": 80,
-    "watchers_count": 868
+    "watchers_count": 869
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -506,7 +506,7 @@
   "jbkunst_highcharter": {
     "cran": true,
     "stargazers_count": 738,
-    "open_issues_count": 35,
+    "open_issues_count": 36,
     "forks_count": 153,
     "watchers_count": 738
   },
