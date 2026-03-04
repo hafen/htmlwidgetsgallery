@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1735,
+    "stargazers_count": 1734,
     "open_issues_count": 174,
     "forks_count": 249,
-    "watchers_count": 1735
+    "watchers_count": 1734
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2660,
+    "stargazers_count": 2659,
     "open_issues_count": 752,
     "forks_count": 639,
-    "watchers_count": 2660
+    "watchers_count": 2659
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -561,10 +561,10 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 563,
+    "stargazers_count": 562,
     "open_issues_count": 154,
     "forks_count": 128,
-    "watchers_count": 563
+    "watchers_count": 562
   },
   "neuhausi_canvasXpress": {
     "cran": true,
@@ -736,10 +736,10 @@
   },
   "SymbolixAU_mapdeck": {
     "cran": true,
-    "stargazers_count": 378,
+    "stargazers_count": 380,
     "open_issues_count": 79,
     "forks_count": 42,
-    "watchers_count": 378
+    "watchers_count": 380
   },
   "chengvt_MovingBubbles": {
     "cran": false,
