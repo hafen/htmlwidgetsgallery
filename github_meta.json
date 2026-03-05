@@ -268,7 +268,7 @@
   "htmlwidgets_sparkline": {
     "cran": false,
     "stargazers_count": 245,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 40,
     "watchers_count": 245
   },
@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2659,
     "open_issues_count": 752,
-    "forks_count": 639,
+    "forks_count": 638,
     "watchers_count": 2659
   },
   "tutuchan_morrisjs": {
@@ -722,10 +722,10 @@
   },
   "helgasoft_echarty": {
     "cran": true,
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 3,
     "forks_count": 4,
-    "watchers_count": 111
+    "watchers_count": 112
   },
   "no-types_RagGrid": {
     "cran": true,
