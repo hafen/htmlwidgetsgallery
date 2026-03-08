@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 548,
+    "stargazers_count": 547,
     "open_issues_count": 101,
     "forks_count": 95,
-    "watchers_count": 548
+    "watchers_count": 547
   },
   "cran_qrage": {
     "cran": false,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 621,
-    "open_issues_count": 177,
+    "stargazers_count": 622,
+    "open_issues_count": 178,
     "forks_count": 88,
-    "watchers_count": 621
+    "watchers_count": 622
   },
   "helgasoft_echarty": {
     "cran": true,
