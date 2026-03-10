@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2659,
-    "open_issues_count": 752,
+    "open_issues_count": 753,
     "forks_count": 638,
     "watchers_count": 2659
   },
@@ -723,7 +723,7 @@
   "helgasoft_echarty": {
     "cran": true,
     "stargazers_count": 112,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 4,
     "watchers_count": 112
   },
