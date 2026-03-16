@@ -127,10 +127,10 @@
   },
   "bwlewis_rthreejs": {
     "cran": true,
-    "stargazers_count": 308,
+    "stargazers_count": 309,
     "open_issues_count": 37,
     "forks_count": 59,
-    "watchers_count": 308
+    "watchers_count": 309
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
@@ -190,10 +190,10 @@
   },
   "timelyportfolio_sortableR": {
     "cran": false,
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 20,
     "forks_count": 33,
-    "watchers_count": 134
+    "watchers_count": 135
   },
   "timelyportfolio_parcoords": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2662,
+    "stargazers_count": 2661,
     "open_issues_count": 753,
     "forks_count": 638,
-    "watchers_count": 2662
+    "watchers_count": 2661
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -757,10 +757,10 @@
   },
   "dreamRs_topogram": {
     "cran": false,
-    "stargazers_count": 50,
+    "stargazers_count": 49,
     "open_issues_count": 1,
     "forks_count": 7,
-    "watchers_count": 50
+    "watchers_count": 49
   },
   "daranzolin_d3rain": {
     "cran": false,
