@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 541,
+    "stargazers_count": 542,
     "open_issues_count": 14,
     "forks_count": 53,
-    "watchers_count": 541
+    "watchers_count": 542
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -135,7 +135,7 @@
   "rich-iannone_DiagrammeR": {
     "cran": true,
     "stargazers_count": 1734,
-    "open_issues_count": 174,
+    "open_issues_count": 175,
     "forks_count": 249,
     "watchers_count": 1734
   },
@@ -267,10 +267,10 @@
   },
   "htmlwidgets_sparkline": {
     "cran": false,
-    "stargazers_count": 245,
+    "stargazers_count": 244,
     "open_issues_count": 11,
     "forks_count": 40,
-    "watchers_count": 245
+    "watchers_count": 244
   },
   "adymimos_rWordCloud": {
     "cran": false,
@@ -652,10 +652,10 @@
   },
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
-    "stargazers_count": 129,
+    "stargazers_count": 130,
     "open_issues_count": 18,
     "forks_count": 12,
-    "watchers_count": 129
+    "watchers_count": 130
   },
   "lvulliard_BioCircos_R": {
     "cran": true,
