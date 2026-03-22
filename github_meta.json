@@ -311,7 +311,7 @@
     "cran": false,
     "stargazers_count": 237,
     "open_issues_count": 45,
-    "forks_count": 93,
+    "forks_count": 94,
     "watchers_count": 237
   },
   "smartinsightsfromdata_rpivotTable": {
@@ -778,10 +778,10 @@
   },
   "erblast_parcats": {
     "cran": true,
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 2,
     "forks_count": 3,
-    "watchers_count": 32
+    "watchers_count": 33
   },
   "dreamRs_apexcharter": {
     "cran": true,
