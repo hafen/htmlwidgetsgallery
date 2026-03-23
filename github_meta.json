@@ -93,8 +93,8 @@
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 618,
-    "open_issues_count": 209,
-    "forks_count": 179,
+    "open_issues_count": 210,
+    "forks_count": 178,
     "watchers_count": 618
   },
   "rstudio_dygraphs": {
@@ -177,7 +177,7 @@
   "jrowen_rhandsontable": {
     "cran": true,
     "stargazers_count": 392,
-    "open_issues_count": 167,
+    "open_issues_count": 166,
     "forks_count": 148,
     "watchers_count": 392
   },
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2661,
+    "stargazers_count": 2663,
     "open_issues_count": 753,
     "forks_count": 638,
-    "watchers_count": 2661
+    "watchers_count": 2663
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -561,10 +561,10 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 563,
+    "stargazers_count": 562,
     "open_issues_count": 154,
     "forks_count": 128,
-    "watchers_count": 563
+    "watchers_count": 562
   },
   "neuhausi_canvasXpress": {
     "cran": true,
