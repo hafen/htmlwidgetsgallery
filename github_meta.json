@@ -93,7 +93,7 @@
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 618,
-    "open_issues_count": 210,
+    "open_issues_count": 209,
     "forks_count": 178,
     "watchers_count": 618
   },
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 308,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "forks_count": 45,
     "watchers_count": 308
   },
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 409,
+    "stargazers_count": 410,
     "open_issues_count": 49,
     "forks_count": 107,
-    "watchers_count": 409
+    "watchers_count": 410
   },
   "kitware_candela": {
     "cran": false,
