@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 837,
+    "stargazers_count": 838,
     "open_issues_count": 319,
     "forks_count": 505,
-    "watchers_count": 837
+    "watchers_count": 838
   },
   "rstudio_DT": {
     "cran": true,
@@ -101,7 +101,7 @@
     "cran": true,
     "stargazers_count": 366,
     "open_issues_count": 122,
-    "forks_count": 190,
+    "forks_count": 189,
     "watchers_count": 366
   },
   "hrbrmstr_metricsgraphics": {
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 308,
-    "open_issues_count": 22,
+    "open_issues_count": 21,
     "forks_count": 45,
     "watchers_count": 308
   },
@@ -787,7 +787,7 @@
     "cran": true,
     "stargazers_count": 148,
     "open_issues_count": 15,
-    "forks_count": 15,
+    "forks_count": 14,
     "watchers_count": 148
   },
   "dreamRs_tuichartr": {
