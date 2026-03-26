@@ -15,10 +15,10 @@
   },
   "dipterix_threeBrain": {
     "cran": true,
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 10,
-    "watchers_count": 48
+    "watchers_count": 49
   },
   "yonicd_rpdf": {
     "cran": false,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2663,
-    "open_issues_count": 753,
+    "open_issues_count": 754,
     "forks_count": 638,
     "watchers_count": 2663
   },
