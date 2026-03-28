@@ -246,10 +246,10 @@
   },
   "kbroman_qtlcharts": {
     "cran": true,
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 27,
     "forks_count": 29,
-    "watchers_count": 86
+    "watchers_count": 87
   },
   "jcizel_highchartR": {
     "cran": false,
@@ -471,8 +471,8 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2663,
-    "open_issues_count": 755,
-    "forks_count": 638,
+    "open_issues_count": 756,
+    "forks_count": 639,
     "watchers_count": 2663
   },
   "tutuchan_morrisjs": {
@@ -568,10 +568,10 @@
   },
   "neuhausi_canvasXpress": {
     "cran": true,
-    "stargazers_count": 308,
+    "stargazers_count": 307,
     "open_issues_count": 20,
     "forks_count": 45,
-    "watchers_count": 308
+    "watchers_count": 307
   },
   "mrjoh3_c3": {
     "cran": true,
