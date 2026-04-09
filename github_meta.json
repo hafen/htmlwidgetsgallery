@@ -190,10 +190,10 @@
   },
   "timelyportfolio_sortableR": {
     "cran": false,
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 20,
     "forks_count": 33,
-    "watchers_count": 135
+    "watchers_count": 136
   },
   "timelyportfolio_parcoords": {
     "cran": false,
@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 703,
+    "stargazers_count": 702,
     "open_issues_count": 66,
     "forks_count": 78,
-    "watchers_count": 703
+    "watchers_count": 702
   },
   "jcheng5_bubbles": {
     "cran": false,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 308,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "forks_count": 45,
     "watchers_count": 308
   },
