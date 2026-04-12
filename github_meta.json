@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1734,
-    "open_issues_count": 175,
-    "forks_count": 249,
-    "watchers_count": 1734
+    "stargazers_count": 1735,
+    "open_issues_count": 174,
+    "forks_count": 248,
+    "watchers_count": 1735
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -507,7 +507,7 @@
     "cran": true,
     "stargazers_count": 738,
     "open_issues_count": 37,
-    "forks_count": 153,
+    "forks_count": 152,
     "watchers_count": 738
   },
   "environmentalinformatics-marburg_mapview": {
@@ -785,10 +785,10 @@
   },
   "dreamRs_apexcharter": {
     "cran": true,
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 15,
     "forks_count": 14,
-    "watchers_count": 148
+    "watchers_count": 149
   },
   "dreamRs_tuichartr": {
     "cran": false,
