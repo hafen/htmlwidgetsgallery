@@ -323,10 +323,10 @@
   },
   "renkun-ken_formattable": {
     "cran": true,
-    "stargazers_count": 703,
+    "stargazers_count": 702,
     "open_issues_count": 66,
     "forks_count": 78,
-    "watchers_count": 703
+    "watchers_count": 702
   },
   "jcheng5_bubbles": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2665,
+    "stargazers_count": 2666,
     "open_issues_count": 755,
     "forks_count": 641,
-    "watchers_count": 2665
+    "watchers_count": 2666
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -507,7 +507,7 @@
     "cran": true,
     "stargazers_count": 738,
     "open_issues_count": 37,
-    "forks_count": 152,
+    "forks_count": 153,
     "watchers_count": 738
   },
   "environmentalinformatics-marburg_mapview": {
