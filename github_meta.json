@@ -471,8 +471,8 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2666,
-    "open_issues_count": 755,
-    "forks_count": 641,
+    "open_issues_count": 756,
+    "forks_count": 640,
     "watchers_count": 2666
   },
   "tutuchan_morrisjs": {
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 409,
+    "stargazers_count": 410,
     "open_issues_count": 49,
     "forks_count": 107,
-    "watchers_count": 409
+    "watchers_count": 410
   },
   "kitware_candela": {
     "cran": false,
