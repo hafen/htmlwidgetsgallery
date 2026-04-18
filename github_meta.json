@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 839,
+    "stargazers_count": 840,
     "open_issues_count": 319,
     "forks_count": 505,
-    "watchers_count": 839
+    "watchers_count": 840
   },
   "rstudio_DT": {
     "cran": true,
@@ -120,10 +120,10 @@
   },
   "christophergandrud_networkD3": {
     "cran": true,
-    "stargazers_count": 658,
+    "stargazers_count": 659,
     "open_issues_count": 82,
     "forks_count": 261,
-    "watchers_count": 658
+    "watchers_count": 659
   },
   "bwlewis_rthreejs": {
     "cran": true,
