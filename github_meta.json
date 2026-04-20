@@ -120,10 +120,10 @@
   },
   "christophergandrud_networkD3": {
     "cran": true,
-    "stargazers_count": 659,
+    "stargazers_count": 660,
     "open_issues_count": 82,
     "forks_count": 261,
-    "watchers_count": 659
+    "watchers_count": 660
   },
   "bwlewis_rthreejs": {
     "cran": true,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2666,
-    "open_issues_count": 754,
+    "open_issues_count": 755,
     "forks_count": 640,
     "watchers_count": 2666
   },
