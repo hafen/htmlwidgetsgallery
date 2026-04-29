@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 550,
+    "stargazers_count": 551,
     "open_issues_count": 101,
     "forks_count": 95,
-    "watchers_count": 550
+    "watchers_count": 551
   },
   "cran_qrage": {
     "cran": false,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 312,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 46,
     "watchers_count": 312
   },
@@ -609,11 +609,7 @@
     "watchers_count": 119
   },
   "AdeelK93_collapsibleTree": {
-    "cran": true,
-    "stargazers_count": 162,
-    "open_issues_count": 37,
-    "forks_count": 42,
-    "watchers_count": 162
+    "stargazers_count": 0
   },
   "abossi_diffRgit": {
     "cran": false,
@@ -630,11 +626,7 @@
     "watchers_count": 406
   },
   "paulofelipe_D3plusR": {
-    "cran": false,
-    "stargazers_count": 26,
-    "open_issues_count": 0,
-    "forks_count": 1,
-    "watchers_count": 26
+    "stargazers_count": 0
   },
   "cmap_morpheus_R": {
     "cran": false,
@@ -658,11 +650,7 @@
     "watchers_count": 130
   },
   "lvulliard_BioCircos_R": {
-    "cran": true,
-    "stargazers_count": 38,
-    "open_issues_count": 19,
-    "forks_count": 9,
-    "watchers_count": 38
+    "stargazers_count": 0
   },
   "dreamRs_billboarder": {
     "cran": true,
@@ -707,11 +695,7 @@
     "watchers_count": 6
   },
   "yapus_imageviewer": {
-    "cran": true,
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 1,
-    "watchers_count": 6
+    "stargazers_count": 0
   },
   "JohnCoene_echarts4r": {
     "cran": true,
@@ -763,11 +747,7 @@
     "watchers_count": 49
   },
   "daranzolin_d3rain": {
-    "cran": false,
-    "stargazers_count": 79,
-    "open_issues_count": 0,
-    "forks_count": 3,
-    "watchers_count": 79
+    "stargazers_count": 0
   },
   "athospd_wavesurfer": {
     "cran": false,
@@ -835,7 +815,7 @@
   "ropensci_iheatmapr": {
     "cran": true,
     "stargazers_count": 270,
-    "open_issues_count": 53,
+    "open_issues_count": 50,
     "forks_count": 36,
     "watchers_count": 270
   },
@@ -854,11 +834,7 @@
     "watchers_count": 28
   },
   "stla_jsTreeR": {
-    "cran": true,
-    "stargazers_count": 49,
-    "open_issues_count": 10,
-    "forks_count": 8,
-    "watchers_count": 49
+    "stargazers_count": 0
   },
   "stla_thorn": {
     "cran": true,
