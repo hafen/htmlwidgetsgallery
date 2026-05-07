@@ -87,7 +87,7 @@
     "cran": true,
     "stargazers_count": 841,
     "open_issues_count": 319,
-    "forks_count": 505,
+    "forks_count": 504,
     "watchers_count": 841
   },
   "rstudio_DT": {
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 312,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 46,
     "watchers_count": 312
   },
@@ -658,7 +658,7 @@
     "watchers_count": 130
   },
   "lvulliard_BioCircos_R": {
-    "cran": true,
+    "cran": false,
     "stargazers_count": 38,
     "open_issues_count": 19,
     "forks_count": 9,
