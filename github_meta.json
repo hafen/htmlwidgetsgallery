@@ -87,7 +87,7 @@
     "cran": true,
     "stargazers_count": 841,
     "open_issues_count": 319,
-    "forks_count": 504,
+    "forks_count": 505,
     "watchers_count": 841
   },
   "rstudio_DT": {
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 411,
+    "stargazers_count": 412,
     "open_issues_count": 49,
     "forks_count": 107,
-    "watchers_count": 411
+    "watchers_count": 412
   },
   "kitware_candela": {
     "cran": false,
