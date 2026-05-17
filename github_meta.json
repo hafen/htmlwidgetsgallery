@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 840,
+    "stargazers_count": 839,
     "open_issues_count": 319,
     "forks_count": 505,
-    "watchers_count": 840
+    "watchers_count": 839
   },
   "rstudio_DT": {
     "cran": true,
@@ -120,10 +120,10 @@
   },
   "christophergandrud_networkD3": {
     "cran": true,
-    "stargazers_count": 660,
+    "stargazers_count": 659,
     "open_issues_count": 82,
     "forks_count": 261,
-    "watchers_count": 660
+    "watchers_count": 659
   },
   "bwlewis_rthreejs": {
     "cran": true,
@@ -309,10 +309,10 @@
   },
   "rstudio_d3heatmap": {
     "cran": false,
-    "stargazers_count": 238,
+    "stargazers_count": 237,
     "open_issues_count": 45,
     "forks_count": 93,
-    "watchers_count": 238
+    "watchers_count": 237
   },
   "smartinsightsfromdata_rpivotTable": {
     "cran": false,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 622,
+    "stargazers_count": 621,
     "open_issues_count": 178,
     "forks_count": 88,
-    "watchers_count": 622
+    "watchers_count": 621
   },
   "helgasoft_echarty": {
     "cran": true,
