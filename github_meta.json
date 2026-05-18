@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2666,
-    "open_issues_count": 755,
+    "open_issues_count": 756,
     "forks_count": 642,
     "watchers_count": 2666
   },
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 870,
+    "stargazers_count": 871,
     "open_issues_count": 8,
     "forks_count": 80,
-    "watchers_count": 870
+    "watchers_count": 871
   },
   "SymbolixAU_googleway": {
     "cran": true,
