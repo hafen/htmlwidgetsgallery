@@ -93,7 +93,7 @@
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 621,
-    "open_issues_count": 209,
+    "open_issues_count": 207,
     "forks_count": 178,
     "watchers_count": 621
   },
@@ -135,7 +135,7 @@
   "rich-iannone_DiagrammeR": {
     "cran": true,
     "stargazers_count": 1736,
-    "open_issues_count": 171,
+    "open_issues_count": 172,
     "forks_count": 248,
     "watchers_count": 1736
   },
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 405,
+    "stargazers_count": 406,
     "open_issues_count": 39,
     "forks_count": 75,
-    "watchers_count": 405
+    "watchers_count": 406
   },
   "paulofelipe_D3plusR": {
     "cran": false,
