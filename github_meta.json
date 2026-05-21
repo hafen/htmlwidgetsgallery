@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1736,
+    "stargazers_count": 1735,
     "open_issues_count": 172,
     "forks_count": 248,
-    "watchers_count": 1736
+    "watchers_count": 1735
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -456,10 +456,10 @@
   },
   "jbkunst_rchess": {
     "cran": false,
-    "stargazers_count": 77,
+    "stargazers_count": 76,
     "open_issues_count": 7,
     "forks_count": 10,
-    "watchers_count": 77
+    "watchers_count": 76
   },
   "jbkunst_d3wordcloud": {
     "cran": false,
@@ -637,7 +637,7 @@
     "watchers_count": 26
   },
   "cmap_morpheus_R": {
-    "cran": false,
+    "cran": true,
     "stargazers_count": 40,
     "open_issues_count": 7,
     "forks_count": 14,
