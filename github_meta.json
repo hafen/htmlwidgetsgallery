@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 553,
+    "stargazers_count": 554,
     "open_issues_count": 14,
     "forks_count": 54,
-    "watchers_count": 553
+    "watchers_count": 554
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -92,16 +92,16 @@
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 621,
+    "stargazers_count": 620,
     "open_issues_count": 207,
     "forks_count": 178,
-    "watchers_count": 621
+    "watchers_count": 620
   },
   "rstudio_dygraphs": {
     "cran": true,
     "stargazers_count": 366,
     "open_issues_count": 122,
-    "forks_count": 189,
+    "forks_count": 188,
     "watchers_count": 366
   },
   "hrbrmstr_metricsgraphics": {
@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2667,
     "open_issues_count": 756,
-    "forks_count": 642,
+    "forks_count": 641,
     "watchers_count": 2667
   },
   "tutuchan_morrisjs": {
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 871,
+    "stargazers_count": 872,
     "open_issues_count": 8,
-    "forks_count": 81,
-    "watchers_count": 871
+    "forks_count": 80,
+    "watchers_count": 872
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 738,
+    "stargazers_count": 739,
     "open_issues_count": 38,
     "forks_count": 154,
-    "watchers_count": 738
+    "watchers_count": 739
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
