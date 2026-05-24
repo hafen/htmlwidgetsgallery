@@ -63,7 +63,11 @@
     "watchers_count": 86
   },
   "metrumresearchgroup_slickR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 162,
+    "open_issues_count": 19,
+    "forks_count": 15,
+    "watchers_count": 162
   },
   "htmlwidgets_datamaps": {
     "cran": false,
@@ -437,10 +441,18 @@
     "watchers_count": 30
   },
   "hrbrmstr_taucharts": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 64,
+    "open_issues_count": 22,
+    "forks_count": 10,
+    "watchers_count": 64
   },
   "keeganhines_vivagRaph": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 12,
+    "open_issues_count": 2,
+    "forks_count": 1,
+    "watchers_count": 12
   },
   "jbkunst_rchess": {
     "cran": false,
@@ -513,7 +525,11 @@
     "watchers_count": 5
   },
   "mangothecat_radarchart": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 69,
+    "open_issues_count": 12,
+    "forks_count": 25,
+    "watchers_count": 69
   },
   "datastorm-open_rAmCharts": {
     "cran": true,
@@ -880,7 +896,11 @@
     "watchers_count": 7
   },
   "stla_monaco": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 11,
+    "open_issues_count": 1,
+    "forks_count": 3,
+    "watchers_count": 11
   },
   "valcu_annotator": {
     "cran": true,
