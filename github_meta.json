@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 872,
+    "stargazers_count": 873,
     "open_issues_count": 8,
     "forks_count": 80,
-    "watchers_count": 872
+    "watchers_count": 873
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 312,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 46,
     "watchers_count": 312
   },
@@ -645,10 +645,10 @@
   },
   "rte-antares-rpackage_leaflet_minicharts": {
     "cran": true,
-    "stargazers_count": 108,
+    "stargazers_count": 107,
     "open_issues_count": 26,
     "forks_count": 20,
-    "watchers_count": 108
+    "watchers_count": 107
   },
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
