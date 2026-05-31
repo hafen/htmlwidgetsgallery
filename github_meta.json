@@ -1,401 +1,933 @@
 {
   "Kanaries_GWalkR": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 554,
+    "open_issues_count": 14,
+    "forks_count": 54,
+    "watchers_count": 554
   },
   "DIGI-VUB_recogito": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 22,
+    "open_issues_count": 6,
+    "forks_count": 4,
+    "watchers_count": 22
   },
   "dipterix_threeBrain": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 49,
+    "open_issues_count": 0,
+    "forks_count": 10,
+    "watchers_count": 49
   },
   "yonicd_rpdf": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 42,
+    "open_issues_count": 2,
+    "forks_count": 6,
+    "watchers_count": 42
   },
   "metrumresearchgroup_jsTree": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 30,
+    "open_issues_count": 5,
+    "forks_count": 7,
+    "watchers_count": 30
   },
   "metrumresearchgroup_shinyCanvas": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 24,
+    "open_issues_count": 0,
+    "forks_count": 3,
+    "watchers_count": 24
   },
   "zachcp_phylocanvas": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 9,
+    "open_issues_count": 5,
+    "forks_count": 2,
+    "watchers_count": 9
   },
   "zachcp_msaR": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 8,
+    "open_issues_count": 3,
+    "forks_count": 8,
+    "watchers_count": 8
   },
   "metrumresearchgroup_d3Tree": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 86,
+    "open_issues_count": 0,
+    "forks_count": 32,
+    "watchers_count": 86
   },
   "metrumresearchgroup_slickR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 162,
+    "open_issues_count": 19,
+    "forks_count": 15,
+    "watchers_count": 162
   },
   "htmlwidgets_datamaps": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 2,
+    "watchers_count": 7
   },
   "ramnathv_rChartsCalmap": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 31,
+    "open_issues_count": 6,
+    "forks_count": 8,
+    "watchers_count": 31
   },
   "rstudio_leaflet": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 839,
+    "open_issues_count": 319,
+    "forks_count": 505,
+    "watchers_count": 839
   },
   "rstudio_DT": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 620,
+    "open_issues_count": 207,
+    "forks_count": 178,
+    "watchers_count": 620
   },
   "rstudio_dygraphs": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 366,
+    "open_issues_count": 122,
+    "forks_count": 188,
+    "watchers_count": 366
   },
   "hrbrmstr_metricsgraphics": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 130,
+    "open_issues_count": 22,
+    "forks_count": 35,
+    "watchers_count": 130
   },
   "hrbrmstr_streamgraph": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 146,
+    "open_issues_count": 23,
+    "forks_count": 48,
+    "watchers_count": 146
   },
   "christophergandrud_networkD3": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 659,
+    "open_issues_count": 82,
+    "forks_count": 261,
+    "watchers_count": 659
   },
   "bwlewis_rthreejs": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 308,
+    "open_issues_count": 37,
+    "forks_count": 59,
+    "watchers_count": 308
   },
   "rich-iannone_DiagrammeR": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 1735,
+    "open_issues_count": 172,
+    "forks_count": 248,
+    "watchers_count": 1735
   },
   "jpmarindiaz_sigmaGraph": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 5,
+    "open_issues_count": 3,
+    "forks_count": 0,
+    "watchers_count": 5
   },
   "jpmarindiaz_bubbleCloud": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 3
   },
   "jpmarindiaz_d3plus": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 17,
+    "open_issues_count": 8,
+    "forks_count": 8,
+    "watchers_count": 17
   },
   "jpmarindiaz_isotope": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 14,
+    "open_issues_count": 3,
+    "forks_count": 4,
+    "watchers_count": 14
   },
   "ThomasSiegmund_D3TableFilter": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 64,
+    "open_issues_count": 14,
+    "forks_count": 16,
+    "watchers_count": 64
   },
   "jrowen_rhandsontable": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 392,
+    "open_issues_count": 166,
+    "forks_count": 147,
+    "watchers_count": 392
   },
   "timelyportfolio_rcdimple": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 27,
+    "open_issues_count": 17,
+    "forks_count": 9,
+    "watchers_count": 27
   },
   "timelyportfolio_sortableR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 136,
+    "open_issues_count": 20,
+    "forks_count": 33,
+    "watchers_count": 136
   },
   "timelyportfolio_parcoords": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 78,
+    "open_issues_count": 25,
+    "forks_count": 20,
+    "watchers_count": 78
   },
   "timelyportfolio_listviewer": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 187,
+    "open_issues_count": 13,
+    "forks_count": 24,
+    "watchers_count": 187
   },
   "timelyportfolio_svgPanZoom": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 44,
+    "open_issues_count": 10,
+    "forks_count": 7,
+    "watchers_count": 44
   },
   "timelyportfolio_exportwidget": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 17,
+    "open_issues_count": 2,
+    "forks_count": 1,
+    "watchers_count": 17
   },
   "timelyportfolio_imageR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 5
   },
   "yutannihilation_chartist": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 39,
+    "open_issues_count": 6,
+    "forks_count": 6,
+    "watchers_count": 39
   },
   "sdwfrost_phylowidget": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 18,
+    "open_issues_count": 4,
+    "forks_count": 7,
+    "watchers_count": 18
   },
   "kbroman_qtlcharts": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 87,
+    "open_issues_count": 24,
+    "forks_count": 28,
+    "watchers_count": 87
   },
   "jcizel_highchartR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 12,
+    "open_issues_count": 3,
+    "forks_count": 5,
+    "watchers_count": 12
   },
   "homeaway_great-circles": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 7,
+    "open_issues_count": 2,
+    "forks_count": 2,
+    "watchers_count": 7
   },
   "htmlwidgets_sparkline": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 244,
+    "open_issues_count": 11,
+    "forks_count": 40,
+    "watchers_count": 244
   },
   "adymimos_rWordCloud": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 11,
+    "open_issues_count": 1,
+    "forks_count": 7,
+    "watchers_count": 11
   },
   "HarlanH_c3r": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 7
   },
   "yutannihilation_dcStockR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 16,
+    "open_issues_count": 0,
+    "forks_count": 6,
+    "watchers_count": 16
   },
   "jcizel_scatterMatrixD3": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 10,
+    "open_issues_count": 1,
+    "forks_count": 3,
+    "watchers_count": 10
   },
   "bokeh_rbokeh": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 312,
+    "open_issues_count": 73,
+    "forks_count": 64,
+    "watchers_count": 312
   },
   "rstudio_d3heatmap": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 237,
+    "open_issues_count": 45,
+    "forks_count": 92,
+    "watchers_count": 237
   },
   "smartinsightsfromdata_rpivotTable": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 289,
+    "open_issues_count": 41,
+    "forks_count": 73,
+    "watchers_count": 289
   },
   "renkun-ken_formattable": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 700,
+    "open_issues_count": 66,
+    "forks_count": 78,
+    "watchers_count": 700
   },
   "jcheng5_bubbles": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 58,
+    "open_issues_count": 13,
+    "forks_count": 23,
+    "watchers_count": 58
   },
   "garthtarr_pairsD3": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 55,
+    "open_issues_count": 4,
+    "forks_count": 12,
+    "watchers_count": 55
   },
   "garthtarr_edgebundleR": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 70,
+    "open_issues_count": 15,
+    "forks_count": 12,
+    "watchers_count": 70
   },
   "timelyportfolio_katexR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 16,
+    "open_issues_count": 1,
+    "forks_count": 3,
+    "watchers_count": 16
   },
   "timelyportfolio_navr": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 1,
+    "watchers_count": 8
   },
   "timelyportfolio_gamer": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1,
+    "watchers_count": 1
   },
   "timelyportfolio_materializeR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 7,
+    "open_issues_count": 2,
+    "forks_count": 2,
+    "watchers_count": 7
   },
   "timelyportfolio_comicR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 16,
+    "open_issues_count": 0,
+    "forks_count": 1,
+    "watchers_count": 16
   },
   "timelyportfolio_loryR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 12,
+    "open_issues_count": 2,
+    "forks_count": 2,
+    "watchers_count": 12
   },
   "timelyportfolio_d3vennR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 20,
+    "open_issues_count": 1,
+    "forks_count": 11,
+    "watchers_count": 20
   },
   "timelyportfolio_flowtypeR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1
   },
   "timelyportfolio_sweetalertR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 21,
+    "open_issues_count": 2,
+    "forks_count": 2,
+    "watchers_count": 21
   },
   "timelyportfolio_sunburstR": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 217,
+    "open_issues_count": 42,
+    "forks_count": 121,
+    "watchers_count": 217
   },
   "timelyportfolio_d3hiveR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 9
   },
   "durtal_calheatmapR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 21,
+    "open_issues_count": 4,
+    "forks_count": 6,
+    "watchers_count": 21
   },
   "armish_coffeewheel": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 30,
+    "open_issues_count": 2,
+    "forks_count": 8,
+    "watchers_count": 30
   },
   "hrbrmstr_taucharts": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 64,
+    "open_issues_count": 22,
+    "forks_count": 10,
+    "watchers_count": 64
   },
   "keeganhines_vivagRaph": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 12,
+    "open_issues_count": 2,
+    "forks_count": 1,
+    "watchers_count": 12
   },
   "jbkunst_rchess": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 76,
+    "open_issues_count": 7,
+    "forks_count": 10,
+    "watchers_count": 76
   },
   "jbkunst_d3wordcloud": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 64,
+    "open_issues_count": 5,
+    "forks_count": 15,
+    "watchers_count": 64
   },
   "ropensci_plotly": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 2668,
+    "open_issues_count": 759,
+    "forks_count": 641,
+    "watchers_count": 2668
   },
   "tutuchan_morrisjs": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 8,
+    "open_issues_count": 1,
+    "forks_count": 1,
+    "watchers_count": 8
   },
   "muschellij2_diffr": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 67,
+    "open_issues_count": 4,
+    "forks_count": 5,
+    "watchers_count": 67
   },
   "davidgohel_ggiraph": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 873,
+    "open_issues_count": 8,
+    "forks_count": 80,
+    "watchers_count": 873
   },
   "SymbolixAU_googleway": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 240,
+    "open_issues_count": 58,
+    "forks_count": 45,
+    "watchers_count": 240
   },
   "jbkunst_highcharter": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 739,
+    "open_issues_count": 38,
+    "forks_count": 153,
+    "watchers_count": 739
   },
   "environmentalinformatics-marburg_mapview": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 551,
+    "open_issues_count": 101,
+    "forks_count": 95,
+    "watchers_count": 551
   },
   "cran_qrage": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 3,
+    "watchers_count": 5
   },
   "mangothecat_radarchart": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 69,
+    "open_issues_count": 12,
+    "forks_count": 25,
+    "watchers_count": 69
   },
   "datastorm-open_rAmCharts": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 49,
+    "open_issues_count": 16,
+    "forks_count": 16,
+    "watchers_count": 49
   },
   "rforge_rgl": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 3,
+    "watchers_count": 6
   },
   "juba_scatterD3": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 162,
+    "open_issues_count": 3,
+    "forks_count": 21,
+    "watchers_count": 162
   },
   "mtennekes_tmap": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 2,
+    "watchers_count": 15
   },
   "datastorm-open_visNetwork": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 562,
+    "open_issues_count": 155,
+    "forks_count": 128,
+    "watchers_count": 562
   },
   "neuhausi_canvasXpress": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 312,
+    "open_issues_count": 32,
+    "forks_count": 46,
+    "watchers_count": 312
   },
   "mrjoh3_c3": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 39,
+    "open_issues_count": 5,
+    "forks_count": 51,
+    "watchers_count": 39
   },
   "mrjoh3_pier": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 5,
+    "watchers_count": 12
   },
   "daattali_timevis": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 679,
+    "open_issues_count": 3,
+    "forks_count": 154,
+    "watchers_count": 679
   },
   "lchiffon_wordcloud2": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 412,
+    "open_issues_count": 49,
+    "forks_count": 107,
+    "watchers_count": 412
   },
   "kitware_candela": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 119,
+    "open_issues_count": 98,
+    "forks_count": 28,
+    "watchers_count": 119
   },
   "AdeelK93_collapsibleTree": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 162,
+    "open_issues_count": 37,
+    "forks_count": 42,
+    "watchers_count": 162
   },
   "abossi_diffRgit": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 7
   },
   "talgalili_heatmaply": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 406,
+    "open_issues_count": 39,
+    "forks_count": 75,
+    "watchers_count": 406
   },
   "paulofelipe_D3plusR": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 26,
+    "open_issues_count": 0,
+    "forks_count": 1,
+    "watchers_count": 26
   },
   "cmap_morpheus_R": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 40,
+    "open_issues_count": 7,
+    "forks_count": 14,
+    "watchers_count": 40
   },
   "rte-antares-rpackage_leaflet_minicharts": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 107,
+    "open_issues_count": 26,
+    "forks_count": 20,
+    "watchers_count": 107
   },
   "rte-antares-rpackage_manipulateWidget": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 130,
+    "open_issues_count": 18,
+    "forks_count": 12,
+    "watchers_count": 130
   },
   "lvulliard_BioCircos_R": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 38,
+    "open_issues_count": 19,
+    "forks_count": 9,
+    "watchers_count": 38
   },
   "dreamRs_billboarder": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 177,
+    "open_issues_count": 11,
+    "forks_count": 21,
+    "watchers_count": 177
   },
   "lineupjs_lineup_htmlwidget": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 55,
+    "open_issues_count": 4,
+    "forks_count": 9,
+    "watchers_count": 55
   },
   "upsetjs_upsetjs_r": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 35,
+    "open_issues_count": 7,
+    "forks_count": 2,
+    "watchers_count": 35
   },
   "freezecoder_mutsneedle": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 12,
+    "open_issues_count": 3,
+    "forks_count": 1,
+    "watchers_count": 12
   },
   "iankloo_sigmaNet": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 41,
+    "open_issues_count": 7,
+    "forks_count": 8,
+    "watchers_count": 41
   },
   "homerhanumat_bpexploder": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 6,
+    "open_issues_count": 2,
+    "forks_count": 1,
+    "watchers_count": 6
   },
   "yapus_imageviewer": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 1,
+    "watchers_count": 6
   },
   "JohnCoene_echarts4r": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 623,
+    "open_issues_count": 179,
+    "forks_count": 89,
+    "watchers_count": 623
   },
   "helgasoft_echarty": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 113,
+    "open_issues_count": 3,
+    "forks_count": 4,
+    "watchers_count": 113
   },
   "no-types_RagGrid": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 33,
+    "open_issues_count": 19,
+    "forks_count": 12,
+    "watchers_count": 33
   },
   "SymbolixAU_mapdeck": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 382,
+    "open_issues_count": 79,
+    "forks_count": 42,
+    "watchers_count": 382
   },
   "chengvt_MovingBubbles": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 2,
+    "watchers_count": 6
   },
   "daranzolin_compareBars": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 30,
+    "open_issues_count": 4,
+    "forks_count": 0,
+    "watchers_count": 30
   },
   "dreamRs_topogram": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 49,
+    "open_issues_count": 1,
+    "forks_count": 7,
+    "watchers_count": 49
   },
   "daranzolin_d3rain": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 79,
+    "open_issues_count": 0,
+    "forks_count": 3,
+    "watchers_count": 79
   },
   "athospd_wavesurfer": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 73,
+    "open_issues_count": 2,
+    "forks_count": 13,
+    "watchers_count": 73
   },
   "erblast_parcats": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 35,
+    "open_issues_count": 2,
+    "forks_count": 3,
+    "watchers_count": 35
   },
   "dreamRs_apexcharter": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 150,
+    "open_issues_count": 14,
+    "forks_count": 14,
+    "watchers_count": 150
   },
   "dreamRs_tuichartr": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 1,
+    "watchers_count": 14
   },
   "dreamRs_tuicalendr": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 53,
+    "open_issues_count": 6,
+    "forks_count": 3,
+    "watchers_count": 53
   },
   "JohnCoene_grapher": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 95,
+    "open_issues_count": 19,
+    "forks_count": 3,
+    "watchers_count": 95
   },
   "JohnCoene_g2r": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 147,
+    "open_issues_count": 5,
+    "forks_count": 10,
+    "watchers_count": 147
   },
   "JohnCoene_globe4r": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 58,
+    "open_issues_count": 1,
+    "forks_count": 2,
+    "watchers_count": 58
   },
   "montilab_vennr": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 2,
+    "watchers_count": 1
   },
   "ropensci_iheatmapr": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 270,
+    "open_issues_count": 50,
+    "forks_count": 36,
+    "watchers_count": 270
   },
   "kmaheshkulkarni_corrly": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 1,
+    "watchers_count": 7
   },
   "feddelegrand7_pivta": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 28,
+    "open_issues_count": 1,
+    "forks_count": 4,
+    "watchers_count": 28
   },
   "stla_jsTreeR": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 49,
+    "open_issues_count": 10,
+    "forks_count": 8,
+    "watchers_count": 49
   },
   "stla_thorn": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 3
   },
   "stla_findInFiles": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 12,
+    "open_issues_count": 1,
+    "forks_count": 1,
+    "watchers_count": 12
   },
   "stla_graph3d": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 2,
+    "watchers_count": 4
   },
   "stla_rAmCharts4": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 28,
+    "open_issues_count": 8,
+    "forks_count": 8,
+    "watchers_count": 28
   },
   "stla_aceEditor": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 2,
+    "watchers_count": 7
   },
   "stla_monaco": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 11,
+    "open_issues_count": 1,
+    "forks_count": 3,
+    "watchers_count": 11
   },
   "valcu_annotator": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0,
+    "watchers_count": 4
   },
   "Liripo_aggrid": {
-    "stargazers_count": 0
+    "cran": false,
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 4,
+    "watchers_count": 5
   },
   "patzaw_bscui": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 20,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 20
   },
   "robert-norberg_shinybody": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 1,
+    "watchers_count": 13
   }
 }
