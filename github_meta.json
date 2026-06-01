@@ -247,7 +247,7 @@
   "kbroman_qtlcharts": {
     "cran": true,
     "stargazers_count": 87,
-    "open_issues_count": 24,
+    "open_issues_count": 17,
     "forks_count": 28,
     "watchers_count": 87
   },
@@ -856,7 +856,7 @@
   "stla_jsTreeR": {
     "cran": true,
     "stargazers_count": 49,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 8,
     "watchers_count": 49
   },
