@@ -247,7 +247,7 @@
   "kbroman_qtlcharts": {
     "cran": true,
     "stargazers_count": 87,
-    "open_issues_count": 17,
+    "open_issues_count": 14,
     "forks_count": 28,
     "watchers_count": 87
   },
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 312,
-    "open_issues_count": 32,
+    "open_issues_count": 27,
     "forks_count": 46,
     "watchers_count": 312
   },
