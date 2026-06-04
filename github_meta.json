@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2669,
+    "stargazers_count": 2670,
     "open_issues_count": 759,
-    "forks_count": 641,
-    "watchers_count": 2669
+    "forks_count": 642,
+    "watchers_count": 2670
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 623,
+    "stargazers_count": 622,
     "open_issues_count": 176,
     "forks_count": 89,
-    "watchers_count": 623
+    "watchers_count": 622
   },
   "helgasoft_echarty": {
     "cran": true,
