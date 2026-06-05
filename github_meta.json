@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 839,
+    "stargazers_count": 840,
     "open_issues_count": 319,
-    "forks_count": 505,
-    "watchers_count": 839
+    "forks_count": 504,
+    "watchers_count": 840
   },
   "rstudio_DT": {
     "cran": true,
@@ -211,10 +211,10 @@
   },
   "timelyportfolio_svgPanZoom": {
     "cran": true,
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 10,
     "forks_count": 7,
-    "watchers_count": 44
+    "watchers_count": 45
   },
   "timelyportfolio_exportwidget": {
     "cran": false,
@@ -318,7 +318,7 @@
     "cran": false,
     "stargazers_count": 289,
     "open_issues_count": 41,
-    "forks_count": 73,
+    "forks_count": 74,
     "watchers_count": 289
   },
   "renkun-ken_formattable": {
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2670,
-    "open_issues_count": 759,
-    "forks_count": 642,
-    "watchers_count": 2670
+    "stargazers_count": 2671,
+    "open_issues_count": 757,
+    "forks_count": 643,
+    "watchers_count": 2671
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -589,10 +589,10 @@
   },
   "daattali_timevis": {
     "cran": true,
-    "stargazers_count": 679,
+    "stargazers_count": 680,
     "open_issues_count": 3,
     "forks_count": 154,
-    "watchers_count": 679
+    "watchers_count": 680
   },
   "lchiffon_wordcloud2": {
     "cran": true,
@@ -645,10 +645,10 @@
   },
   "rte-antares-rpackage_leaflet_minicharts": {
     "cran": true,
-    "stargazers_count": 107,
+    "stargazers_count": 108,
     "open_issues_count": 26,
     "forks_count": 20,
-    "watchers_count": 107
+    "watchers_count": 108
   },
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 622,
-    "open_issues_count": 176,
+    "stargazers_count": 623,
+    "open_issues_count": 177,
     "forks_count": 89,
-    "watchers_count": 622
+    "watchers_count": 623
   },
   "helgasoft_echarty": {
     "cran": true,
