@@ -3,7 +3,7 @@
     "cran": true,
     "stargazers_count": 554,
     "open_issues_count": 14,
-    "forks_count": 54,
+    "forks_count": 55,
     "watchers_count": 554
   },
   "DIGI-VUB_recogito": {
@@ -736,10 +736,10 @@
   },
   "SymbolixAU_mapdeck": {
     "cran": true,
-    "stargazers_count": 382,
+    "stargazers_count": 383,
     "open_issues_count": 79,
     "forks_count": 42,
-    "watchers_count": 382
+    "watchers_count": 383
   },
   "chengvt_MovingBubbles": {
     "cran": false,
