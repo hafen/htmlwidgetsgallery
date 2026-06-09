@@ -85,17 +85,17 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 840,
+    "stargazers_count": 839,
     "open_issues_count": 319,
     "forks_count": 504,
-    "watchers_count": 840
+    "watchers_count": 839
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 620,
+    "stargazers_count": 619,
     "open_issues_count": 207,
     "forks_count": 178,
-    "watchers_count": 620
+    "watchers_count": 619
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 551,
+    "stargazers_count": 550,
     "open_issues_count": 101,
     "forks_count": 95,
-    "watchers_count": 551
+    "watchers_count": 550
   },
   "cran_qrage": {
     "cran": false,
@@ -736,10 +736,10 @@
   },
   "SymbolixAU_mapdeck": {
     "cran": true,
-    "stargazers_count": 383,
+    "stargazers_count": 382,
     "open_issues_count": 79,
     "forks_count": 42,
-    "watchers_count": 383
+    "watchers_count": 382
   },
   "chengvt_MovingBubbles": {
     "cran": false,
