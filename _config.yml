@@ -2177,3 +2177,19 @@ widgets:
       An htmlwidget of the human body that allows you to hide/show and assign colors to 79 different body parts.
     description: >
       Choose a male or female avatar, then show/hide, assign colors to, and assign tooltip contents to different body parts/organs. Tooltip is triggered on hover. Clicking a shown organ selects it and clicking it again de-selects it. Clicked organ and selected organs are available as shiny inputs. `shinybody` is crosstalk compatible.
+
+  -
+    name: pixture
+    thumbnail: images/pixture.webp
+    url: https://github.com/royfrancis/pixture
+    jslibs: >
+    ghuser: royfrancis
+    ghrepo: pixture
+    tags: image-gallery, gallery, lightbox, carousel, shiny
+    cran: false
+    examples: http://royfrancis.github.io/pixture/
+    ghauthor: royfrancis
+    short: >
+      HTML Image Gallery in R with responsive layouts and lightbox
+    description: >
+      **pixture** is an R package for creating responsive HTML image galleries. It supports various gallery layouts and image carousel with optional captions and lightbox integration.
