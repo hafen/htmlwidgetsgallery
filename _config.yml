@@ -2183,6 +2183,7 @@ widgets:
     thumbnail: images/pixture.webp
     url: https://github.com/royfrancis/pixture
     jslibs: >
+      [glightbox](https://github.com/biati-digital/glightbox), [glider.js](https://nickpiscitelli.github.io/Glider.js/)
     ghuser: royfrancis
     ghrepo: pixture
     tags: image-gallery, gallery, lightbox, carousel, shiny
