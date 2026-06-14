@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 738,
+    "stargazers_count": 739,
     "open_issues_count": 38,
     "forks_count": 153,
-    "watchers_count": 738
+    "watchers_count": 739
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
@@ -562,7 +562,7 @@
   "datastorm-open_visNetwork": {
     "cran": true,
     "stargazers_count": 562,
-    "open_issues_count": 155,
+    "open_issues_count": 156,
     "forks_count": 128,
     "watchers_count": 562
   },
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 625,
-    "open_issues_count": 175,
+    "open_issues_count": 177,
     "forks_count": 90,
     "watchers_count": 625
   },
