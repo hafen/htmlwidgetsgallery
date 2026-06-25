@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2669,
-    "open_issues_count": 757,
+    "open_issues_count": 758,
     "forks_count": 642,
     "watchers_count": 2669
   },
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 312,
-    "open_issues_count": 32,
+    "open_issues_count": 29,
     "forks_count": 46,
     "watchers_count": 312
   },
@@ -862,10 +862,10 @@
   },
   "stla_thorn": {
     "cran": true,
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0,
-    "watchers_count": 3
+    "watchers_count": 4
   },
   "stla_findInFiles": {
     "cran": true,
