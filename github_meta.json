@@ -311,7 +311,7 @@
     "cran": false,
     "stargazers_count": 237,
     "open_issues_count": 45,
-    "forks_count": 92,
+    "forks_count": 93,
     "watchers_count": 237
   },
   "smartinsightsfromdata_rpivotTable": {
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 740,
+    "stargazers_count": 739,
     "open_issues_count": 38,
     "forks_count": 153,
-    "watchers_count": 740
+    "watchers_count": 739
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
