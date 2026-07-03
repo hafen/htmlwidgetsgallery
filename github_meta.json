@@ -92,10 +92,10 @@
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 619,
+    "stargazers_count": 620,
     "open_issues_count": 207,
     "forks_count": 178,
-    "watchers_count": 619
+    "watchers_count": 620
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2670,
     "open_issues_count": 758,
-    "forks_count": 642,
+    "forks_count": 643,
     "watchers_count": 2670
   },
   "tutuchan_morrisjs": {
