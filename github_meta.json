@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 557,
+    "stargazers_count": 555,
     "open_issues_count": 14,
     "forks_count": 55,
-    "watchers_count": 557
+    "watchers_count": 555
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -85,17 +85,17 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 839,
+    "stargazers_count": 840,
     "open_issues_count": 319,
     "forks_count": 505,
-    "watchers_count": 839
+    "watchers_count": 840
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 620,
+    "stargazers_count": 621,
     "open_issues_count": 207,
     "forks_count": 178,
-    "watchers_count": 620
+    "watchers_count": 621
   },
   "rstudio_dygraphs": {
     "cran": true,
