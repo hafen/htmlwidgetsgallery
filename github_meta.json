@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 312,
-    "open_issues_count": 29,
+    "open_issues_count": 28,
     "forks_count": 46,
     "watchers_count": 312
   },
@@ -778,10 +778,10 @@
   },
   "erblast_parcats": {
     "cran": true,
-    "stargazers_count": 35,
+    "stargazers_count": 38,
     "open_issues_count": 2,
     "forks_count": 3,
-    "watchers_count": 35
+    "watchers_count": 38
   },
   "dreamRs_apexcharter": {
     "cran": true,
