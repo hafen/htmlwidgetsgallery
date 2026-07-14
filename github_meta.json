@@ -113,10 +113,10 @@
   },
   "hrbrmstr_streamgraph": {
     "cran": false,
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 23,
     "forks_count": 48,
-    "watchers_count": 145
+    "watchers_count": 146
   },
   "christophergandrud_networkD3": {
     "cran": true,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1736,
+    "stargazers_count": 1735,
     "open_issues_count": 172,
     "forks_count": 246,
-    "watchers_count": 1736
+    "watchers_count": 1735
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -176,10 +176,10 @@
   },
   "jrowen_rhandsontable": {
     "cran": true,
-    "stargazers_count": 392,
+    "stargazers_count": 391,
     "open_issues_count": 166,
     "forks_count": 146,
-    "watchers_count": 392
+    "watchers_count": 391
   },
   "timelyportfolio_rcdimple": {
     "cran": false,
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 738,
+    "stargazers_count": 737,
     "open_issues_count": 38,
     "forks_count": 153,
-    "watchers_count": 738
+    "watchers_count": 737
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
@@ -723,7 +723,7 @@
   "helgasoft_echarty": {
     "cran": true,
     "stargazers_count": 113,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 4,
     "watchers_count": 113
   },
