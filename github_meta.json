@@ -197,10 +197,10 @@
   },
   "timelyportfolio_parcoords": {
     "cran": false,
-    "stargazers_count": 78,
+    "stargazers_count": 79,
     "open_issues_count": 25,
     "forks_count": 19,
-    "watchers_count": 78
+    "watchers_count": 79
   },
   "timelyportfolio_listviewer": {
     "cran": true,
@@ -325,7 +325,7 @@
     "cran": true,
     "stargazers_count": 700,
     "open_issues_count": 66,
-    "forks_count": 78,
+    "forks_count": 77,
     "watchers_count": 700
   },
   "jcheng5_bubbles": {
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 312,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 46,
     "watchers_count": 312
   },
