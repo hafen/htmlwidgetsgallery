@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2669,
     "open_issues_count": 758,
-    "forks_count": 643,
+    "forks_count": 642,
     "watchers_count": 2669
   },
   "tutuchan_morrisjs": {
@@ -528,7 +528,7 @@
     "cran": false,
     "stargazers_count": 69,
     "open_issues_count": 12,
-    "forks_count": 25,
+    "forks_count": 24,
     "watchers_count": 69
   },
   "datastorm-open_rAmCharts": {
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 628,
-    "open_issues_count": 177,
+    "open_issues_count": 178,
     "forks_count": 90,
     "watchers_count": 628
   },
