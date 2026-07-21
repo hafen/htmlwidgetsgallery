@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 840,
+    "stargazers_count": 839,
     "open_issues_count": 319,
     "forks_count": 505,
-    "watchers_count": 840
+    "watchers_count": 839
   },
   "rstudio_DT": {
     "cran": true,
@@ -136,7 +136,7 @@
     "cran": true,
     "stargazers_count": 1735,
     "open_issues_count": 172,
-    "forks_count": 246,
+    "forks_count": 245,
     "watchers_count": 1735
   },
   "jpmarindiaz_sigmaGraph": {
@@ -248,7 +248,7 @@
     "cran": true,
     "stargazers_count": 87,
     "open_issues_count": 14,
-    "forks_count": 28,
+    "forks_count": 29,
     "watchers_count": 87
   },
   "jcizel_highchartR": {
@@ -309,10 +309,10 @@
   },
   "rstudio_d3heatmap": {
     "cran": false,
-    "stargazers_count": 237,
+    "stargazers_count": 236,
     "open_issues_count": 45,
     "forks_count": 93,
-    "watchers_count": 237
+    "watchers_count": 236
   },
   "smartinsightsfromdata_rpivotTable": {
     "cran": false,
