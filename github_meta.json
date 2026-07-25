@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2672,
-    "open_issues_count": 759,
+    "open_issues_count": 758,
     "forks_count": 642,
     "watchers_count": 2672
   },
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 312,
-    "open_issues_count": 28,
+    "open_issues_count": 27,
     "forks_count": 46,
     "watchers_count": 312
   },
@@ -786,7 +786,7 @@
   "dreamRs_apexcharter": {
     "cran": true,
     "stargazers_count": 150,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 14,
     "watchers_count": 150
   },
