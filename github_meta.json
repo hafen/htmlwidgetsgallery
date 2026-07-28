@@ -92,10 +92,10 @@
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 621,
+    "stargazers_count": 620,
     "open_issues_count": 207,
     "forks_count": 178,
-    "watchers_count": 621
+    "watchers_count": 620
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1736,
+    "stargazers_count": 1734,
     "open_issues_count": 172,
     "forks_count": 245,
-    "watchers_count": 1736
+    "watchers_count": 1734
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -267,10 +267,10 @@
   },
   "htmlwidgets_sparkline": {
     "cran": false,
-    "stargazers_count": 244,
+    "stargazers_count": 243,
     "open_issues_count": 11,
     "forks_count": 40,
-    "watchers_count": 244
+    "watchers_count": 243
   },
   "adymimos_rWordCloud": {
     "cran": false,
@@ -344,10 +344,10 @@
   },
   "garthtarr_edgebundleR": {
     "cran": true,
-    "stargazers_count": 70,
+    "stargazers_count": 69,
     "open_issues_count": 15,
     "forks_count": 12,
-    "watchers_count": 70
+    "watchers_count": 69
   },
   "timelyportfolio_katexR": {
     "cran": false,
@@ -463,17 +463,17 @@
   },
   "jbkunst_d3wordcloud": {
     "cran": false,
-    "stargazers_count": 64,
+    "stargazers_count": 63,
     "open_issues_count": 5,
     "forks_count": 15,
-    "watchers_count": 64
+    "watchers_count": 63
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2672,
+    "stargazers_count": 2671,
     "open_issues_count": 758,
     "forks_count": 642,
-    "watchers_count": 2672
+    "watchers_count": 2671
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 312,
-    "open_issues_count": 29,
+    "open_issues_count": 31,
     "forks_count": 46,
     "watchers_count": 312
   },
@@ -736,10 +736,10 @@
   },
   "SymbolixAU_mapdeck": {
     "cran": true,
-    "stargazers_count": 382,
+    "stargazers_count": 381,
     "open_issues_count": 79,
     "forks_count": 42,
-    "watchers_count": 382
+    "watchers_count": 381
   },
   "chengvt_MovingBubbles": {
     "cran": false,
@@ -806,10 +806,10 @@
   },
   "JohnCoene_grapher": {
     "cran": false,
-    "stargazers_count": 95,
+    "stargazers_count": 94,
     "open_issues_count": 19,
     "forks_count": 3,
-    "watchers_count": 95
+    "watchers_count": 94
   },
   "JohnCoene_g2r": {
     "cran": false,
