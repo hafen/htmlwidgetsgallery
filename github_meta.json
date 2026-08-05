@@ -15,10 +15,10 @@
   },
   "dipterix_threeBrain": {
     "cran": true,
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 0,
     "forks_count": 10,
-    "watchers_count": 49
+    "watchers_count": 50
   },
   "yonicd_rpdf": {
     "cran": false,
@@ -94,7 +94,7 @@
     "cran": true,
     "stargazers_count": 621,
     "open_issues_count": 207,
-    "forks_count": 178,
+    "forks_count": 177,
     "watchers_count": 621
   },
   "rstudio_dygraphs": {
@@ -122,7 +122,7 @@
     "cran": true,
     "stargazers_count": 660,
     "open_issues_count": 82,
-    "forks_count": 260,
+    "forks_count": 259,
     "watchers_count": 660
   },
   "bwlewis_rthreejs": {
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1735,
+    "stargazers_count": 1739,
     "open_issues_count": 172,
     "forks_count": 245,
-    "watchers_count": 1735
+    "watchers_count": 1739
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -353,7 +353,7 @@
     "cran": false,
     "stargazers_count": 16,
     "open_issues_count": 1,
-    "forks_count": 3,
+    "forks_count": 2,
     "watchers_count": 16
   },
   "timelyportfolio_navr": {
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2673,
+    "stargazers_count": 2672,
     "open_issues_count": 758,
-    "forks_count": 643,
-    "watchers_count": 2673
+    "forks_count": 642,
+    "watchers_count": 2672
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 874,
+    "stargazers_count": 875,
     "open_issues_count": 9,
     "forks_count": 82,
-    "watchers_count": 874
+    "watchers_count": 875
   },
   "SymbolixAU_googleway": {
     "cran": true,
