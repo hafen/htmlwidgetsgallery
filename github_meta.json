@@ -136,7 +136,7 @@
     "cran": true,
     "stargazers_count": 1739,
     "open_issues_count": 172,
-    "forks_count": 245,
+    "forks_count": 244,
     "watchers_count": 1739
   },
   "jpmarindiaz_sigmaGraph": {
@@ -457,7 +457,7 @@
   "jbkunst_rchess": {
     "cran": false,
     "stargazers_count": 77,
-    "open_issues_count": 7,
+    "open_issues_count": 17,
     "forks_count": 10,
     "watchers_count": 77
   },
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2672,
+    "stargazers_count": 2673,
     "open_issues_count": 758,
-    "forks_count": 642,
-    "watchers_count": 2672
+    "forks_count": 641,
+    "watchers_count": 2673
   },
   "tutuchan_morrisjs": {
     "cran": false,
