@@ -8,10 +8,10 @@
   },
   "DIGI-VUB_recogito": {
     "cran": true,
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 6,
     "forks_count": 4,
-    "watchers_count": 22
+    "watchers_count": 23
   },
   "dipterix_threeBrain": {
     "cran": true,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2674,
+    "stargazers_count": 2675,
     "open_issues_count": 758,
     "forks_count": 641,
-    "watchers_count": 2674
+    "watchers_count": 2675
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -505,10 +505,10 @@
   },
   "jbkunst_highcharter": {
     "cran": true,
-    "stargazers_count": 737,
+    "stargazers_count": 738,
     "open_issues_count": 39,
     "forks_count": 153,
-    "watchers_count": 737
+    "watchers_count": 738
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 413,
+    "stargazers_count": 414,
     "open_issues_count": 49,
     "forks_count": 107,
-    "watchers_count": 413
+    "watchers_count": 414
   },
   "kitware_candela": {
     "cran": false,
