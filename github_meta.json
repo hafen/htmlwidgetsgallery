@@ -94,7 +94,7 @@
     "cran": true,
     "stargazers_count": 621,
     "open_issues_count": 207,
-    "forks_count": 177,
+    "forks_count": 176,
     "watchers_count": 621
   },
   "rstudio_dygraphs": {
@@ -176,10 +176,10 @@
   },
   "jrowen_rhandsontable": {
     "cran": true,
-    "stargazers_count": 391,
+    "stargazers_count": 389,
     "open_issues_count": 166,
     "forks_count": 146,
-    "watchers_count": 391
+    "watchers_count": 389
   },
   "timelyportfolio_rcdimple": {
     "cran": false,
