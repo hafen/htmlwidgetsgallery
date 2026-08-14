@@ -457,7 +457,7 @@
   "jbkunst_rchess": {
     "cran": false,
     "stargazers_count": 77,
-    "open_issues_count": 17,
+    "open_issues_count": 7,
     "forks_count": 10,
     "watchers_count": 77
   },
@@ -492,7 +492,7 @@
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 875,
-    "open_issues_count": 9,
+    "open_issues_count": 11,
     "forks_count": 82,
     "watchers_count": 875
   },
@@ -561,17 +561,17 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 563,
+    "stargazers_count": 564,
     "open_issues_count": 156,
     "forks_count": 126,
-    "watchers_count": 563
+    "watchers_count": 564
   },
   "neuhausi_canvasXpress": {
     "cran": true,
-    "stargazers_count": 312,
-    "open_issues_count": 27,
+    "stargazers_count": 313,
+    "open_issues_count": 28,
     "forks_count": 45,
-    "watchers_count": 312
+    "watchers_count": 313
   },
   "mrjoh3_c3": {
     "cran": true,
