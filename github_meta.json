@@ -315,7 +315,7 @@
     "watchers_count": 236
   },
   "smartinsightsfromdata_rpivotTable": {
-    "cran": false,
+    "cran": true,
     "stargazers_count": 289,
     "open_issues_count": 41,
     "forks_count": 73,
