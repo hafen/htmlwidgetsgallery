@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2677,
-    "open_issues_count": 759,
+    "open_issues_count": 760,
     "forks_count": 641,
     "watchers_count": 2677
   },
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 313,
-    "open_issues_count": 27,
+    "open_issues_count": 29,
     "forks_count": 45,
     "watchers_count": 313
   },
