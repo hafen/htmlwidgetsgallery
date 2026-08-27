@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2677,
+    "stargazers_count": 2676,
     "open_issues_count": 760,
     "forks_count": 641,
-    "watchers_count": 2677
+    "watchers_count": 2676
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -513,7 +513,7 @@
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
     "stargazers_count": 551,
-    "open_issues_count": 101,
+    "open_issues_count": 103,
     "forks_count": 94,
     "watchers_count": 551
   },
@@ -603,10 +603,10 @@
   },
   "kitware_candela": {
     "cran": false,
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 98,
     "forks_count": 28,
-    "watchers_count": 119
+    "watchers_count": 120
   },
   "AdeelK93_collapsibleTree": {
     "cran": true,
@@ -736,10 +736,10 @@
   },
   "SymbolixAU_mapdeck": {
     "cran": true,
-    "stargazers_count": 382,
+    "stargazers_count": 383,
     "open_issues_count": 79,
     "forks_count": 42,
-    "watchers_count": 382
+    "watchers_count": 383
   },
   "chengvt_MovingBubbles": {
     "cran": false,
