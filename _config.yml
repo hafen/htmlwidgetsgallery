@@ -8,6 +8,33 @@ sass:
 
 widgets:
   -
+    name: VanillaCalendar
+    thumbnail: images/ESCRI11-vanilla-calendar-r.png
+    url: https://escri11.github.io/vanilla-calendar-r/
+    jslibs: >
+       [Vanilla Calendar Pro](https://vanilla-calendar.pro/)
+    ghuser: ESCRI11
+    ghrepo: vanilla-calendar-r
+    tags: calendar,datepicker,date,daterange,time,timepicker,input,shiny
+    cran: true
+    release: 1.0.0
+    examples:
+      - https://escri11.github.io/vanilla-calendar-r/articles/VanillaCalendar.html
+      - https://escri11.github.io/vanilla-calendar-r/articles/shiny.html
+    ghauthor: ESCRI11
+    short: >
+      Choose single dates, multiple dates, date ranges and times, either as a
+      full calendar or as a popup picker attached to a text box.
+    description: >
+      A calendar and date picker for R, R Markdown and Shiny. Pick one date,
+      several, a range, or a date and a time; restrict what is selectable with
+      minimum and maximum dates, disabled weekdays or holidays; show one month
+      or several; and localise the month and weekday names to any language the
+      browser knows. In Shiny the selection arrives on the server as a Date
+      vector, and a proxy lets the app change a calendar that is already on the
+      page - its options, its theme, or whether a popup is open - without
+      re-rendering it and losing what the user has done.
+  -
     name: GWalkR
     thumbnail: images/Kanaries-GwalkR.png
     url: https://github.com/Kanaries/GWalkR
