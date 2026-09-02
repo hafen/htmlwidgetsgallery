@@ -86,8 +86,8 @@
   "rstudio_leaflet": {
     "cran": true,
     "stargazers_count": 840,
-    "open_issues_count": 320,
-    "forks_count": 505,
+    "open_issues_count": 321,
+    "forks_count": 506,
     "watchers_count": 840
   },
   "rstudio_DT": {
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 313,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 45,
     "watchers_count": 313
   },
