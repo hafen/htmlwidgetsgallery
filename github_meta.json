@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2677,
     "open_issues_count": 760,
-    "forks_count": 641,
+    "forks_count": 640,
     "watchers_count": 2677
   },
   "tutuchan_morrisjs": {
@@ -492,8 +492,8 @@
   "davidgohel_ggiraph": {
     "cran": true,
     "stargazers_count": 877,
-    "open_issues_count": 11,
-    "forks_count": 81,
+    "open_issues_count": 12,
+    "forks_count": 82,
     "watchers_count": 877
   },
   "SymbolixAU_googleway": {
@@ -786,7 +786,7 @@
   "dreamRs_apexcharter": {
     "cran": true,
     "stargazers_count": 150,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 14,
     "watchers_count": 150
   },
