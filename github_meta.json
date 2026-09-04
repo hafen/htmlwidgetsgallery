@@ -567,11 +567,7 @@
     "watchers_count": 564
   },
   "neuhausi_canvasXpress": {
-    "cran": true,
-    "stargazers_count": 313,
-    "open_issues_count": 28,
-    "forks_count": 45,
-    "watchers_count": 313
+    "stargazers_count": 0
   },
   "mrjoh3_c3": {
     "cran": true,
@@ -786,7 +782,7 @@
   "dreamRs_apexcharter": {
     "cran": true,
     "stargazers_count": 150,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 14,
     "watchers_count": 150
   },
