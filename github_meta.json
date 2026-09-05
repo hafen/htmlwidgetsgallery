@@ -120,10 +120,10 @@
   },
   "christophergandrud_networkD3": {
     "cran": true,
-    "stargazers_count": 660,
+    "stargazers_count": 659,
     "open_issues_count": 82,
     "forks_count": 259,
-    "watchers_count": 660
+    "watchers_count": 659
   },
   "bwlewis_rthreejs": {
     "cran": true,
@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2677,
     "open_issues_count": 760,
-    "forks_count": 640,
+    "forks_count": 641,
     "watchers_count": 2677
   },
   "tutuchan_morrisjs": {
@@ -567,7 +567,11 @@
     "watchers_count": 564
   },
   "neuhausi_canvasXpress": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 313,
+    "open_issues_count": 28,
+    "forks_count": 45,
+    "watchers_count": 313
   },
   "mrjoh3_c3": {
     "cran": true,
