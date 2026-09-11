@@ -59,7 +59,7 @@
     "cran": true,
     "stargazers_count": 86,
     "open_issues_count": 0,
-    "forks_count": 32,
+    "forks_count": 31,
     "watchers_count": 86
   },
   "metrumresearchgroup_slickR": {
@@ -624,10 +624,10 @@
   },
   "talgalili_heatmaply": {
     "cran": true,
-    "stargazers_count": 408,
+    "stargazers_count": 409,
     "open_issues_count": 39,
     "forks_count": 74,
-    "watchers_count": 408
+    "watchers_count": 409
   },
   "paulofelipe_D3plusR": {
     "cran": false,
