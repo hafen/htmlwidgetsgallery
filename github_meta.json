@@ -85,17 +85,17 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 840,
+    "stargazers_count": 841,
     "open_issues_count": 321,
     "forks_count": 505,
-    "watchers_count": 840
+    "watchers_count": 841
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 622,
+    "stargazers_count": 621,
     "open_issues_count": 207,
     "forks_count": 176,
-    "watchers_count": 622
+    "watchers_count": 621
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -190,10 +190,10 @@
   },
   "timelyportfolio_sortableR": {
     "cran": false,
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 20,
-    "forks_count": 33,
-    "watchers_count": 136
+    "forks_count": 32,
+    "watchers_count": 137
   },
   "timelyportfolio_parcoords": {
     "cran": false,
@@ -612,7 +612,7 @@
     "cran": true,
     "stargazers_count": 163,
     "open_issues_count": 37,
-    "forks_count": 42,
+    "forks_count": 41,
     "watchers_count": 163
   },
   "abossi_diffRgit": {
