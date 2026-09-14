@@ -645,10 +645,10 @@
   },
   "rte-antares-rpackage_leaflet_minicharts": {
     "cran": true,
-    "stargazers_count": 108,
+    "stargazers_count": 109,
     "open_issues_count": 26,
     "forks_count": 20,
-    "watchers_count": 108
+    "watchers_count": 109
   },
   "rte-antares-rpackage_manipulateWidget": {
     "cran": true,
