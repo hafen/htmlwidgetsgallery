@@ -309,10 +309,10 @@
   },
   "rstudio_d3heatmap": {
     "cran": false,
-    "stargazers_count": 236,
+    "stargazers_count": 237,
     "open_issues_count": 45,
     "forks_count": 93,
-    "watchers_count": 236
+    "watchers_count": 237
   },
   "smartinsightsfromdata_rpivotTable": {
     "cran": true,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2679,
-    "open_issues_count": 760,
+    "open_issues_count": 761,
     "forks_count": 641,
     "watchers_count": 2679
   },
