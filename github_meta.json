@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1742,
+    "stargazers_count": 1743,
     "open_issues_count": 172,
     "forks_count": 244,
-    "watchers_count": 1742
+    "watchers_count": 1743
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2679,
+    "stargazers_count": 2681,
     "open_issues_count": 761,
     "forks_count": 641,
-    "watchers_count": 2679
+    "watchers_count": 2681
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 313,
-    "open_issues_count": 28,
+    "open_issues_count": 30,
     "forks_count": 45,
     "watchers_count": 313
   },
