@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 552,
+    "stargazers_count": 554,
     "open_issues_count": 103,
-    "forks_count": 94,
-    "watchers_count": 552
+    "forks_count": 95,
+    "watchers_count": 554
   },
   "cran_qrage": {
     "cran": false,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 313,
-    "open_issues_count": 30,
+    "open_issues_count": 29,
     "forks_count": 45,
     "watchers_count": 313
   },
