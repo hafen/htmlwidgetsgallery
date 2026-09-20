@@ -136,7 +136,7 @@
     "cran": true,
     "stargazers_count": 1743,
     "open_issues_count": 172,
-    "forks_count": 244,
+    "forks_count": 243,
     "watchers_count": 1743
   },
   "jpmarindiaz_sigmaGraph": {
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 629,
+    "stargazers_count": 630,
     "open_issues_count": 179,
     "forks_count": 89,
-    "watchers_count": 629
+    "watchers_count": 630
   },
   "helgasoft_echarty": {
     "cran": true,
