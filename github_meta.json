@@ -506,7 +506,7 @@
   "jbkunst_highcharter": {
     "cran": true,
     "stargazers_count": 739,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "forks_count": 153,
     "watchers_count": 739
   },
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 313,
-    "open_issues_count": 28,
+    "open_issues_count": 26,
     "forks_count": 45,
     "watchers_count": 313
   },
