@@ -589,10 +589,10 @@
   },
   "daattali_timevis": {
     "cran": true,
-    "stargazers_count": 684,
+    "stargazers_count": 685,
     "open_issues_count": 4,
     "forks_count": 154,
-    "watchers_count": 684
+    "watchers_count": 685
   },
   "lchiffon_wordcloud2": {
     "cran": true,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 632,
+    "stargazers_count": 633,
     "open_issues_count": 179,
-    "forks_count": 89,
-    "watchers_count": 632
+    "forks_count": 88,
+    "watchers_count": 633
   },
   "helgasoft_echarty": {
     "cran": true,
