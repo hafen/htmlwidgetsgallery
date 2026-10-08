@@ -514,7 +514,7 @@
     "cran": true,
     "stargazers_count": 554,
     "open_issues_count": 103,
-    "forks_count": 95,
+    "forks_count": 96,
     "watchers_count": 554
   },
   "cran_qrage": {
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 317,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 45,
     "watchers_count": 317
   },
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 633,
-    "open_issues_count": 180,
+    "open_issues_count": 178,
     "forks_count": 88,
     "watchers_count": 633
   },
