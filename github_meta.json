@@ -100,7 +100,7 @@
   "rstudio_dygraphs": {
     "cran": true,
     "stargazers_count": 368,
-    "open_issues_count": 122,
+    "open_issues_count": 121,
     "forks_count": 188,
     "watchers_count": 368
   },
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2684,
+    "stargazers_count": 2685,
     "open_issues_count": 762,
     "forks_count": 640,
-    "watchers_count": 2684
+    "watchers_count": 2685
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -786,7 +786,7 @@
   "dreamRs_apexcharter": {
     "cran": true,
     "stargazers_count": 151,
-    "open_issues_count": 12,
+    "open_issues_count": 14,
     "forks_count": 14,
     "watchers_count": 151
   },
