@@ -99,10 +99,10 @@
   },
   "rstudio_dygraphs": {
     "cran": true,
-    "stargazers_count": 368,
+    "stargazers_count": 369,
     "open_issues_count": 121,
     "forks_count": 188,
-    "watchers_count": 368
+    "watchers_count": 369
   },
   "hrbrmstr_metricsgraphics": {
     "cran": false,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1750,
+    "stargazers_count": 1749,
     "open_issues_count": 172,
     "forks_count": 244,
-    "watchers_count": 1750
+    "watchers_count": 1749
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 413,
+    "stargazers_count": 414,
     "open_issues_count": 49,
     "forks_count": 106,
-    "watchers_count": 413
+    "watchers_count": 414
   },
   "kitware_candela": {
     "cran": false,
