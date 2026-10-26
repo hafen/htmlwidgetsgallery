@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 558,
+    "stargazers_count": 557,
     "open_issues_count": 14,
     "forks_count": 56,
-    "watchers_count": 558
+    "watchers_count": 557
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 317,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 45,
     "watchers_count": 317
   },
