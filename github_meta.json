@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 555,
+    "stargazers_count": 556,
     "open_issues_count": 14,
     "forks_count": 57,
-    "watchers_count": 555
+    "watchers_count": 556
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -127,10 +127,10 @@
   },
   "bwlewis_rthreejs": {
     "cran": true,
-    "stargazers_count": 308,
+    "stargazers_count": 309,
     "open_issues_count": 37,
     "forks_count": 57,
-    "watchers_count": 308
+    "watchers_count": 309
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2683,
+    "stargazers_count": 2684,
     "open_issues_count": 762,
     "forks_count": 641,
-    "watchers_count": 2683
+    "watchers_count": 2684
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 416,
+    "stargazers_count": 417,
     "open_issues_count": 49,
     "forks_count": 106,
-    "watchers_count": 416
+    "watchers_count": 417
   },
   "kitware_candela": {
     "cran": false,
