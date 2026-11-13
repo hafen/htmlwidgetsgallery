@@ -415,8 +415,8 @@
   "timelyportfolio_sunburstR": {
     "cran": true,
     "stargazers_count": 217,
-    "open_issues_count": 42,
-    "forks_count": 121,
+    "open_issues_count": 43,
+    "forks_count": 122,
     "watchers_count": 217
   },
   "timelyportfolio_d3hiveR": {
@@ -513,7 +513,7 @@
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
     "stargazers_count": 554,
-    "open_issues_count": 104,
+    "open_issues_count": 103,
     "forks_count": 97,
     "watchers_count": 554
   },
@@ -596,10 +596,10 @@
   },
   "lchiffon_wordcloud2": {
     "cran": true,
-    "stargazers_count": 417,
+    "stargazers_count": 416,
     "open_issues_count": 49,
     "forks_count": 106,
-    "watchers_count": 417
+    "watchers_count": 416
   },
   "kitware_candela": {
     "cran": false,
