@@ -85,16 +85,16 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 843,
+    "stargazers_count": 844,
     "open_issues_count": 322,
     "forks_count": 503,
-    "watchers_count": 843
+    "watchers_count": 844
   },
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 621,
-    "open_issues_count": 207,
-    "forks_count": 177,
+    "open_issues_count": 208,
+    "forks_count": 178,
     "watchers_count": 621
   },
   "rstudio_dygraphs": {
