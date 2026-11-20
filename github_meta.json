@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 556,
+    "stargazers_count": 554,
     "open_issues_count": 14,
     "forks_count": 57,
-    "watchers_count": 556
+    "watchers_count": 554
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1748,
+    "stargazers_count": 1749,
     "open_issues_count": 172,
     "forks_count": 244,
-    "watchers_count": 1748
+    "watchers_count": 1749
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
