@@ -92,10 +92,10 @@
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 620,
+    "stargazers_count": 621,
     "open_issues_count": 210,
     "forks_count": 179,
-    "watchers_count": 620
+    "watchers_count": 621
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2685,
-    "open_issues_count": 763,
-    "forks_count": 641,
-    "watchers_count": 2685
+    "stargazers_count": 2686,
+    "open_issues_count": 764,
+    "forks_count": 642,
+    "watchers_count": 2686
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -493,7 +493,7 @@
     "cran": true,
     "stargazers_count": 882,
     "open_issues_count": 5,
-    "forks_count": 82,
+    "forks_count": 81,
     "watchers_count": 882
   },
   "SymbolixAU_googleway": {
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 554,
+    "stargazers_count": 555,
     "open_issues_count": 103,
     "forks_count": 97,
-    "watchers_count": 554
+    "watchers_count": 555
   },
   "cran_qrage": {
     "cran": false,
@@ -561,10 +561,10 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 561,
+    "stargazers_count": 562,
     "open_issues_count": 156,
     "forks_count": 125,
-    "watchers_count": 561
+    "watchers_count": 562
   },
   "neuhausi_canvasXpress": {
     "cran": true,
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 632,
-    "open_issues_count": 172,
+    "open_issues_count": 171,
     "forks_count": 88,
     "watchers_count": 632
   },
@@ -771,10 +771,10 @@
   },
   "athospd_wavesurfer": {
     "cran": false,
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 2,
     "forks_count": 13,
-    "watchers_count": 73
+    "watchers_count": 74
   },
   "erblast_parcats": {
     "cran": true,
@@ -834,10 +834,10 @@
   },
   "ropensci_iheatmapr": {
     "cran": true,
-    "stargazers_count": 270,
+    "stargazers_count": 271,
     "open_issues_count": 50,
     "forks_count": 36,
-    "watchers_count": 270
+    "watchers_count": 271
   },
   "kmaheshkulkarni_corrly": {
     "cran": false,
