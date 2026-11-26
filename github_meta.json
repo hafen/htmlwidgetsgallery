@@ -85,10 +85,10 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 844,
+    "stargazers_count": 845,
     "open_issues_count": 322,
     "forks_count": 503,
-    "watchers_count": 844
+    "watchers_count": 845
   },
   "rstudio_DT": {
     "cran": true,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2686,
-    "open_issues_count": 764,
+    "open_issues_count": 765,
     "forks_count": 642,
     "watchers_count": 2686
   },
@@ -554,10 +554,10 @@
   },
   "mtennekes_tmap": {
     "cran": true,
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 2,
-    "watchers_count": 15
+    "watchers_count": 16
   },
   "datastorm-open_visNetwork": {
     "cran": true,
@@ -569,7 +569,7 @@
   "neuhausi_canvasXpress": {
     "cran": true,
     "stargazers_count": 318,
-    "open_issues_count": 6,
+    "open_issues_count": 2,
     "forks_count": 45,
     "watchers_count": 318
   },
